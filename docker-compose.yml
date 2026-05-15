@@ -44,6 +44,8 @@ services:
     restart: unless-stopped
     env_file:
       - .env
+    environment:
+      FRESH_START: ${FRESH_START:-0}
     volumes:
       - .:/app
     working_dir: /app/web

@@ -44,6 +44,53 @@ Realtime flow:
 5. The worker publishes match events.
 6. The relay forwards those events to websocket groups.
 
+## Architecture diagram
+
+```mermaid
+flowchart LR
+	FE[React + Vite Frontend] -->|websocket events| DJ[Django + Channels]
+	DJ -->|start game + player input messages| MQ[RabbitMQ]
+	MQ -->|consume commands| GW[game_worker]
+	GW -->|one GameThread per match| GT[Authoritative match loop]
+	GT -->|game events| MQ
+	MQ -->|consume events| RL[relay service]
+	RL -->|group fan-out| DJ
+	DJ --> DB[(PostgreSQL or SQLite)]
+	DJ --> REDIS[(Redis channel layer)]
+```
+
+## Match sequence diagram
+
+```mermaid
+sequenceDiagram
+	participant P1 as Player 1 Browser
+	participant P2 as Player 2 Browser
+	participant DJ as Django + Channels
+	participant MQ as RabbitMQ
+	participant GW as game_worker
+	participant RL as relay
+
+	P1->>DJ: create lobby
+	P2->>DJ: join lobby
+	P1->>DJ: start_game
+	DJ->>MQ: publish start command
+	MQ->>GW: deliver start command
+	GW->>MQ: publish round prompt
+	MQ->>RL: relay consumes worker event
+	RL->>DJ: send websocket event
+	DJ->>P1: show question / selection
+	DJ->>P2: show question / selection
+	P1->>DJ: submit answer / select territory
+	P2->>DJ: submit answer / select territory
+	DJ->>MQ: publish player inputs
+	MQ->>GW: deliver player inputs
+	GW->>MQ: publish result / next state
+	MQ->>RL: consume result event
+	RL->>DJ: broadcast result
+	DJ->>P1: update board / final stand
+	DJ->>P2: update board / final stand
+```
+
 ## Gameplay rules
 
 Each match follows this sequence:
@@ -121,6 +168,46 @@ Useful commands:
 docker compose ps
 docker compose logs web game_worker matchmaker relay frontend --tail=100
 docker compose down --remove-orphans
+```
+
+## Fresh start mode
+
+Guest players and lobbies are intentionally persistent until you clear them. For demos, local testing, or recorded runs, the web container supports a one-shot fresh-start flag on boot.
+
+Normal startup:
+
+```bash
+docker compose up --build
+```
+
+Fresh start startup:
+
+```bash
+FRESH_START=1 docker compose up --build
+```
+
+On Windows PowerShell:
+
+```powershell
+$env:FRESH_START=1
+docker compose up --build
+Remove-Item Env:FRESH_START
+```
+
+What gets cleared:
+
+- all matches
+- all lobbies
+- all guest players
+
+The reset runs once per web-container boot, after migrations and before Gunicorn/Daphne start.
+
+You can also run the reset manually:
+
+```bash
+docker compose exec web python manage.py reset_demo_state # clears matches, lobbies and guest players
+docker compose exec web python manage.py reset_demo_state --dry-run # see what would get deleted
+docker compose exec web python manage.py reset_demo_state --keep-guests # do not delete guest players
 ```
 
 ## Local checks without Docker
