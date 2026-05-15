@@ -187,9 +187,9 @@ class MatchmakingConsumer(GuestPlayerMixin, AsyncJsonWebsocketConsumer):
         if action == "start_game":
             await self._handle_start_game()
             return
-        if action == "kill_all_lobbies":
-            await self._handle_kill_all_lobbies()
-            return
+        # if action == "kill_all_lobbies":
+        #     await self._handle_kill_all_lobbies()
+        #     return
         if action == "reset_identity":
             await self._handle_reset_identity()
             return
