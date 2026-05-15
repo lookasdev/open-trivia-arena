@@ -1,0 +1,121 @@
+Difficulty,Type,Question,Correct Answer,Wrong 1,Wrong 2,Wrong 3
+hard,multiple,"In the Harry Potter universe, who does Draco Malfoy end up marrying?",Astoria Greengrass,Pansy Parkinson,Millicent Bulstrode,Hermione Granger
+easy,boolean,The book 1984 was published in 1949.,True,False,,
+easy,boolean,"""Elementary, my dear Watson"" is a phrase that is never truly said within the Conan Doyle books of Sherlock Holmes.",True,False,,
+easy,multiple,"Who wrote ""A Tale of Two Cities""?",Charles Dickens,Charles Darwin,Mark Twain,Roald Dahl
+easy,boolean,"The Harry Potter series of books, combined, are over 1,000,000 words in length.",True,False,,
+medium,multiple,What book series published by Jim Butcher follows a wizard in modern day Chicago?,The Dresden Files,A Hat in Time,The Cinder Spires,My Life as a Teenage Wizard
+medium,estimate,"According to The Hitchhiker's Guide to the Galaxy book, the answer to life, the universe and everything else is...",42,Loving everyone around you,Chocolate,Death
+medium,boolean,"Originally, the character Charlie from Charlie and the Chocolate Factory was going to be black.",True,False,,
+hard,multiple,Which classic horror character killed Elizabeth Lavenza?,Frankenstein's Monster,Count Dracula,Werewolf,The Creature from the Black Lagoon
+medium,multiple,"In Romance of the Three Kingdoms, who was not a member of the Peach Garden Oath?",Zhao Yun,Liu Bei,Guan Yu,Zhang Fei
+easy,boolean,"Shub-Niggurath is a creature that was created by J. R. R. Tolkien in his novel ""The Lord of The Rings"".",False,True,,
+medium,multiple,"In the Lord of the Rings, who is the father of the dwarf Gimli?",Gloin,Thorin Oakenshield,Bombur,Dwalin
+hard,boolean,"Harry Potter was born on July 31st, 1980.",True,False,,
+easy,multiple,"Which classic book opens with the line ""Call me Ishmael""?",Moby Dick,A Tale of Two Cities,Kidnapped,Wuthering Heights
+hard,multiple,In which classic novel is there a character named Homer Simpson?,The Day of the Locust,Catch-22,Of Mice and Men,A Separate Peace
+easy,multiple,Which famous book is sub-titled 'The Modern Prometheus'?,Frankenstein,Dracula,The Strange Case of Dr. Jekyll and Mr. Hyde ,The Legend of Sleepy Hollow
+medium,multiple,Which of these books was NOT written by the Czech author Karel Čapek?,Journey to the Center of the Earth,The War with the Newts,R.U.R. (Rossum's Universal Robots),"Dashenka, or the Life of a Puppy"
+hard,multiple,Which fictional English county was the setting for Thomas Hardy's novels?,Wessex,Barsetshire,Fulchester,Ambridge
+medium,multiple,"What was the last message of the Dolphins in ""The Hitchhiker's Guide to the Galaxy""?","""So long, and thanks for all the fish.""","""The answer is 42.""","""Land of the brave.""","""Goodbye cruel world!"""
+medium,estimate,"In the novel ""Lord of the Rings"", how many rings of power were given to the race of man?",9,5,11,13
+medium,multiple,"What is the name of Eragon's dragon in ""Eragon""?",Saphira,Glaedr,Thorn,Arya
+hard,multiple,"Which author and poet famously wrote the line, ""The female of the species is more deadly than the male""?",Rudyard Kipling,Edgar Allan Poe,William Shakespeare,William Wordsworth
+medium,multiple,"The novel ""Of Mice And Men"" was written by what author? ",John Steinbeck ,George Orwell,Mark Twain ,Harper Lee
+hard,multiple,"In the ""Harry Potter"" series, what is Headmaster Dumbledore's full name?",Albus Percival Wulfric Brian Dumbledore,Albus Valum Jetta Mobius Dumbledore,Albus James Lunae Otto Dumbledore,Albus Valencium Horatio Kul Dumbledore
+medium,multiple,"What is the name of the gang that Ponyboy is a part of in the book, The Outsiders?",The Greasers,The Outsiders,The Mafia,The Socs
+medium,multiple,"The book ""The Little Prince"" was written by...",Antoine de Saint-Exupéry,Miguel de Cervantes Saavedra,Jane Austen,F. Scott Fitzgerald
+hard,multiple,"In the Magic: The Gathering universe, the Fallen Empires expansion takes place on which continent?",Sarpadia,Otaria,Terisiare,Shiv
+medium,multiple,"What was the pen name of novelist, Mary Ann Evans?",George Eliot,George Orwell,George Bernard Shaw,George Saunders
+hard,multiple,"In the book ""The Martian"", how long was Mark Watney trapped on Mars (in Sols)?",549 Days,765 Days,401 Days,324 Days
+medium,multiple,"In the ""The Hobbit"", who kills Smaug?",Bard,Bilbo Baggins,Gandalf the Grey,Frodo
+easy,multiple,Who was the original author of Frankenstein?,Mary Shelley,Edgar Allan Poe,Bram Stoker,H. P. Lovecraft
+medium,multiple,"By what nickname is Jack Dawkins known in the Charles Dickens novel, 'Oliver Twist'?",The Artful Dodger,Fagin,Bull’s-eye,Mr. Fang
+easy,multiple,Which of the following is the world's best-selling book?,The Lord of the Rings,The Little Prince,Harry Potter and the Philosopher's Stone,The Da Vinci Code
+medium,multiple,"In Rudyard Kipling's ""The Jungle Book"", what type of snake was Kaa?",Python,Cobra,Anaconda,Viper
+medium,multiple,Which of these book series is by James Patterson?,Maximum Ride,Harry Potter,The Legend of Xanth,The Bartemaeus Trilogy
+medium,multiple,Which novel by John Grisham was conceived on a road trip to Florida while thinking about stolen books with his wife?,Camino Island,Rogue Lawyer,Gray Mountain,The Litigators
+hard,multiple,Which of the following is NOT a work done by Shakespeare?,Trial of Temperance,Measure For Measure,Titus Andronicus,Cymbeline
+hard,boolean,"In Harry Potter and the Deathly Hallows, Hermione destroyed the fourth Horcrux by stabbing it with the Sword of Gryffindor.",False,True,,
+medium,multiple,"In Alice in Wonderland, what is the name of Alice's kitten?",Dinah,Oscar,Heath,Smokey
+medium,multiple,"Who wrote the ""A Song of Ice And Fire"" fantasy novel series?",George R. R. Martin,George Lucas,George Orwell,George Eliot
+hard,multiple,"In the Magic: The Gathering universe,  the Antiquities, Ice Age, and Alliances expansions take place on which continent?",Terisiare,Aerona,Shiv,Jamuraa
+hard,multiple,"In Margaret Atwood's ""The Handmaid's Tale"", what is Offred's real name is implied to be?",June,August,April,May
+medium,multiple,"The book ""Fahrenheit 451"" was written by whom?",Ray Bradbury,R. L. Stine,Wolfgang Amadeus Mozart,Stephen King
+easy,multiple,What is the name of the three headed dog in Harry Potter and the Sorcerer's Stone?,Fluffy,Spike,Poofy,Spot
+easy,multiple,"This play is generally considered to be the most adaptable of Shakespeare’s works, and follows two “star-crossed lovers”.",Romeo and Juliet,Hamlet,The Tempest,King Lear
+medium,multiple,Which American author was also a budding travel writer and wrote of his adventures with his dog Charley?,John Steinbeck,F. Scott Fitzgerald,Ernest Hemingway,William Faulkner
+hard,multiple,What is Hermione Granger's middle name?,Jean,Jane,Emma,Jo
+easy,multiple,What is the name of Sherlock Holmes's brother?,Mycroft Holmes,Mederi Holmes,Martin Holmes,Herbie Hancock Holmes
+easy,multiple,Who wrote the novel 'Fear And Loathing In Las Vegas'?,Hunter S. Thompson,F. Scott Fitzgerald,Henry Miller,William S. Burroughs
+medium,multiple,"Which poet wrote ""The Ballad of Reading Gaol"" whilst imprisoned for being gay?",Oscar Wilde,Lord Byron,William Blake,Wilfred Owen
+medium,multiple,"What is the make and model of the tour vehicles in ""Jurassic Park"" (1990)?",1989 Toyota Land Cruiser,1989 Jeep Wrangler YJ Sahar,1989 Ford Explorer XLT,Mercedes M-Class
+easy,multiple,Under what pseudonym did Stephen King publish five novels between 1977 and 1984?,Richard Bachman,J. D. Robb,Mark Twain,Lewis Carroll
+easy,multiple,"Which famous spy novelist wrote the childrens' story ""Chitty-Chitty-Bang-Bang""?",Ian Fleming,Joseph Conrad,John Buchan,Graham Greene
+easy,estimate,How many Harry Potter books are there?,7,8,5,6
+medium,multiple,"In The Lies of Locke Lamora, what title is Locke known by in the criminal world?",The Thorn of Camorr,The Rose of the Marrows,The Thorn of Emberlain,The Thorn of the Marrows
+easy,multiple,In what Harry Potter book was a Horcrux first encountered?,The Chamber of Secrets,The Half-Blood Prince,The Goblet of Fire,The Deathly Hallows
+hard,multiple,Which of these does Charlie NOT read in The Perks of Being a Wallflower?,The Grapes of Wrath,Hamlet,The Great Gatsby,Peter Pan
+hard,multiple,What is Ron Weasley's middle name?,Bilius,Arthur,John,Dominic
+easy,multiple,"Who is the author of the ""A Song of Ice and Fire"" book series, starting with ""A Game of Thrones""?",George R. R. Martin,Brandon Sanderson,J. R. R. Tolkien,Steven Erikson
+hard,multiple,"In the Magic: The Gathering universe, which plane does the Homelands expansion take place in?",Ulgrotha,Bant,Llanowar,Tazeem
+medium,multiple,"In ""The Lord of the Rings,"" who is the owner of Asfaloth, the horse which brings Frodo to Rivendell?",Glorfindel,Arwen,Aragorn,Haldir
+hard,multiple,"Who wrote the novel ""Moby-Dick""?",Herman Melville,William Golding,William Shakespeare,J. R. R. Tolkien
+medium,multiple,Which of the following authors was not born in England? ,Arthur Conan Doyle,Graham Greene,H G Wells,Arthur C Clarke
+hard,multiple,"In The Lies Of Locke Lamora, what does ""Lamora"" mean in Throne Therin?",Shadow,Thievery,Justice,Chaos
+easy,estimate,"George Orwell wrote this book, which is often considered a statement on government oversight.",1984,The Old Man and the Sea,Catcher and the Rye,To Kill a Mockingbird
+medium,multiple,"What was the name of the Mysterious Island, in Jules Verne's ""The Mysterious Island""?",Lincoln Island,Vulcania Island,Prometheus Island,Neptune Island
+easy,boolean,"""Green Eggs and Ham"" consists of only 50 different words.",True,False,,
+hard,multiple,What is the name of the town in which Lily and James Potter are buried?,Godric's Hollow,Hogsmeade,Ottery St. Catchpole,Little Hangleton
+easy,multiple,"Who wrote the young adult novel ""The Fault in Our Stars""?",John Green,Stephenie Meyer,Suzanne Collins,Stephen Chbosky
+medium,multiple,"Where does Stephen King's ""IT"" take place?","Derry, Maine","Rockford, Illinois","Innsmouth, Massachusetts","Kingsland, Texas"
+easy,multiple,"Who wrote ""The Scarlet Letter"", published in 1850?",Nathaniel Hawthorne,Washington Irving,James Fenimore Cooper,Catherine Maria Sedgwick
+easy,multiple,"In the novel 1984, written by George Orwell, what is the name of the totalitarian regime that controls Oceania?",INGSOC,Neo-Bolshevism,Obliteration of the Self,Earth Alliance
+medium,multiple,What is the name of the author of book series 'Percy Jackson'?,Rick Riordan,J.K. Rowling,Sandra Bullock ,Roald Dahl
+medium,multiple,"In the year 1818, novelist Mary Shelly is credited with writing a fiction novel and creating this infamous character.",Frankenstein's monster,Dracula,The Thing,The Invisible Man
+medium,multiple,"In ""Little Women"", which of the March sisters married Laurie?",Amy,Beth,Jo,Meg
+medium,multiple,What position does Harry Potter play in Quidditch?,Seeker,Beater,Chaser,Keeper
+easy,multiple,"What was Sir Handel's original name in ""The Railway Series"" and it's animated counterpart ""Thomas and Friends?""",Falcon,Eagle,Kyte,Swallow
+medium,multiple,Mary Shelley is the author of what classic horror story?,Frankenstein,Dracula,Strange Case of Dr Jekyll and Mr Hyde,The Legend of Sleepy Hollow
+medium,multiple,"In the children's book series, where is Paddington Bear originally from?",Peru,India,Iceland,Canada
+medium,multiple,"J.K. Rowling completed ""Harry Potter and the Deathly Hallows"" in which hotel in Edinburgh, Scotland?",The Balmoral,The Dunstane Hotel,Hotel Novotel,Sheraton Grand Hotel & Spa
+hard,multiple,"According to Bram Stoker's novel, in which British coastal town did Dracula come ashore?",Whitby,Scarborough,Brighton,Portsmouth
+easy,multiple,"What was the name of Captain Nemo's submarine in ""20,000 Leagues Under the Sea""?",The Nautilus,The Neptune,The Poseidon  ,The Atlantis
+easy,multiple,What's the second book in George R. R. Martin's 'A Song of Ice and Fire' series?,A Clash of Kings,A Dance with Dragons,A Storm of Swords,A Feast for Crows
+medium,multiple,"In Michael Crichton's novel ""Jurassic Park"", John Hammond meets his demise at the claws of which dinosaur?",Procompsognathus,Dilophosaurus,Tyrannosaurus Rex,Velociraptor
+medium,multiple,"The title of Adolf Hitler's autobiography ""Mein Kampf"" is what when translated to English?",My Struggle,My Hatred,My Sadness,My Desire
+easy,boolean,Stephen Chbosky wrote the book 'The Perks of Being A Wallflower'.,True,False,,
+medium,estimate,How many books are in the Chronicles of Narnia series?,7,6,8,5
+medium,multiple,Which Russian author wrote the epic novel War and Peace?,Leo Tolstoy,Fyodor Dostoyevsky,Alexander Pushkin,Vladimir Nabokov
+medium,multiple,What is the fourth book of the Old Testament?,Numbers,Genesis,Exodus,Leviticus
+hard,multiple,"In which classic novel by Mark Twain did a beggar and Prince of Wales switch clothes, and learn about social class inequality?",The Prince and the Pauper,Hamlet,Wealthy Boy and the Schmuck,A Modern Twain Story
+medium,multiple,"George Orwell's novel ""Animal Farm"" was inspired by which historical event?",The rise of communism and Stalin's policies.,The rise of Imperial Japan and Pacific control.,The rise of fascism and Hitler's influences.,Franklin D. Roosevelt's New Deal and its effects on The Great Depression.
+easy,multiple,"Who was the author of the 1954 novel, ""Lord of the Flies""?",William Golding,Stephen King,F. Scott Fitzgerald,Hunter Fox
+easy,multiple,Which is NOT a book in the Harry Potter Series?,The House Elf,The Chamber of Secrets,The Prisoner of Azkaban,The Deathly Hallows
+easy,multiple,What was the first ever entry written for the SCP Foundation collaborative writing project?,SCP-173,SCP-001,SCP-999,SCP-1459
+hard,multiple,"Where does the book ""The Silence of the Lambs"" get its title from?",The main character's trauma in childhood,The relation it has with killing the innocents,The villain's favourite meal,The voice of innocent people being shut by the powerful
+medium,multiple,"Who is the protagonist of the book: ""The Catcher in the Rye"" by J.D. Salinger",Holden Caulfield,Holden David,Jerome Caulfield,Jerome David
+easy,multiple,What is the name of the fourth book in Stephen King's The Dark Tower series?,Wizard and Glass,Wolves of the Calla,Hearts in Atlantis,The Dark Half
+easy,boolean,"The ""Berenstein Bears"" is the correct spelling of the educational children's book series' name.",False,True,,
+easy,multiple,"Who wrote ""Harry Potter""?",J.K. Rowling,J.R.R. Tolkien,Terry Pratchett,Daniel Radcliffe
+hard,multiple,"Which author co-wrote ""The Communist Manifesto"" alongside Karl Marx?",Friedrich Engels,Robert Owen,Alexander Kerensky,Paul Lafargue
+easy,multiple,What is the name of the protagonist of J.D. Salinger's novel Catcher in the Rye?,Holden Caulfield,Fletcher Christian,Jay Gatsby,Randall Flagg
+medium,multiple,By what name was the author Eric Blair better known?,George Orwell,Aldous Huxley,Ernest Hemingway,Ray Bradbury
+medium,multiple,"Which of the following was the author of ""Username Evie""?",Joe Sugg,Zoe Sugg,Joe Weller,Alfie Deyes
+hard,multiple,"In the book series ""Odd Thomas"", Danny Jessup has what genetic disease? ", Osteogenesis Imperfecta,Spinocerebellar ataxia,Adrenoleukodystrophy,Cystic Fibrosis
+medium,multiple,"In Terry Pratchett's Discworld novel 'Wyrd Sisters', which of these are not one of the three main witches?",Winny Hathersham,Granny Weatherwax,Nanny Ogg,Magrat Garlick
+medium,multiple,"In the ""Harry Potter"" novels, what must a Hogwarts student do to enter the Ravenclaw Common Room?",Answer a riddle,Rhythmically tap barrels with a wand,Speak a password,Knock in sequence
+easy,multiple,What is the title of the first Sherlock Holmes book by Arthur Conan Doyle?,A Study in Scarlet,The Sign of the Four,A Case of Identity,The Doings of Raffles Haw
+easy,multiple,American illustrator and writer Maurice Sendak is most well-known for writing which children's book?,Where The Wild Things Are,The Neverending Story,Charlie and the Chocolate Factory,The Cat in the Hat
+hard,multiple,"In the Harry Potter universe, what is Cornelius Fudge's middle name?",Oswald,James,Harold,Christopher
+medium,multiple,"Who is the author of the series ""Malazan Book of the Fallen""?",Steven Erikson,Ian Cameron Esslemont,George R. R. Martin,J. R. R. Tolkien
+hard,multiple,"In the Beatrix Potter books, what type of animal is Tommy Brock?",Badger,Fox,Frog,Rabbit
+easy,multiple,What's Harry Potter's dad's name?,James Potter,Joey Potter,Frank Potter,Hairy Potter Sr.
+easy,boolean,Dracula is destroyed by contact with sunlight,False,True,,
+medium,multiple,"Who wrote the children's story ""The Little Match Girl""?",Hans Christian Andersen,Charles Dickens,Lewis Carroll,Oscar Wilde
+hard,multiple,Abel Magwitch is a character from which Charles Dickens novel?,Great Expectations,The Pickwick Papers,Nicholas Nickleby,Oliver Twist
+hard,multiple,"The novel ""Jane Eyre"" was written by what author? ",Charlotte Brontë,Emily Brontë,Jane Austen,Louisa May Alcott
+medium,multiple,"Who wrote the 1967 horror novel ""Rosemary's Baby""?",Ira Levin,Stephen King,Robert Bloch,Mary Shelley
+medium,multiple,Which of the following is not a work authored by Fyodor Dostoevsky?,Anna Karenina,Notes from the Underground,Crime and Punishment,The Brothers Karamazov
+medium,multiple,"Of the following, which Stephen King novel was published earliest?","""Cujo""","""Misery""","""Christine""","""IT"""
+easy,multiple,"""Green Eggs And Ham"" is a book by which author?",Dr. Seuss,Beatrix Potter,Roald Dahl,A.A. Milne

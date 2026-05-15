@@ -1,0 +1,11 @@
+.git
+.venv
+.venv-wsl
+__pycache__
+*.pyc
+db.sqlite3
+frontend/node_modules
+frontend/dist
+staticfiles
+media
+postgres_data

@@ -1,0 +1,54 @@
+Difficulty,Type,Question,Correct Answer,Wrong 1,Wrong 2,Wrong 3
+medium,multiple,Which famous New York Yankees outfielder did Marilyn Monroe marry?,Joe DiMaggio,Tino Martinez,Babe Ruth,Mason Williams
+medium,multiple,"Which radio personality calls himself ""The King of All Media""?",Howard Stern,Rush Limbaugh,Pete Tong,Ryan Seacrest
+medium,estimate,What year did radio icon Howard Stern start a job at radio station WNBC?,1982,1985,1984,1995
+hard,multiple,"What was the religion of famous singer ""Freddie Mercury""?",Zoroastrianism,Paganism,Ashurism,Judaism
+medium,multiple,"Who is ""James Rolfe"" better known as?",The Angry Video Game Nerd,TotalBiscuit,PeanutButterGamer,PewDiePie
+medium,multiple,"In 2014, this new top 100 rapper who featured in ""Computers"" and ""Body Dance"" was arrested in a NYPD sting for murder.",Bobby Shmurda,DJ Snake,Swae Lee,Young Thug
+hard,boolean,Lady Gaga's real name is Stefani Joanne Angelina Germanotta.,True,False,,
+medium,multiple,In which situation was musician John Lennon assassinated?,Attempting to enter the Dakota Apartments building,During an impromptu walk through Central Park,Signing an autograph outside the Record Plant studio,Waiting outside a music venue in Manhattan following a gig
+medium,multiple,"Before voicing Pearl in Steven Universe, Deedee Magno Hall was part of which American band?",The Party,The Weather Girls,The Pussycat Dolls,The Cheetah Girls
+easy,multiple,Which actress married Michael Douglas in 2000?,Catherine Zeta-Jones,Ruth Jones,Pam Ferris,Sara Sugarman
+hard,estimate,Gabe Newell was born in which year?,1962 ,1970,1960,1972
+easy,multiple,By which name is Ramon Estevez better known as?,Martin Sheen,Charlie Sheen,Ramon Sheen,Emilio Estevez
+medium,multiple,"What is the real name of ""moot"", founder of the imageboard 4chan?",Christopher Poole,Mark Zuckerberg,Allison Harvard,Catie Wayne
+medium,multiple,Which actress's real name was Frances Ethel Gumm?,Judy Garland,Doris Day,Julie Andrews,Marilyn Monroe
+medium,multiple,What was the name of Marilyn Monroe's first husband?,James Dougherty,Joe Dimaggio,Kirk Douglas,Arthur Miller
+medium,estimate,What year was O.J. Simpson aquitted of his murder charges?,1995,1992,1996,1991
+medium,multiple,When was Elvis Presley born?,"January 8, 1935","December 13, 1931","July 18, 1940","April 17, 1938"
+hard,multiple,How tall is Tom Cruise?,5′ 7″,5′ 9″,5′ 4″,5′ 5″
+medium,boolean,"Terry Gilliam is the only American member of the comedy troupe ""Monty Python.""",True,False,,
+medium,multiple,What is Doug Walker's YouTube name?,The Nostalgia Critic,The Angry Video Game Nerd,AngryJoeShow,The Cinema Snob
+medium,multiple,What caused Jake Lloyd who played Anakin Skywalker in The Phantom Menace to quit acting?,Bullying,Criminal Record,Nomination for Worst Actor,Racism
+medium,multiple,"Which TV chef wrote an autobiography titled ""Humble Pie""?",Gordon Ramsay,Jamie Oliver,Ainsley Harriott,Antony Worrall Thompson
+hard,multiple,Who was Donald Trump's first wife?,Ivana Zelníčková,Melania Knauss,Marla Maples,Nancy Davis
+medium,multiple,Which television show has Dan Gheesling been on?,Big Brother,Jeopardy,Survivor,The Bachelor
+medium,multiple,"How much weight did Chris Pratt lose for his role as Star-Lord in ""Guardians of the Galaxy""?",60 lbs,30 lbs,50 lbs,70 lbs
+easy,multiple,By what name is Carlos Estevez better known? ,Charlie Sheen,Ricky Martin,Bruno Mars,Joaquin Phoenix
+easy,multiple,"Named after a character he played in a 1969 film, what is the name of the ski resort in Utah that Robert Redford bought in 1968?",Sundance,Woodward,Turner,Booker
+medium,multiple,"Which American celebrity died in 1977 playing golf in La Moraleja, Madrid?",Bing Crosby,Elvis Presley,Charlie Chaplin,Groucho Marx
+medium,multiple,Donald J. Trump's Middle Name is...,John,Jeff,Jerald,Jason
+medium,boolean,Michael Jackson had a pet python named ‘Crusher’.,True,False,,
+easy,multiple,What does film maker Dan Bell typically focus his films on?,Abandoned Buildings and Dead Malls,Historic Landmarks,Action Films,Documentaries 
+medium,multiple,"Nikki Diamond portrayed which Gladiator in the 1992 TV show ""Gladiators""?",Scorpio,Jet,Nightshade,Falcon
+medium,estimate,"If he was still alive, in what year would Elvis Presley celebrate his 100th birthday?",2035,2030,2040,2045
+medium,estimate,"In what year did ""Bob Ross"" die?",1995,1986,1989,1997
+medium,multiple,Paul McCartney has always used his middle name. What is his real first name? ,James,John,Jack,Justin
+medium,multiple,Which of these people is NOT a part of the Internet comedy group Mega64?,Jon Jafari,Rocco Botte,Derrick Acosta,Shawn Chatfield
+easy,multiple,Gwyneth Paltrow has a daughter named...?,Apple,Lily,French,Dakota
+easy,boolean,Tupac Shakur died due to complications from being stabbed in 1996.,False,True,,
+hard,multiple,Billy Herrington is from which US state?,New York,Arizona,California,Georgia
+easy,multiple,What was James Coburn's last film role before his death?,American Gun,Monsters Inc,Texas Rangers,Snow Dogs
+easy,multiple,What was the cause of Marilyn Monroes suicide?,Drug Overdose,Knife Attack,House Fire,Gunshot
+medium,multiple,In which of these TV shows did the chef Gordon Ramsay not appear?,Auction Hunters,Ramsay's Kitchen Nightmares,Hotel Hell,Hell's Kitchen
+medium,multiple,Which of these celebrities was not a member of the Jackson 5?,Bo Jackson,Tito Jackson,Jermaine Jackson,Marlon Jackson
+easy,multiple,Which celebrity announced his presidency in 2015?,Kanye West,Donald Trump,Leonardo DiCaprio,Miley Cyrus
+hard,multiple,"Which school in Surrey, England did Steve Backshall attend?",Collingwood College,Tomlinscote School,Kings International College,Lyndhurst School
+easy,multiple,Aubrey Graham is better known as,Drake,Travis Scott,Lil Wayne,2 Chainz
+easy,boolean,"Marilyn Monroe was born on July 1, 1926.",False,True,,
+easy,multiple,Neil Hamburger is played by which comedian?,Gregg Turkington,Nathan Fielder,Tim Heidecker,Todd Glass
+medium,estimate,How old was Muhammad Ali when he died?,74,61,He's still alive,56
+medium,multiple,Where was Kanye West born?,"Atlanta, Georgia","Chicago, Illinois","Los Angeles, California","Detroit, Michigan"
+hard,multiple,The eccentric natural philosopher Tycho Brahe kept what as a pet?,Moose,Dog,Bear,Goat
+medium,multiple,What is generally considered to be William Shakespeare's birth date?,"April 23rd, 1564","July 4th, 1409","September 29th, 1699","December 1st, 1750"
+medium,multiple,Who out of these actresses is the youngest?,Kiernan Shipka,Ariel Winter,Emma Watson,Bonnie Wright

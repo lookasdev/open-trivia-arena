@@ -1,0 +1,496 @@
+Difficulty,Type,Question,Correct Answer,Wrong 1,Wrong 2,Wrong 3
+hard,multiple,What is Pink Floyd's first album?,The Piper at the Gates of Dawn,The Dark Side of the Moon,Wish You Were Here,Meddle
+medium,multiple,"Which song in Drake's ""Views"" features Future?",Grammys,Too Good,Faithful,Pop Style
+hard,multiple,Who was the first Jazz Musician to win the Pulitzer Prize for Music,Wynton Marsalis,Michael Brecker,Herbie Hancock,Joe Henderson
+medium,boolean,"The cover of The Beatles album ""Abbey Road"" featured a Volkswagen Beetle in the background.",True,False,,
+easy,multiple,"""Grande Valse"" is a phrase from the song ""Gran Vals"". What is that song segment known as?",Nokia Tune,Hello Moto [Motorola Ringtone],Droid Ringtone,Microsoft Ringtone
+medium,boolean,The album reputation by Taylor Swift has 15 songs,True,False,,
+easy,estimate,Which of these is NOT the name of an album released by English singer-songwriter Adele?,12,19,21,25
+medium,multiple,Which one of these Pink Floyd albums were also a movie?,The Wall,The Dark Side of the Moon,Wish You Were Here,Animals
+easy,estimate,How many strings are there on a cello?,4,5,6,8
+medium,multiple,'74–'75 is a 1993 single from the album Ring by what American band?,The Connells,R.E.M.,The Ocean Blue,The Bangles
+easy,multiple,What album did The Lumineers release in 2016?,Cleopatra,Winter,The Lumineers,Tracks From The Attic
+medium,multiple,Who sang backup vocals on Rockwell's hit 1984 single 'Somebody's Watching Me'?,Michael Jackson,Paul McCartney,Elton John,Prince
+easy,multiple,Which one of the following musical instruments is NOT a part of the Woodwind section?,Trumpet,Clarinet,Oboe,Alto Saxophone
+medium,multiple,"What is the name of the main character from the music video of ""Shelter"" by Porter Robinson and A-1 Studios?",Rin,Rem,Ren,Ram
+medium,multiple,Which of the following guitarists recorded an album as a member of the Red Hot Chili Peppers?,Dave Navarro,Tom Morello ,Billy Corgan,Ed O'Brien
+medium,multiple,"What French artist/band is known for playing on the midi instrument ""Launchpad""?",Madeon,Daft Punk ,Disclosure,David Guetta
+medium,multiple,Which of these albums is a Wu-Tang Clan album?,Iron Flag,Perfect Hair,The Low End Theory,Licensed to Ill
+easy,multiple,"Which classical composer wrote the ""Moonlight Sonata""?",Ludvig Van Beethoven,Chief Keef,Wolfgang Amadeus Mozart,Johannes Brahms
+easy,multiple,What was the best selling album of 2015?,"Adele, 25","Fetty Wap, Fetty Wap","Taylor Swift, 1989","Justin Bieber, Purpose"
+medium,multiple,"Which song made by MAN WITH A MISSION was used as the opening for the anime ""Log Horizon""?","""Database""","""Dead End in Tokyo""","""Raise Your Flag""","""Out of Control"""
+easy,multiple,Which of the following is not a studio album by the band Pink Floyd?,Moving Pictures,The Dark Side of the Moon,Wish You Were Here,Animals
+easy,estimate,How many studio albums have the duo Daft Punk released?,4,1,5,2
+hard,multiple,Who was the previous drummer of blink-182 before Travis Barker?,Scott Raynor,Atom Willard,Ilan Rubin,Derek Grant
+easy,multiple,"According to a song by Belinda Carlisle, Heaven is a place on what?",Earth,Venus,Mars,Uranus
+medium,multiple,Which popular rock band has a one-armed drummer?,Def Leppard,The Beatles,Lynyrd Skynyrd,Foreigner
+medium,estimate,Which of the following bands is Tom DeLonge not a part of?,+44,Box Car Racer,Blink-182,Angels & Airwaves
+easy,multiple,Who wrote the Sinead O`Connor hit 'Nothing Compares 2 U'?,Prince,Michael Jackson,Cameo,Rick James
+medium,estimate,"When was the Prince album ""Purple Rain"" released?",1984,1979,1983,1981
+easy,multiple,"Which song on Daft Punk's ""Random Access Memories"" features Pharrell Williams?",Get Lucky,Doin' It Right,Instant Crush,The Game of Love
+easy,multiple,Which of these artists has Lil A collaborated with?,Lil Fortnite,Lil Pump,Boonk Gang,6ix9ine
+medium,multiple,'We Built This City' was a number one hit for which American rock band in 1985?,Starship,Kansas,Jefferson Airplane,Aerosmith
+easy,multiple,"Sting, the lead vocalist of The Police, primarily plays what instrument?",Bass Guitar,Drums,Guitar,Keyboards
+medium,multiple,What is the name of the second studio album released by American rapper Post Malone in 2018?,Beerbongs & Bentleys,Takin' Shots,Rockstar,Better Now
+hard,multiple,Which iconic album cover features the pulsar waves of CP 1919 placed in the center of the cover?,Unknown Pleasures,The Dark Side of the Moon,London Calling,The Velvet Underground & Nico
+medium,multiple,"In 2015, David Hasselhof released a single called...",True Survivor,True Fighter,Real Kung-Fury,Real Warrior
+hard,multiple,Pamina and Papageno are characters in what Mozart opera?,The Magic Flute,The Marriage of Figaro,The Impresario,The Goose of Cairo
+medium,multiple,"Which Beatle wrote and sang the song ""Why Don't We Do It in the Road"" after being inspired by seeing two monkeys copulating in the street?",Paul,John,George,Ringo
+easy,multiple,"Which group performs the song ""Crash into Me""?",Dave Matthews Band,Phish,The Grateful Dead,Destiny's Child
+medium,multiple,"The 1952 musical composition 4'33"", composed by prolific American composer John Cage, is mainly comprised of what sound?",Silence,Farts,People talking,Cricket chirps
+easy,boolean,"Michael Jackson wrote The Simpsons song ""Do the Bartman"".",False,True,,
+medium,boolean,Ashley Frangipane performs under the stage name Halsey.,True,False,,
+easy,multiple,"Which former boy-band star released hit solo single ""Angels"" in 1997?",Robbie Williams,Justin Timberlake,Harry Styles,Gary Barlow
+medium,multiple,Which of these Johns was murdered by gunshots outside the Dakota in New York in 1980?,John Lennon,Johnny Thunders,John Denver,John Cascella
+medium,estimate,In what year was Taylor Swift born?,1989,1988,1987,1990
+medium,boolean,Nick Mason is the only member to appear on every Pink Floyd album.,True,False,,
+medium,boolean,"For his performance at ComplexCon 2016 in Long Beach, California, Skrillex revived his ""Mothership"" set piece for one night only.",True,False,,
+easy,multiple,"Which famous rapper is featured in Jack Ü (Skrillex and Diplo)'s 2015 single called ""Febreze""?",2 Chainz,Kendrick Lamar,Future,Fatman Scoop
+medium,multiple,What was Britney Spears' debut single?,...Baby One More Time,Oops!... I Did It Again,(You Drive Me) Crazy,Toxic
+medium,multiple,"Which band released the album ""Sonic Highways"" in 2014?",Foo Fighters,Coldplay,Nickelback,The Flaming Lips
+medium,multiple,"'I'm never gonna dance again, guilty feet have got no rhythm' were lyrics from which Wham! hit single?",Careless Whisper,Wake Me Up Before You Go-Go,Last Christmas,Everything She Wants
+medium,multiple,"""Drink the Sea"" is an album by which electronic music artist?",The Glitch Mob,Avicii,XXYYXX,Flux Pavilion
+medium,multiple,What is the real name of American rapper Pitbull?,Armando Christian Pérez,Ramón Luis Ayala Rodríguez,Benito Antonio Martinez Ocasio,Belcalis Marlenis Almánzar
+hard,boolean,"The song ""Mystery Train"" was released by artist ""Little Junior's Blue Flames"" in 1953.",True,False,,
+medium,multiple,Which of these artists has NOT been a member of dancehall group Major Lazer?,Skrillex,Diplo,Jillionaire,Walshy Fire
+hard,multiple,"Who is a pioneer of ""Minimal Music"" in 1960s?",Steve Reich,Wolfgang Amadeus Mozart,Brian Eno,Sigur Rós
+medium,multiple,"The song ""Twin Size Mattress"" was written by which band?",The Front Bottoms,Twenty One Pilots,The Wonder Years,The Smith Street Band
+hard,multiple,When did the rapper Eazy-E die?,"March 26, 1995","July 11, 1992","February 14, 1993","October 21, 1994"
+medium,multiple,Which of these women is not a member of the Korean girl group TWICE?,Kang Seulgi,Myoui Mina,Kim Dahyun,Hirai Momo
+easy,multiple,Which Nirvana album had a naked baby on the cover?,Nevermind,Bleach,In Utero,Incesticide
+medium,multiple,"In Prokofiev's 'Peter and the Wolf', the wolf itself is represented by a trio of which musical instrument?",French horn,Oboe,Clarinet,Cello
+medium,multiple,Which genre of Hip Hop does MC Frontalot rap?,Nerdcore,Horrorcore,Christian,Crunk
+medium,multiple,Which of these is NOT a name of an album released by American rapper Pitbull?,Welcome to Miami,Dale,Global Warming,Armando
+easy,multiple,Which of these is NOT considered a woodwind instrument?,Trombone,Oboe,Clarinet,Bassoon
+easy,multiple,"What 1970's American ballad referred to the 1959 plane crash as the ""the day the music died""?",American Pie,Kentucky Rain,I Will Always Love You,Rock 'n' Roll Suicide
+easy,multiple,"""Some people call me the space cowboy"" is the first line from what song?",The Joker,Fandango,Take The Money and Run,Fly Like an Eagle
+easy,boolean,Stevie Wonder's real name is Stevland Hardaway Morris.,True,False,,
+medium,multiple,Which of the following rappers were NOT part of the hip-hop group Odd Future?,Vince Staples,"Tyler, the Creator",Frank Ocean,Mike G
+easy,boolean,American rapper Dr. Dre actually has a Ph.D. doctorate.,False,True,,
+medium,multiple,"Which of the following stars was not mentioned in the lyrics of Madonna's ""Vogue""?",Mae West,Marlene Dietrich,Lana Turner,Grace Kelly
+medium,multiple,"Who released the 1991 album ""Out of Time""?",R.E.M.,U2,Coldplay,The Rolling Stones
+medium,multiple,"Which Queen song was covered by Brittany Murphy in the 2006 film ""Happy Feet""?",Somebody to Love,Under Pressure,Flash,Bohemian Rhapsody
+medium,multiple,Which Beatle led the way across the zebra crossing on the Abbey Road album cover?,John,Paul,George,Ringo
+easy,multiple,Which of the following is an album by punk rock band Anti-Flag?,For Blood And Empire,Infinity On High,21st Century Breakdown,"No Pads, No Helmets...Just Balls"
+hard,multiple,"Dallon Weekes, former touring basist of Panic! At the Disco, created his own band in 2016 called...",I Don't Know How But They Found Me,Cheats At Hide And Seek,Where Did You All Come From?,Run Away From The People
+hard,multiple,What was the name of the rock band that Nobuo Uematsu formed that played songs from various Final Fantasy games?,The Black Mages,The Final Fantasies,The Espers,The Rock Summoners
+hard,multiple,Who recorded the 1975 album 'Captain Fantastic and the Brown Dirt Cowboy'?,Elton John,John Denver,Billy Joel,Joe Cocker
+easy,multiple,What album did Bon Iver release in 2016?,"22, A Million","Bon Iver, Bon Iver",Blood Bank EP,"For Emma, Forever Ago"
+easy,multiple,Which Beatles album does NOT feature any of the band members on it's cover?,The Beatles (White Album),Rubber Soul,Abbey Road,Magical Mystery Tour
+easy,estimate,"The band Muse released their first album, Showbiz, in what year?",1999,1998,2000,2001
+easy,multiple,"What Led Zeppelin album contains ""Stairway to Heaven""?",Led Zeppelin IV,Houses of the Holy,Physical Graffiti,Led Zeppelin III
+medium,multiple,What was the birthplace of musical artist 'Sir Robert Bryson Hall II' (aka. Logic)?,"Maryland, United States","Atlanta, United States","London, United Kingdom"," Botswana, Africa"
+medium,multiple,Who is the lead singer of the Smashing Pumpkins?,Billy Corgan,Brett Scallions,Eddie Vedder,Chino Moreno
+easy,multiple,"Which band released songs suchs as ""Rio"", ""Girls on Film"", and ""The Reflex""?",Duran Duran,The Cure,New Order,Depeche Mode
+hard,multiple,"What song includes the words ""Numa Numa"" which was subject to a Viral Video in 2004?",Dragostea Din Tei,Despacito,Gangnam Style,Asereje
+easy,multiple,"Which band recorded the album ""Parallel Lines""?",Blondie,Paramore,Coldplay,The Police
+easy,multiple,"What was the name of singer Frank Ocean's second studio album, which was released on August 20, 2016?",Blonde,Brunette,Black,Burgundy
+easy,multiple,"The four strings on a violin are the G string, D string, A string, and...",E string,C string,B string,F string
+hard,multiple,Which of these is Daft Punk's debut single?,The New Wave,Da Funk,Discovery,Around the World
+easy,multiple,"Which one of these songs did the group ""Men At Work"" NOT make?",Safety Dance,Down Under,Who Can It Be Now?,It's a Mistake
+medium,multiple,Which of these is not an Ed Sheeran album?,-,+,X,÷
+medium,multiple,African-American performer Sammy Davis Jr. was known for losing which part of his body in a car accident?,Left Eye,Right Ear,Right Middle Finger,Nose
+medium,multiple,Who is the lead singer of Bastille?,Dan Smith,Will Farquarson,Kyle Simmons,Chris Wood
+medium,multiple,"Which musical group won the Brit Awards in 1985, with George Michael as a member?",Wham!,Frankie Goes to Hollywood,U2,Culture Club
+hard,multiple,Which album was released by Kanye West in 2013?,Yeezus,My Beautiful Dark Twisted Fantasy,The Life of Pablo,Watch the Throne
+medium,multiple,"According to their 1974 hit, what were Brownsville Station doing ""In The Boys' Room""?",Smokin',Hangin',Lovin',Peein'
+medium,multiple,"Cryoshell, known for ""Creeping in My Soul"" did the advertising music for what Lego Theme?",Bionicle,Hero Factory,Ben 10 Alien Force,Star Wars
+medium,multiple,"Johnny Cash did a cover of this song written by lead singer of Nine Inch Nails, Trent Reznor.",Hurt,Closer,A Warm Place,Big Man with a Gun
+easy,multiple,Which country does the band Rammstein hail from?,Germany,Austria,Armenia,Belgium
+medium,multiple,"Which famous 90's rap album is commonly referred to as ""The Bible of Hip Hop""?",Illmatic,The Low End Theory,The Chronic,Enter The Wu-Tang (36 Chambers)
+medium,multiple,What was The Velvet Underground's first album called?,The Velvet Underground & Nico,Loaded,The Velvet Underground,White Light / White Heat
+medium,multiple,"May 16th of every year is known as __________ Day, named after a punk band prominent in the 1990s.",Lagwagon,Goldfinger,Less Than Jake,Lit
+easy,multiple,"Which Disney character sings the song ""A Dream is a Wish Your Heart Makes""?",Cinderella,Belle,Snow White,Pocahontas
+medium,multiple,"Which artist or group did John Lennon consider ""son(s) of the Beatles""?",Jeff Lynne's Electric Light Orchestra,The Rolling Stones,Pink Floyd,The Who
+medium,multiple,What country did Shirley Bassey originate from?,Wales,America,England,Canada
+hard,multiple,"This album, now considered to be one of the greatest of all time, was a commercial failure when it was released.",The Velvet Underground and Nico,Abbey Road,Led Zeppelin IV,Pet Sounds
+easy,multiple,"Which punk rock band released hit songs such as ""Californication"", ""Can't Stop"" and ""Under the Bridge""?",Red Hot Chilli Peppers,Green Day,Linkin Park,Foo Fighters
+medium,multiple,Who is the artist of the recent new album the Uncanny Valley?,Perturbator,Carpenter Brut,GOST,Dan Terminus 
+hard,multiple,What is the official name of Prince's backing band?,The Revolution,The Paupers,The Wailers,The Heartbreakers
+medium,multiple,"The Who's eponymous line, ""Teenage Wasteland"", appears in which of their songs?",Baba O' Riley,The Seeker,Won't Get Fooled Again,Pinball Wizard
+medium,multiple,What was George Michael's chart-topping 1987 debut studio album?,Faith,Songs from the Last Century,Patience,Older
+medium,multiple,"Which Iron Maiden album did the song ""Dream of Mirrors"" feature in?",Brave New World,Dance of Death,A Matter of Life and Death,Somewhere in Time
+easy,multiple,Of which 90s boy band was Justin Timberlake a member?,*NSYNC,Backstreet Boys,Westlife,Boyzone
+medium,multiple,Which of these songs did Jimi Hendrix cover?,All of these songs,Sgt. Pepper's Lonely Hearts Club Band,All Along the Watchtower,House of the Rising Sun
+easy,multiple,"The Rush song ""YYZ"" derives its name from the IATA aiport identification code for which city?",Toronto,Vancouver,Ottawa,Calgary
+easy,multiple,"What is the real name of American rapper Eminem, also known as Slim Shady?",Marshall Mathers,Calvin Broadus,Shawn Carter,Nasir Jones
+hard,estimate,"What year did Dire Straits's Song ""Money for Nothing"" release?",1985,1973,1980,1991
+hard,multiple,Artis Leon Ivey Jr. is better known as which rap artist?,Coolio,Dr Dre,Snoop Dogg,Ice T
+easy,multiple,"What band featured Sting, Stewart Copeland and Andy Summers?",The Police,Def Leppard,The Cure,Bon Jovi
+medium,multiple,"Which member of ""The Beatles"" narrated episodes of ""Thomas the Tank Engine""?",Ringo Starr,George Harrison,John Lennon,Paul McCartney
+medium,estimate,How many members are in the Japanese rock band SCANDAL?,4,5,2,18
+medium,multiple,Which American family band had a 1986 top 10 hit with the song 'Crush On You'?,The Jets,DeBarge,The Jacksons,The Cover Girls
+easy,boolean,"""Friday,"" the single by Rebecca Black, was released in February 10th, 2011.",True,False,,
+easy,multiple,Which brass instrument has the lowest pitch in an orchestra?,Tuba,Trumpet,Saxophone,Trombone
+hard,multiple,Which of Michael Jackson's albums sold the most copies?,Thriller,Dangerous,Bad,Off the Wall
+medium,multiple,"Which Aerosmith album featured ""Walk This Way""?",Toys in the Attic,Rocks,Get Your Wings,Draw the Line
+easy,multiple,"In the  Rossini opera, what was the name of 'The Barber of Seville'?",Figaro,Angelo,Fernando,Dave
+medium,multiple,"What date is referenced in the 1971 song ""September"" by Earth, Wind & Fire?",21st of September,26th of September,23rd of September,24th of September
+medium,boolean,"""Rumble"" by Link Wray is the only instrumental song to ever have been banned from US radio.",True,False,,
+easy,multiple,What is the frontman's name of the metal band Megadeth?,Dave Mustaine,Rob Halford,Vince Neil,James Hetfield
+medium,boolean,"3 members of 2 Live Crew were arrested for playing songs from their album, As Nasty As They Wanna Be, live.",True,False,,
+hard,multiple,"Who wrote the song ""You Know You Like It""?",AlunaGeorge,DJ Snake,Steve Aoki,Major Lazer
+medium,multiple,"The song ""Feel Good Inc."" by British band Gorillaz features which hip hop group?",De La Soul,Public Enemy,OutKast,Cypress Hill
+medium,multiple,EDM producer Marshmello performs live wearing clothes and a marshmallow mask of what colour?,White,Black,Blue,Yellow
+medium,multiple,From which country does the piano originate?,Italy,Germany,Austria,France
+medium,multiple,Who was the oldest member of The Beatles?,Ringo Starr,John Lennon,Paul McCartney,George Harrison
+hard,multiple,Which of these is NOT a song featured on the Lockjaw EP released in 2013 by Flume & Chet Faker?,Left Alone,What About Us,This Song Is Not About A Girl,Drop The Game
+medium,multiple,"Who is the founder and leader of industrial rock band, 'Nine Inch Nails'?",Trent Reznor,Marilyn Manson,Robin Finck,Josh Homme
+hard,multiple,"What is the first Studio Album to be released on the Internet with a ""Pay-What-You-Want"" price?",In Rainbows,The Help Album,Skrillex and Diplo Present Jack Ü,Blackstar
+easy,multiple,Which singer was featured in Jack Ü (Skrillex & Diplo)'s 2015 song 'Where Are Ü Now'?,Justin Bieber,Selena Gomez,Ellie Goulding,The Weeknd
+medium,boolean,"""Neutral Milk Hotel"" is a real band.",True,False,,
+medium,multiple,What is rapper Drake's real name?,Aubrey Graham,Shaun Carter,Dwayne Carter,Andre Young
+hard,multiple,"""All the Boys"" by Panic! At the Disco was released as a bonus track on what album?","Too Weird To Live, Too Rare To Die!",A Fever You Can't Sweat Out,Death Of A Bachelor,Vices & Virtues
+medium,multiple,"Who is the Pink Floyd song ""Shine On You Crazy Diamond"" written about?",Syd Barrett,John Lennon,David Gilmour,Floyd
+medium,multiple,"Which band had hits in 1972 with the songs ""Baby I'm A Want You"", ""Everything I Own"" and ""The Guitar Man""",Bread,America,Chicago,Smokie
+medium,multiple,What is the name of French electronic music producer Madeon's 2015 debut studio album?,Adventure,The City,Icarus,Pop Culture
+hard,multiple,Who was the original drummer for The Beatles?,Tommy Moore,Ringo Starr,Stuart Sutcliffe,Pete Best
+medium,multiple,What is the relationship between the band members of American rock band King of Leon?,Brothers & cousins,Childhood friends,Former classmates,Fraternity house members
+medium,estimate,When did Tame Impala release their second album?,2012,2015,2010,1967
+hard,multiple,"In the metal band Slipknot, there are 9 members, which member labelled themselves number 6? ",Shawn Crahan (Clown),Sid Wilson,Cory Taylor,Mick Thomson
+medium,boolean,The country song  “A Boy Named Sue” was written by Shel Silverstein.,True,False,,
+medium,multiple,"Which chain restaurant increased sales after it was mentioned in the 2016 Beyoncé song: ""Formation""?",Red Lobster,Outback Steakhouse,TGI Fridays,Applebee's
+medium,multiple,Who was the youngest member of The Beatles?,George Harrison,Paul McCartney,John Lennon,Ringo Starr
+hard,multiple,Which of these songs was released in 1996?,"The Smashing Pumpkins - ""1979""","Prince - ""1999""","James Blunt - ""1973""","David Bowie - ""1984"""
+easy,multiple,What was Daft Punk's first studio album?,Homework,Discovery,Random Access Memories,Human After All
+hard,boolean,"Pete Townshend's solo album, ""White City: A Novel"", is set in the metropolitan area of Chicago.",False,True,,
+easy,multiple,"Who had a 1969 top 5 hit with the song,  'A Boy Named Sue'?",Johnny Cash,Bob Dylan,Willie Nelson,Kris Kristofferson
+easy,multiple,Who is the frontman of the band 30 Seconds to Mars?,Jared Leto,Gerard Way,Matthew Bellamy,Mike Shinoda
+easy,boolean,"John Williams composed the music for ""Star Wars"".",True,False,,
+medium,boolean,"The 1969 Frank Sinatra Song ""My Way"" was ironically not written by him.",True,False,,
+hard,boolean,"Myoui Mina, member of Korean girl group TWICE, was born in South Korea, despite being Japanese.",False,True,,
+hard,multiple,"What is the stage name of New Zealand singer Phillipa ""Pip"" Brown?",Ladyhawke,Lorde,Kesha,Anika Moa
+easy,multiple,"Which Daft Punk album is the song ""Harder, Better, Faster, Stronger"" from?",Discovery,Homework,Random Access Memories,Human After All
+medium,multiple,Grand Theft Autumn/Where Is Your Boy is a song by which band?,Fall Out Boy,Panic! At The Disco,Paramore,Blink-182
+hard,multiple,"Which of these artists did NOT remix the song ""Faded"" by Alan Walker?",Skrillex,Tiësto,Slushii,Dash Berlin
+easy,estimate,When was Gangnam Style uploaded to YouTube?,2012,2013,2014,2011
+hard,multiple,Which Death Grips album is the only one to feature a band member?,No Love Deep Web,Bottomless Pit,The Money Store,The Powers That B
+medium,multiple,"Who is the vocalist and frontman of rock band ""Guns N' Roses""?",Axl Rose,Kurt Cobain,Slash,Bono
+hard,estimate,"Which year was the album ""Floral Shoppe"" by Macintosh Plus released?",2011,2014,2013,2012
+medium,multiple,Saul Hudson (Slash) of the band Guns N' Roses is known for playing what type of guitar?,Les Paul Standard,Fender Stratocaster,LsL Mongrel,Gretsch Falcon
+easy,boolean,Scatman John's real name was John Paul Larkin.,True,False,,
+easy,multiple,Which of these is the name of a song by Tears for Fears?,Shout,Scream,Yell,Shriek
+medium,multiple,Who was walking like an Egyptian in 1981?,The Bangles,R.E.M.,The Ocean Blue,The Connells
+hard,multiple,"In the Panic! At the Disco's song ""Nothern Downpour"", which lyric follows 'I know the world's a broken bone'.","""So melt your headaches call it home""","""So sing your song until you're home""","""So let them know they're on their own""","""So start a fire in their cold stone"""
+medium,multiple,What is the last song on the first Panic! At the Disco album?,"Build God, Then We'll Talk","Nails for Breakfast, Tacks for Snacks",I Write Sins Not Tragedies,Lying Is The Most Fun A Girl Can Have Without Taking Her Clothes Off
+easy,multiple,Who had a 1983 hit with the song 'Africa'?,Toto,Foreigner,Steely Dan,Journey
+medium,multiple,"What was the title of Sakamoto Kyu's song ""Ue o Muite Arukou"" (I Look Up As I Walk) changed to in the United States?",Sukiyaki,Takoyaki,Sushi,Oden
+medium,multiple,"Which music artist made the songs ""Heart"", ""It's a Sin"", and ""West End Girls""?",Pet Shop Boys,The Human League,New Order,Ultravox
+hard,multiple,"Which of the music artists did NOT perform in the Live Aid concert in Wembley Stadium, London in 1985?",The Rolling Stones,Queen,Elton John,David Bowie
+medium,multiple,The Proclaimers - I'm Gonna Be (500 Miles) reached what position on the US Hot 100 Charts in 1993?,3rd,8th,1st,5th
+medium,multiple,Which of these is NOT an album released by The Beatles?,The Wall,Abbey Road,Magical Mystery Tour,Revolver
+medium,multiple,"The song ""Caramelldansen"" is commonly mistaken as a Japanese song, what language is the song actually sung in?",Swedish,Hungarian,Finnish,Chinese
+easy,multiple,"""Sleepyhead"" is the debut single from which Electronic band?",Passion Pit,The Chemical Brothers,LadyTron,Kraftwerk
+medium,multiple,"Which song by Swedish electronic musician Avicii samples the song ""Something's Got A Hold On Me"" by Etta James?",Levels,Fade Into Darkness,Silhouettes,Seek Bromance
+medium,multiple,"In what film was the Michael Jackson song ""Will You Be There"" featured?",Free Willy,Sleepless in Seattle,Men in Black,Bad Boys
+easy,multiple,"Which famous artist featured on Rowdy Rebel's 2015 song ""Computers""?",Bobby Shmurda ,Lil Wayne,Will.I.AM,Kendrick Lamar
+medium,multiple,Which song is not by TheFatRat?,Ascent,Monody,Windfall,Infinite Power!
+medium,multiple,"""Make You Feel My Love"" was originally written and performed by which singer-songwriter?",Bob Dylan,Elvis,Adele,Billy Joel
+medium,multiple,Which musical instrument is nicknamed 'the clown of the orchestra'?,Bassoon,Piccolo,Tuba,Flute
+medium,multiple,Who is the bassist of the British rock band Queen?,John Deacon,John Major,John Barrowman,John Mayer
+easy,boolean,The music group Daft Punk got their name from a negative review they received.,True,False,,
+medium,multiple,What's the most common time signature for rock songs?,4/4,1/2,8/12,2/4
+medium,boolean,"Rapper Snoop Dogg's real name is 'Cordozar Calvin Broadus, Jr.'.",True,False,,
+hard,boolean,The song Scatman's World was released after Scatman (Ski-Ba-Bop-Ba-Dop-Bop).,True,False,,
+hard,estimate,What year was Huun Huur Tu's album Altai Sayan Tandy-Uula released? ,2004,1993,2006,2010
+easy,multiple,Ozzy Osbourne was the lead singer for what metal band?,Black Sabbath,AC/DC,Iron Maiden,Judas Priest
+medium,multiple,What was David Bowie's real surname?,Jones,Johnson,Edwards,Carter
+medium,boolean,"Norwegian producer Kygo released a remix of the song ""Sexual Healing"" by Marvin Gaye.",True,False,,
+medium,estimate,"How many studio albums have the heavy metal band, 'Metallica' released in the period between 1983 and 2016?",10,7,9,12
+medium,multiple,What are the first few words in the lyrics of A-Ha's 'Take On Me'?,We're talking away,We're dreaming today,We're finding a way,We're blocking the way
+hard,multiple,Who won the 1989 Drum Corps International championships?,Santa Clara Vanguard,Blue Devils,The Academy,The Bluecoats
+medium,estimate,"In what year was the smash hit song ""Scatman's World"" released?",1995,1996,1994,1993
+medium,multiple,What was Raekwon the Chefs debut solo album?,Only Built 4 Cuban Linx,Shaolin vs Wu-Tang,The Wild,The Lex Diamond Story
+easy,multiple,Which Canadian reggae musician had a 1993 hit with the song 'Informer'?,Snow,Rain,Hail,Sleet
+medium,multiple,Which one of these rappers is NOT a member of the rap group Wu-Tang Clan?,Dr.Dre,Ol' Dirty Bastard,GZA,Method Man
+medium,multiple,"Which artist curated the official soundtrack for ""The Hunger Games: Mockingjay - Part 1""?",Lorde,Kanye West,Tove Lo,Charli XCX
+hard,multiple,"Which of these artists did NOT feature in the fitfh studio album ""Humanz"" by British virtual band Gorillaz?",Snoop Dogg,Vince Staples,Pusha T,Danny Brown
+medium,estimate,"In music theory, how many notes are in a seventh chord?",4,3,7,2
+medium,multiple,What was Radiohead's first album?,Pablo Honey,The Bends,Kid A,A Moon Shaped Pool
+hard,multiple,"Who sings the rap song ""Secret Wars Part 1""?",The Last Emperor,MC Frontalot,Busdriver,Masta Killa
+medium,multiple,"Which of these languages was NOT included in the 2016 song ""Don't Mind"" by Kent Jones?",Portuguese,Japanese,French,Spanish
+medium,multiple,"""The Day the Music Died"" was a tragic plane crash that killed three musicians in which decade?",50's,60's,70's,40's
+hard,multiple,What is the name of the song by Beyoncé and Alejandro Fernández released in 2007?,Amor Gitano,La ultima vez,Rocket,Hasta Dondes Estes
+medium,multiple,Who is the lead singer of The Lumineers?,Wesley Schultz,Jeremiah Fraites,Jay Van Dyke,Neyla Pekarek
+medium,multiple,A piccolo is a smaller version of what instrument?,Flute,Trumpet,Harp,Violin
+medium,multiple,Which rapper had an album that went double platinum with no features?,J. Cole,Kendrick Lamar,Drake,Big Sean
+medium,multiple,"In the song “The Ultimate Showdown of Ultimate Destiny,” who is the only one to survive the battle?",Mr. Rogers,Batman,Chuck Norris,Godzilla
+medium,estimate,Iconic cartoon character Mickey Mouse made his onscreen debut in what year?,1928,1929,1922,1932
+medium,multiple,Pink Floyd made this song for their previous lead singer Syd Barrett.,Shine On You Crazy Diamond,Wish You Were Here,Have A Cigar,Welcome to the Machine
+hard,multiple,"Which song in rapper Kanye West's album ""The Life of Pablo"" features Rihanna?",Famous,Wolves,Ultralight Beam,Highlights
+easy,multiple,The tuba is a part of which musical family?,Brass,Percussion,Strings,Woodwind
+medium,estimate,"Typically, how many keys are on a piano?",88,24,12,96
+medium,multiple,What song by Tina Turner is the theme for Mad Max Beyond Thunderdome?,We Don't Need Another Hero,Let's Stay Together,What's Love Got To Do With It,I Don't Wanna Lose You
+medium,multiple,"Madonna's song ""Hung Up"" includes a piece from which popular 70s song?",Gimmie! Gimmie! Gimme! (A Man After Midnight),Staying Alive,Night Fever,The Chain
+easy,boolean,"Korean girl group, TWICE, consists of 9 members",True,False,,
+hard,multiple,What was the name of the hip hop group Kanye West was a member of in the late 90s?,The Go-Getters,The Jumpers,The Kickstarters,The Beat-Busters
+easy,multiple,"Which rap group released the album ""Straight Outta Compton""?",N.W.A,Wu-Tang Clan,Run-D.M.C.,Beastie Boys
+medium,boolean,"Musical artist, Future, collaborated with Kendrick Lamar for the song: ""Mask Off"".",True,False,,
+medium,boolean,"Pink Floyd's 1973 album ""Animals"" features a photograph of Battersea Power Station.",True,False,,
+medium,multiple,"What was the release date of the They Might Be Giants album, 'Mink Car?'","September 11th, 2001","April 17th, 2003","November 4th, 1999","December 20th, 2002"
+hard,multiple,"What event inspired The Cranberries song ""Zombie"" ?",The Warrington Bombings,September 11 Attacks,The Manchester Arena Bombing,The July 7th bombings
+medium,multiple,What is the first track on Kanye West's 808s & Heartbreak?,Say You Will,Welcome to Heartbreak,Street Lights,Heartless
+medium,multiple,Which of these artists do NOT originate from France?,The Chemical Brothers,Air,Justice,Daft Punk
+easy,multiple,"Kanye West's ""Gold Digger"" featured which Oscar-winning actor?",Jamie Foxx,Alec Baldwin,Dwayne Johnson, Bruce Willis
+medium,multiple,"Which of these is NOT a song on The Beatles' 1968 self titled album, also known as the White album?",Being For The Benefit Of Mr. Kite!,Why Don't We Do It in the Road?,Everybody's Got Something to Hide Except Me and My Monkey,The Continuing Story of Bungalow Bill
+hard,multiple,Which lyric is about Red Hot Chili Peppers frontman Anthony Kiedis?,"""A rainy Lithuanian / Is dancing as an Indian""","""Fly away on, my zephyr / I feel it more than ever""","""And I liked the dimple in your chin / Your pale blue eyes""","""You used to be so warm and affectionate...but now you're quick to get into your regret"""
+medium,multiple,What was the name of Pink Floyd's first studio album?,The Piper at the Gates of Dawn,Ummagumma,More,Atom Heart Mother
+easy,multiple,How many members are there in the band Nirvana?,Three,Two,Four,Five
+hard,multiple,Which British band won the first edition of the Brit Awards in 1977?,The Beatles,Pink Floyd,The Rolling Stones,The Who
+medium,multiple,"Which of these Queen songs were sampled for the baseline in Vanilla ""Ice's Ice Ice Baby?""",Under Pressure,Don't Stop Me Now,Brighton Rock,Lazing On A Sunday Afternoon
+medium,boolean,"Pink Guy's debut album was ""Pink Season"".",False,True,,
+easy,multiple,Who was the most streamed artist on Spotify in 2019?,Post Malone,Billie Eilish,Ariana Grande,Drake
+easy,multiple,Which of the following songs was not originally released by Sir Elton John? ,You'll Be In My Heart,Crocodile Rock,Candle in the Wind,I Don't Wanna Go On With You Like That
+easy,boolean,"The 2011 movie ""The Adventures of Tintin"" was directed by Steven Spielberg.",True,False,,
+medium,multiple,What is the opening track on Lorde's Pure Heroine?,Tennis Court,Team,Royals,400 Lux
+hard,multiple,On which Beatles album would you find the song 'Eleanor Rigby'?,Revolver,Help!,Rubber Soul,Abbey Road
+hard,multiple,Which of these songs is not by Tatsuro Yamashita?,Lucky Lady Feel So Good ,Merry-Go Round,Let's Dance Baby,Love Talkin'
+easy,multiple,What is the name of Rivers Cuomo's wife?,Kyoko Ito,Yoko Ono,Kyary Pamyu Pamyu,LiSA
+easy,multiple,Which of these songs by Skrillex features Fatman Scoop as a side artist?,Recess,All is Fair in Love and Brostep,Rock N Roll (Will Take You to the Mountain),Scary Monsters and Nice Sprites
+easy,boolean,Lead Singer Rivers Cuomo of American rock band Weezer attended Harvard.,True,False,,
+medium,multiple,"According to a Beatles song, who kept her face in a jar by the door?",Eleanor Rigby,Loretta Martin,Molly Jones,Lady Madonna
+easy,multiple,"What kind of instrument is a ""Mandolin""?",String,Brass,Percussion,Woodwind
+medium,boolean,"Scottish producer Calvin Harris is from the town of Dumfries, Scotland.",True,False,,
+easy,multiple,"Who released the song ""Photograph"" in 2005?",Nickelback,Fall Out Boy,Coldplay,Green Day
+medium,multiple,Who is the frontman of Muse?,Matt Bellamy,Dominic Howard,Thom Yorke,Jonny Greenwood
+medium,estimate,"In which year did ""Caravan Palace"" release their first album?",2008,2000,2015,2004
+medium,multiple,Which of the Beatles band members is barefoot on the front cover of the 'Abbey Road' album?,Paul McCartney,Ringo Starr,George Harrison,John Lennon
+easy,boolean,"To become a ""one-hit wonder"" artist needs to release only one song per year.",False,True,,
+medium,multiple,Which of these is NOT a song by Pegboard Nerds?,WiFi Tears,Swamp Thing,Emoji,BAMF
+hard,estimate,"How many members are there in the idol group ""µ's""?",9,48,6,3
+easy,multiple,"According to the American rapper Nelly, what should you do when its hot in here?",Take off all your clothes,Take a cool shower,Drink some water,Go skinny dipping
+medium,multiple,Which song previously recorded by Elvis Presley was covered by UB40 with a reggae beat?,Can't Help Falling in Love,Jailhouse Rock,In the Ghetto,Wooden Heart
+hard,multiple,"Who was not in the band ""The Smiths""?",Martin Chambers,Morrissey,Andy Rourke,Mike Joyce
+medium,multiple,Who is the lead singer of Silverchair?,Daniel Johns,Ben Gillies,Chris Joannou,George Costanza
+medium,multiple,"Which country does the power metal band ""Sabaton"" originate from?",Sweden,Germany,United States,Finland
+medium,multiple,"Which rock band released the album ""The Bends"" in March 1995?",Radiohead,Nirvana,Coldplay,U2
+medium,multiple,"Which of these songs is NOT in The Beatles' album ""Sgt. Pepper's Lonely Hearts Club Band""?",Strawberry Fields Forever,Getting Better,Fixing a Hole,Lucy in the Sky with Diamonds
+medium,multiple,Who sung the opening theme song to the 1995 James Bond film 'Goldeneye'?,Tina Turner,Shirley Bassey,Sheryl Crow,Madonna
+medium,boolean,Arcade Fire's 'The Suburbs' won the Album of the Year award in the 2011 Grammys.,True,False,,
+medium,multiple,"Which band had hits in 1975 with the songs, 'One Of These Nights' & 'Lyin Eyes'?",The Eagles,Fools Gold,The Doobie Brothers,Fleetwood Mac
+medium,boolean,"The band ""Panic! At the Disco"" has released 4 albums total",False,True,,
+medium,multiple,Pearl Jam was originally named after which sports figure?,Mookie Blaylock,Oil Can Boyd,Danger Fourpence,Blue Moon Odom
+medium,multiple,What is Fergie's debut album called?,The Dutchess,Fergalicious ,The Sweet Escape,Loose
+easy,multiple,Which of these are NOT a Men at Work song?,Basket Case,Dr. Heckyll and Mr. Jive,Who Can It Be Now?,Be Good Johnny
+hard,multiple,What rock group is named after a gym teacher who taught at the original band members' high school?,Lynyrd Skynyrd,Jefferson Airplane,Pink Floyd,The Byrds
+hard,multiple,Which member of the Wu-Tang Clan had only one verse in their debut album Enter the Wu-Tang (36 Chambers)?,Masta Killa,Method Man,Inspectah Deck,GZA
+easy,multiple,Which song is NOT by singer Tom Jones?,Never Gonna Give You Up,It's Not Unusual,What's New Pussycat,Delilah
+medium,estimate,"What year was Weezer's album ""Pinkerton"" released? ",1996,1990,2001,1994
+medium,estimate,"How many copies have Metallica album ""Metallica"" (A.K.A The Black Album) sold worldwide (in Millions of Copies)?",20.5,19.5,22.5,25.5
+easy,multiple,"What was the subject of the 2014 song ""CoCo"" by American rapper O. T. Genasis?",Cocaine,Conan O'Brien,Cobalt(II) carbonate,Coconut cream pie
+easy,multiple,"Swedish DJ Tim Bergling, who produced songs such as ""Levels"" and ""Wake Me Up"", is better known under what alias?",Avicii,deadmau5,Alesso,Skrillex
+easy,boolean,"In 1993, Prince changed his name to an unpronounceable symbol because he was unhappy with his contract with Warner Bros.",True,False,,
+medium,multiple,What M83 was featured in Grand Theft Auto V's radio?,Midnight City,Outro,Reunion,Wait
+medium,boolean,"Dave Grohl recorded the Foo Fighters' debut, ""Foo Fighters,"" by himself.",True,False,,
+medium,multiple,"What animal is featured on the cover of English electronic music group The Prodigy's album, ""The Fat of the Land""?",Crab,Fox,Elephant,Tiger
+hard,multiple,"In Kendrick Lamar's 2012 album, ""Good Kid, M.A.A.D City"", the album's story takes place in which city?",Compton,Detroit,New York,Baltimore
+medium,multiple,"What genre of EDM is the Dutch DJ, musician, and remixer Armin van Buuren most well-known for?",Trance,House,Drum and Bass,Dubstep
+hard,multiple,A Caixa Malacacheta is what kind of musical instrument which is commonly used in Latin American music?,Snare Drum,Cow Bell,Bass Drum,Maraca
+hard,multiple,Electronic artists Boys Noize and Skrillex have collaborated and released tracks under what name?,Dog Blood,Jack Ü,What So Not,Noisia
+medium,multiple,What song on ScHoolboy Q's album Black Face LP featured Kanye West?,THat Part,Neva CHange,Big Body,Blank Face
+hard,estimate,The key of sharps does the key of G# minor contain?,5,3,7,0
+easy,multiple,"The ""British Invasion"" was a cultural phenomenon in music where British boy bands became popular in the USA in what decade?",60's,50's,40's,30's
+medium,multiple,Who is the primary lyricist for Canadian progressive rock band Rush?,Neil Peart,Geddy Lee,Alex Lifeson,John Rutsey
+easy,multiple,"Which English guitarist has the nickname ""Slowhand""?",Eric Clapton,Mark Knopfler,Jeff Beck,Jimmy Page
+medium,multiple,Which of these bands is the oldest?,Pink Floyd,AC/DC,Metallica,Red Hot Chili Peppers
+hard,multiple,The heavy metal band Black Sabbath hail from which English city?,Birmingham,Manchester,London,Newcastle-Upon-Tyne
+medium,boolean,Metallica collaborated with Rowan Atkinson's Mr Bean on a 1992 comic relief single.,False,True,,
+hard,multiple,"Which member of the English band ""The xx"" released their solo album ""In Colour"" in 2015?",Jamie xx,Romy Madley Croft,Oliver Sim,Baria Qureshi
+medium,boolean,"A Facebook campaign placed Rage Against The Machine's ""Killing in the Name Of"" as the UK Christmas Number 1 in 2009.",True,False,,
+hard,multiple,"The song ""Old Town Road"" by American rapper Lil Nas X samples the song ""34 Ghosts IV"" by which band?",Nine Inch Nails,Death Grips,Iron Maiden,Animal Collective
+medium,estimate,In what year was Tchaikovsky's 1812 Overture composed?,1880,1812,1790,1840
+medium,multiple,Who was the lead singer and frontman of rock band R.E.M?,Michael Stipe,Chris Martin,Thom Yorke,George Michael
+hard,multiple,Where was Nicki Minaj born?,Trinidad and Tobago,Haiti,Saint Lucia,Grenada
+easy,multiple,"What is the stage name of English female rapper Mathangi Arulpragasam, who is known for the song ""Paper Planes""?",M.I.A.,K.I.A.,C.I.A.,A.I.A.
+medium,multiple,"Which artist collaborated with American DJ Dillon Francis to release the song 2016 ""Need You""?",NGHTMRE,LOUDPVCK,KRNE,DVBBS
+medium,multiple,Who had a 1976 hit with the song 'You Make Me Feel Like Dancing'?,Leo Sayer,Elton John,Billy Joel,Andy Gibb
+hard,multiple,Which company did the animation for Peter Gabriel's Video Sledgehammer (1986)?,Aardman Animations,HIT Entertainment,Illumination Entertainment,VIZ Media
+medium,multiple,"Which alternative rock band released the critically-acclaimed album ""OK Computer""?",Radiohead,R.E.M.,Nirvana,Coldplay
+medium,multiple,"Which city is the American singer ""Pitbull"" from?",Miami,Kodiak,St. Louis,Boston
+hard,multiple,"Who designed the album cover for True Romance, an album by Estelle?",Rebecca Sugar,Matt Burnett,Ian Jones Quartey,Ben Leven
+medium,multiple,"Which of these is not a single by Pink Floyd guitarist, David Gilmour?",Sunset Strip,Rattle That Lock,Blue Light,Arnold Layne
+medium,multiple,"Which band released songs such as ""Electric Feel"", ""Kids"", and ""Time to Pretend""?",MGMT,Passion Pit,Phoenix,Franz Ferdinand
+hard,multiple,What is the British term for a 64th note?,Hemidemisemiquaver,Semihemidemisemiquaver,Semiquaver,Demisemiquaver
+medium,estimate,How many semitones are in an octave?,12,7,11,14
+medium,multiple,What was the name of the Wu-Tang Clan album Martin Shkreli bought for $2 million dollars?,Once Upon a Time in Shaolin,A Better Tomorrow,8 Diagrams,The Saga Continues
+easy,multiple,"The ""K"" in ""K-Pop"" stands for which word?",Korean,Kenyan,Kazakhstan,Kuwaiti
+medium,multiple,"Who was the guitarist in the band ""The Doors""?",Robby Krieger,Eric Clapton,John Densmore,Jimi Hendrix
+medium,multiple,"Which Toronto landmark was featured on the cover art of Canadian rapper Drake's 2016 album ""Views""?",CN Tower,Allan Gardens,Union Station,Prince of Wales Theatre
+hard,multiple,What album is the song 'New Slang' by The Shins found on?,"Oh, Inverted World",Wincing The Night Away,Chutes Too Narrow,Port Of Morrow
+medium,multiple,"Which of these bands was a featuring artist in Compton rapper Kendrick Lamar's 2017 album, ""DAMN.""?",U2,Radiohead,Coldplay,Bon Jovi
+medium,estimate,"When was the 3rd album ""Notes from the Underground"" of the band ""Hollywood Undead"" released?",2013,2011,2014,2009
+medium,multiple,"Who had hits in the 70s with the songs ""Lonely Boy"" and ""Never Let Her Slip Away""?",Andrew Gold,Elton John,Leo Sayer,Barry White 
+easy,multiple,"What is the name of Metallica's debut album, released in 1983?",Kill 'Em All,...And Justice for All,Master of Puppets,Countdown to Extinction
+easy,multiple,"Finish these lyrics from the 2016 song ""Panda"" by Desiigner: ""I got broads in _______"".",Atlanta,Savannah,Augusta,Marietta
+easy,multiple,A classic 1976 song by Blue Oyster Cult features the advice “Don’t Fear The” what?,Reaper,Dark,Silence,Clowns
+hard,multiple,"Panic! At the Disco's sixth album ""Pray For The Wicked"" was released on which date?","June 22, 2018","May 9, 2018","March 13, 2018","February 21, 2018"
+medium,boolean,The Beatles' band name was inspired by the band The Crickets.,True,False,,
+easy,multiple,"From which country did the song ""Gangnam Style"" originate from?",South Korea,Japan,North Korea,China
+medium,boolean,"The composition ""1812 Overture"" by Tchaikovsky symbolized the War of 1812 between the United States, and Great Britain.",False,True,,
+medium,multiple,"Irish musician Hozier released a music track in 2013 titled, ""Take Me to ______""",Church,Mosque,Synagogue,Temple
+medium,estimate,"When did The Beatles release the LP ""Please Please Me""?",1963,1970,1960,1969
+hard,multiple,"Who had a 1981 hit with the song ""Japanese Boy""?",Aneka,Toyah,Sandra,Madonna
+hard,multiple,What was the last Aphex Twin album released before his decade-long hiatus?,Drukqs,Windowlicker,Syro,Collected Ambient Works 85-92
+medium,multiple,Which artist released his third and final studio album 'Electric Ladyland' before his death in 1970?,Jimi Hendrix,Prince,Eric Clapton,Captain Sensible
+easy,multiple,"In an orchestra, what is the lowest member of the brass family?",Tuba,Trombone,Contrabass,Bassoon
+easy,multiple,Where does the Mac part of the name Fleetwood Mac come from?,John McVie,Christine McVie,Mac McAnally,David Tennant
+hard,multiple,"Which M83 album is the song ""Midnight City"" featured in?","Hurry Up, We're Dreaming",Saturdays = Youth,Before the Dawn Heals Us,Junk
+easy,multiple,"In the words of his 1973 song, Bob Dylan is ""knock, knock, knockin"" on which door?",Heaven's,Opportunity's,Angie's,Eileen's
+easy,multiple,Kanye West at 2009 VMA's interrupted which celebrity?,Taylor Swift,MF DOOM,Beyonce,Beck
+easy,multiple,"Who was ""Kung Fu Fighting"" in 1974?",Carl Douglas,The Bee Gees,Heatwave,Kool & the Gang
+medium,estimate,"In which year was the Megadeth album ""Peace Sells... but Who's Buying?"" released?",1986,1979,1987,1983
+medium,multiple,EDM record label Monstercat is based in which country?,Canada,United States,Australia,United Kingdom
+medium,multiple,"With his distinctive red hair, which Italian composer, born in 1678, was known as the 'Red Priest'?",Vivaldi,Puccini,Verdi,Monteverdi
+medium,multiple,"Which of these artists was NOT a member of the electronic music supergroup Swedish House Mafia, which split up in 2013?",Alesso,Steve Angello,Sebastian Ingrosso,Axwell
+medium,multiple,Which of these songs from American Idiot: The Musical was a previously unreleased Green Day song?,When It's Time,Are We The Waiting,Before The Lobotomy,Favorite Son
+medium,multiple,Which of these is not a member of the virtual band Gorillaz?,Phi Cypher,Murdoc Niccals,Noodle,Russel Hobbs
+easy,boolean,Daft Punk originated in France.,True,False,,
+easy,boolean,"The music video to The Buggle's ""Video Killed the Radio Star"" was the first music video to broadcast on MTV.",True,False,,
+easy,multiple,"""Doctor Jones"", ""Turn Back Time"" and ""Barbie Girl"" were UK number ones for which Eurodance group?",Aqua,Vengaboys,Eiffel 65,Sash!
+medium,multiple,Liam Howlett founded which electronic music group in 1990?,The Prodigy,The Chemical Brothers,The Crystal Method,Infected Mushroom
+easy,estimate,How many albums did King Gizzard & the Lizard Wizard release in 2017?,5,3,6,2
+medium,multiple,In which city did American rap producer DJ Khaled originate from?,Miami,New York,Detroit,Atlanta
+medium,multiple,'Don't You Want Me?' was a number one hit in 1981 for which electropop band?,Human League,Depeche Mode,Pet Shop Boys,Eurythmics
+easy,multiple,Who is the lead singer of the band Coldplay?,Chris Martin,Chris Isaak,Chris Wallace,Chris Connelly
+easy,multiple,Which 80s band is fronted by singer/guitarist Robert Smith?,The Cure,The Smiths,Echo & the Bunnymen,New Order
+medium,multiple,What is Brian May's guitar called?,Red Special,Blue Special,Green Special,Yellow Special
+easy,multiple,"""The Singing Cowboy"" Gene Autry is credited with the first recording for all but which classic Christmas jingle?",White Christmas,Frosty the Snowman,Rudolph the Red-Nosed Reindeer,Here Comes Santa Claus
+medium,boolean,"""Twenty One Pilots"" made the song ""The Motion"" featuring Sampha.",False,True,,
+medium,multiple,"What musician made the song ""F**kin` Perfect"" in 2010?",P!nk,Mitis,Adam lambert,Koven
+medium,multiple,Who was the first white band to play the Apollo Theater?,Buddy Holly and The Crickets,Chuck Berry,The Beatles,Elvis
+medium,multiple,"The 2010 song ""Eenie Meenie"" was a collaboration between which two popular artists?",Sean Kingston & Justin Bieber,Eminem & Rihanna,Usher & Pitbull,Lady Gaga & Beyoncé
+easy,multiple,"The 2016 song ""Starboy"" by Canadian singer The Weeknd features which prominent electronic artist?",Daft Punk,deadmau5,Disclosure,DJ Shadow
+easy,multiple,Which term best describes the connection of two sections of a musical piece through a transitional passage?,Bridge,Coda,Capo,Binary Form
+hard,multiple,"What is the English title of the vaporwave track ""リサフランク420 / 現代のコンピュー"" by Macintosh Plus (Vektroid)?",Lisa Frank 420 / Modern Computing,Smoke Weed 420 / Everyday,Make Your Move 420 / My Mind,It's All In Your Head 420 / Understand
+medium,multiple,"The 2023 Beatles song ""Now and Then"" originated from an unfinished demo recorded by which Beatle?",John Lennon,Paul McCartney,George Harrison,Ringo Starr
+medium,multiple,"On the cover of 'Abbey Road,' which of the Beatles is not wearing shoes?",Paul McCartney,Ringo Starr,John Lennon,George Harrison
+easy,boolean,"The song ""Stronger Than You"" is a single by Estelle, who played Garnet in Steven Universe.",True,False,,
+medium,multiple,La Fenice opera house is in which Italian city?,Venice,Milan,Rome,Pompeii
+hard,multiple,What song originally performed by The Bee Gees in 1978 had a cover version by Steps 20 years later?,Tragedy,Night Fever,Stayin' Alive,You Should Be Dancing
+medium,multiple,What was the title of ABBA`s first UK hit single?,Waterloo,Mamma Mia,Fernando,Dancing Queen
+easy,multiple,Who is the lead singer of Pearl Jam?,Eddie Vedder,Ozzy Osbourne,Stone Gossard,Kurt Cobain
+medium,multiple,Which of these is not a song on the album Graduation by Kanye West?,Waves,I Wonder,Big Brother,The Glory
+easy,multiple,Who is the lead singer of Arctic Monkeys?,Alex Turner,Jamie Cook,Matt Helders,Nick O'Malley
+medium,multiple,"Which country does the electronic music duo ""The Knife"" originate from?",Sweden,Finland,Denmark,Norway
+hard,multiple,"What is the first track on the Dave Matthews Band album ""Before These Crowded Streets""?",Pantala Naga Pampa,Stay (Wasting Time),Rapunzel,Don't Drink The Water
+hard,multiple,"Which Elton John hit starts with the line ""When are you gonna come down""?",Goodbye Yellow Brick Road,Rocket Man,Bennie and the Jets,Crocodile Rock
+medium,multiple,"Who wrote the musical composition, ""Rhapsody In Blue""?",George Gershwin,Irving Berlin,Duke Ellington,Johnny Mandel
+easy,estimate,"In what year was Avril Lavigne’s first studio album, “Let Go”, released?",2002,2001,2004,2005
+easy,multiple,Brian May was the guitarist for which band?,Queen,Pink Floyd,Rolling Stones,The Doors
+medium,multiple,"In August 1964, who introduced the Beatles to cannabis?",Bob Dylan,Jim Morrison,Brian Epstein,Jerry Garcia
+easy,boolean,The K-Pop Boy Band BTS debuted in the year 2013.,True,False,,
+medium,multiple,"Who had a US and UK number 1 hit in 1962 with the instrumental, 'Telstar'?",The Tornados,The Ventures,The Spotnicks,The Tremeloes
+easy,multiple,Which member of the Foo Fighters was previously the drummer for Nirvana?,Dave Grohl,Taylor Hawkins,Nate Mendel,Chris Shiflett
+medium,boolean,Soulja Boy's 'Crank That' won a Grammy for Best Rap Song in 2007.,False,True,,
+easy,multiple,Which genre of music is John Coltrane primarily associated with?,Jazz,Rock and Roll,Death Metal,Folk
+medium,estimate,"What year was Red Hot Chill Pepper's album ""Californication"" released?",1999,1997,2000,1992
+hard,multiple,Chino Moreno is the lead singer of which alternative metal band?,Deftones,Tool,Korn,Type O Negative
+medium,multiple,"""Lift Your Spirit"" is an album by which artist?",Aloe Blacc,Lena Meyer-Landrut,Stevie Wonder,Taylor Swift
+hard,multiple,Which of these aliases has NOT been used by electronic musician Aphex Twin?,Burial,Caustic Window,Bradley Strider,GAK
+medium,multiple,Which of these bands are NOT from Australia?,The Naked and Famous,Cut Copy,Empire of the Sun,Tame Impala
+medium,multiple,"Which French duo had UK hits in 1998 with the songs 'Sexy Boy', 'Kelly Watch The Stars' & 'All I Need'?",Air,Fire,Earth,Water
+medium,multiple,"What is the real name of rapper, The Notorious B.I.G?",Christopher Wallace,Calvin Cordozar Broadus Jr.,O'Shea Jackson,Eric Lynn Wright
+easy,multiple,Which music publication is often abbreviated to NME?,New Musical Express,New Metro Entertainment,Next Musical Enterprise,North Manchester Express
+medium,multiple,What was the first music video to be broadcast on MTV?,Video Killed the Radio Star,Take On Me,Walk This Way,Hungry Like the Wolf
+easy,multiple,"Which artist released the 2012 single ""Harlem Shake"", which was used in numerous YouTube videos in 2013?",Baauer,RL Grime,NGHTMRE,Flosstradamus
+medium,multiple,"Which popular jazz standard begins with the line ""Someday, when I'm awfully low""?",The Way You Look Tonight,Autumn Leaves,Dream a Little Dream of Me,All the Things You Are
+hard,multiple,Which Manchester nightclub was considered central to the 'Madchester' music scene in the late 80's?,The Haçienda,The Warehouse Project,LIV,The Liar's Club
+medium,boolean,"The band, HEALTH, is called HEALTH because they wanted to choose an everyday word for the band name.",True,False,,
+hard,multiple,What is the name of the 2016 mixtape released by Venezuelan electronic producer Arca?,Entrañas,&&&&&&,Sheep,Xen
+medium,multiple,What was Bon Iver's debut album released in 2007?,"For Emma, Forever Ago","Bon Iver, Bon Iver","22, A Million",Blood Bank EP
+easy,multiple,"The Red Hot Chili Pepper song ""Give It Away"" is from what album?",Blood Sugar Sex Magik,One Hot Minute,By the Way,Stadium Arcadium
+easy,multiple,What genre of music did the band Type O Negative play?,Gothic Metal,Thrash Metal,Hard Rock ,Pop Rock
+medium,multiple,"Prior to going solo in 1982, Lionel Richie was a member of which Motown group?",The Commodores,The Temptations,The Miracles,The Supremes
+medium,multiple,Which of these is the name of an American psychedelic rock band formed in 2002 by Benjamin Goldwasser and Andrew VanWyngarden?,MGMT,MSTRKRFT,STRFKR,SBTRKT
+hard,multiple,What is Justin Bieber's debut Album?,My World 2.0,U Smile,Baby,Purpose
+medium,multiple,Which country is singer Kyary Pamyu Pamyu from?,Japan,South Korea,China,Vietnam
+hard,multiple,Which band is the longest active band in the world with no breaks or line-up changes?,U2,Radiohead,Rush,Rolling Stones
+easy,estimate,"Which year was the album ""Year of the Snitch"" by Death Grips released?",2018,2013,2017,2011
+medium,multiple,"Which singer was featured in Swedish producer Avicii's song ""Wake Me Up""?",Aloe Blacc,John Legend,CeeLo Green,Pharrell Williams
+medium,multiple,"Who recorded the album called ""Down to the Moon"" in 1986?",Andreas Vollenweider,Jean-Michel Jarre,Bing Crosby,Enya
+medium,multiple,Which of these is NOT the name of an album released by American rapper Viper?,The Life of Pablo,Kill Urself My Man,You'll Cowards Don't Even Smoke Crack,Yo Wife Handcuffin' Me
+easy,multiple,Which Twitch streamer is the vocalist for Red Vox?,Vinesauce,The8BitDrummer,LIRIK,Sodapoppin
+easy,multiple,What is the name of Finnish DJ Darude's hit single released in October 1999?,Sandstorm,Dust Devil,Sirocco,Khamsin
+medium,multiple,"The letters in the name of the band ""TWRP"" stand for what?",Tupperware Remix Party,Totally Wicked Robot Performers,Team Wild and the Radio Pirates,Taiwan Roleplay
+medium,multiple,For which civil rights activist did Stevie Wonder write the song 'Happy Birthday' in 1980?,Martin Luther King Jr,Rosa Parks,Nelson Mandella,Booker T. Washington
+medium,multiple,Which of the following music bands is not from Finland?,Sabaton,Apocalyptica,Waltari,Lordi
+hard,multiple,Pete Townshend collaborated with which famous guitarist for an event at Brixton Academy in 1985?,David Gilmour,Jimmy Page,Mark Knopfler,Eric Clapton
+medium,boolean,"""The Division Bell"" is the final album of the progressive rock band Pink Floyd.",False,True,,
+easy,multiple,What is the best selling album of all time from 1976 to 2018?,Thriller,Back in Black,Abbey Road,The Dark Side of the Moon
+hard,estimate,"What year was Min Yoongi from South Korea boy band ""BTS"" born in?",1993,1992,1995,1994
+medium,multiple,"Which of these songs by artist Eminem contain the lyric ""Nice to meet you. Hi, my name is... I forgot my name!""?",Rain Man,Without Me,Kim,Square Dance
+hard,multiple,Which of these songs is NOT included in the Suicide Squad OST?,Skies on Fire - AC/DC,Heathens - Twenty One Pilots,Without Me - Eminem,Fortunate Son - Creedence Clearwater Revival
+easy,multiple,Which of the following songs did Elton John perform following Princess Diane's passing?,Candles in the Wind,I Guess That's Why They Call It The Blues,Your Song,Island Girl
+hard,boolean,The band STRFKR was also briefly known as Pyramiddd.,True,False,,
+easy,multiple,"""Hallelujah"" is a song written by which Canadian recording artist?",Leonard Cohen,Kory Lefkowits,Ryan Letourneau ,Justin Bieber 
+hard,boolean,"The singer Billie Holiday was also known as ""Lady Day"".",True,False,,
+medium,multiple,"The co-creator of Gorillaz, Damon Albarn, is also the lead singer of what band?",Blur,Oasis,Radiohead,Queens of the Stone Age
+medium,multiple,Which one of these people has been in the band ''Metallica'' in the past?,Dave Mustaine,Kurt Cobain,Joey Belladonna,Dave Lombardo
+medium,multiple,Which British band did Keith Moon play in until his death in 1978?,The Who,The Kinks,The Yardbirds,The Small Faces
+medium,multiple,Which of these is NOT the name of an album released by Miami-based producer DJ Khaled?,Don't Ever Play Yourself,Major Key,Suffering From Success,I Changed A Lot
+medium,multiple,What is the name of the 2016 studio album by the French electronic music duo Justice?,Woman,Randy,Safe and Sound,Pleasure
+medium,multiple,Which of these is NOT a song featured on Green Day's 21st Century Breakdown album?,She's A Rebel,Know Your Enemy,¿Viva la Gloria? (Little Girl),Before The Lobotomy
+medium,multiple,"""The Genius"" is the original and secondary name of which Wu-Tang Clan member?",GZA,Ghostface Killah,Ol' Dirty Bastard,Raekwon the Chef
+medium,multiple,Which of these songs was NOT released in the 90s?,"""I Want It All"" by Queen","""Vogue"" by Madonna","""Can't Stop This Thing We Started"" by Bryan Adams","""King of Wishful Thinking"" by Go West"
+easy,multiple,Who is the lead singer of Green Day?,Billie Joe Armstrong,Mike Dirnt,Sean Hughes,Tré Cool
+medium,multiple,Who is the singer for Fall Out Boy?,Patrick Stump,Brendon Urie,Pete Wentz,Gary Lee Weinrib
+medium,multiple,Korean girl group TWICE is under which Entertainment Label?,JYP,MBK,YG,Stone Music
+easy,multiple,"Whose signature guitar technique is called the ""windmill""?",Pete Townshend,Jimmy Page,Eddie Van Halen,Jimi Hendrix
+easy,multiple,What is not a wind instrument?,Viola,Oboe,Trombone,Duduk
+easy,boolean,Muse is a British (English) rock band,True,False,,
+easy,multiple,Who is the lead singer of the British pop rock band Coldplay?,Chris Martin,Jonny Buckland,Guy Berryman,Will Champion
+easy,boolean,Eurobeat is primarily an Italian genre of music.,True,False,,
+medium,estimate,What was Taylor Swift's 5th album called?,1989,Fearless,Red,Speak Now
+easy,multiple,Ringo Starr of The Beatles mainly played what instrument?,Drums,Bass,Guitar,Piano
+easy,multiple,What collaborative album was released by Kanye West and Jay-Z in 2011?,Watch the Throne,Distant Relatives,What a Time to be Alive,Unfinished Business
+medium,multiple,According to the RIAA: Which artist has sold the most albums by the million?,The Beatles,Elvis Presley,Michael Jackson,Pink Floyd
+medium,multiple,"Moby, an American DJ, singer, and musician, achieved worldwide success for the 1999 release of which of the following albums?",Play,Everything Is Wrong,Moby,18
+easy,boolean,A Saxophone is a brass instrument.,False,True,,
+easy,multiple,"In 2006, which band released their debut album ""A Fever You Can't Sweat Out""?",Panic! At the Disco,Twenty One Pilots,My Chemical Romance,Fall Out Boy
+hard,multiple,"Long John Baldry, the voice of Dr. Robotnik in Adventures Of Sonic The Hedgehog, was in a band with which music artist in the 1960s?",Elton John,Freddie Mercury,Paul McCartney,Johnny Cash
+easy,boolean,"The alternative rock band, They Might Be Giants, released their album 'Flood' in 1990. ",True,False,,
+easy,multiple,"What is the name of Death Grips Front Man, MC Ride?",Stefan Burnett,Zach Hill,Andy Morin,Stanley Burrell
+hard,multiple,"Björk's ""Unison"" contains a sample of which Oval song?",Aero Deck,Textuell,Panorama,Do While
+medium,multiple,"Where did the British Boy Band ""Bros"" come from?",Camberley,Guildford,Aldershot,Bagshot
+hard,multiple,"Which artists' version of the song ""The Tide is High"" came first?",The Paragons,Blondie,Kardinal Offishall,Atomic Kitten
+medium,multiple,Which one of these artists appears in the album Deltron 3030?,Dan the Automater,Lamarr Kendrick,Danger Mouse,CeeLo Green
+medium,multiple,"In The Bangles' 'Manic Monday', what time is it already?",Six o'clock,Five o'clock,Four o'clock,Seven o'clock
+medium,multiple,Who performed the hit single 'Call Me' for the 1980 film 'American Gigolo'?,Blondie,Madonna,Tina Turner,Janet Jackson
+medium,multiple,What is the real name of Canadian electronic music producer deadmau5?,Joel Zimmerman,Sonny Moore,Adam Richard Wiles,Thomas Wesley Pentz
+easy,multiple,'The Safety Dance' was the biggest hit single for which Canadian act?,Men Without Hats,Crash Test Dummies,The Tragically Hip,Broken Social Scene
+medium,multiple,"Which album by American rapper Kanye West contained songs such as ""Love Lockdown"", ""Paranoid"" and ""Heartless""?",808s & Heartbreak,Late Registration,The Life of Pablo,Graduation
+medium,multiple,Which Coldplay album won the Grammy for Best Rock Album in the 2009 Grammy Awards?,Viva La Vida Or Death And All His Friends,A Rush Of Blood To The Head,X&Y,Mylo Xyloto
+medium,multiple,Which of the following is NOT a song in BROCKHAMPTON's SATURATION album series?,LAMB,HOTTIE,SWAMP,BUMP
+medium,multiple,Band Aid's 'Do They Know It's Christmas' was recorded to raise awareness of which issue in Ethiopia?,Famine,Human rights violations,Pollution,Terrorism
+medium,multiple,"Where does ""Gasolina"" rapper Daddy Yankee originate from?",Puerto Rico,Cuba,Mexico,Spain
+easy,multiple,"Whose albums included ""Back in Black"" and ""Ballbreaker""?",AC/DC,Iron Maiden,Black Sabbath,Metallica
+medium,estimate,"When did Radiohead release their album ""OK Computer""?",1997,1995,2000,1993
+easy,multiple,What is the name of the album released in 2014 by American band Maroon 5?,V,X,III,IV
+medium,estimate,"Rick Astley's hit song ""Never Gonna Give You Up"" was released in what year?",1987,1985,1986,1988
+medium,estimate,In what year did US band Weezer release Weezer (The White Album)?,2016,2001,2008,2019
+easy,multiple,"Who performed ""I Took A Pill In Ibiza""?",Mike Posner,Avicii,Robbie Williams,Harry Styles
+medium,multiple,Which British female singer and songwriter was sampled Eminem's hit single 'Stan'?,Dido,Adele,Lily Allen,Leona Lewis
+medium,multiple,"Who performed the guitar solo on Michael Jackson's hit ""Beat It""?",Eddie Van Halen,Steve Vai,Kirk Hammett,Zakk Wylde
+medium,multiple,What album did Gorillaz release in 2017?,Humanz,Plastic Beach,The Fall,Demon Days
+easy,multiple,What was Rage Against the Machine's debut album?,Rage Against the Machine,Evil Empire,Bombtrack,The Battle Of Los Angeles
+hard,multiple,What was the progressive rock band Rush's first single?,Not Fade Away,Tom Sawyer,Working Man,Owner of a Lonely Heart
+medium,multiple,Ellie Goulding's earliest album was named?,Lights,Halcyon,Bright Lights,Halcyon Days
+medium,multiple,Which of these black metal acts was a solo project?,Burzum,Darkthrone,Mayhem,Dissection
+medium,multiple,"From which album is the Gorillaz song, ""On Melancholy Hill"" featured in?",Plastic Beach,Demon Days,Humanz,The Fall
+medium,multiple,Who had a 1973 hit with the song 'Hocus Pocus'?,Focus,Pilot,Rush,AC/DC
+hard,multiple,"What was the name of the cold-war singer who has a song in Grand Theft Auto IV, and a wall landmark in Moscow for his memorial?",Viktor Tsoi,Jimi Hendrix,Brian Jones,Vladimir Vysotsky
+medium,multiple,"Which of these songs is not on the ""untitled"" album by Led Zeppelin?",Celebration Day,Stairway to Heaven,Black Dog,Rock and Roll
+medium,multiple,The 'In the Flesh' tour was used in support of what Pink Floyd album?,Animals,The Wall,Wish You Were Here,The Final Cut
+medium,boolean,Pete Townshend was the first musician to destroy their intrument live on stage.,False,True,,
+medium,boolean,EDM label Monstercat signs tracks instead of artists.,True,False,,
+medium,multiple,Which European capital city gives its name to a 1981 song by Ultravox?,Vienna,Berlin,Paris,Brussels
+medium,multiple,"Which band, with Boy George on lead vocals, won the Brit Awards in 1984?",Culture Club	,Eurythmics,UB40,The Police
+medium,multiple,Which one of these Rammstein songs has two official music videos?,Du Riechst So Gut,Du Hast,Benzin,Mein Teil
+medium,multiple,What is the real name of prominent electronic musician Aphex Twin?,Richard D. James,Richard M. Hall,Richard W. Wright,Richard H. Blackmore
+medium,multiple,"Which novelty band was best known for their UK chart hits ""Combine Harvester"" and ""I Am a Cider Drinker"" in 1976?",The Wurzels,Goldie Lookin Chain,Bonzo Dog Doo-Dah Band,The Firm
+medium,boolean,"Green Day's album 'American Idiot' is considered a ""punk rock opera.""",True,False,,
+hard,multiple,Which of the following is NOT a real song from the band Thousand Foot Krutch?,Limitless Fury,Let The Sparks Fly,Down,Give Up The Ghost
+easy,multiple,Who is the lead singer of Foo Fighters?,Dave Grohl,Dave Mustaine,James Hetfield,Little Red Riding Hood
+easy,multiple,"Who is the musical artist who released the hit song, ""Love Song,"" in 2007?",Sara Bareilles,Taylor Swift,Katy Perry,Sarah Silverman
+easy,multiple,"Who was featured in the song ""Words"" by Feint? ",Laura Brehm,Anna Yvette ,Danyka Nadeau,Veela
+medium,multiple,"Which member of the British pop group ""The Spice Girls"" was known as Ginger Spice?",Geri Halliwell,Melanie Brown,Emma Bunton,Victoria Beckham

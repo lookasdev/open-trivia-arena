@@ -1,0 +1,79 @@
+Difficulty,Type,Question,Correct Answer,Wrong 1,Wrong 2,Wrong 3
+easy,boolean,"The Angry Video Game Nerd's alter ego is ""Board James"".",True,False,,
+hard,multiple,What do you declare in Rīchi Mahjong when you've drawn your winning tile?,Tsumo,Ron,Rīchi,Kan
+easy,estimate,How many pieces are there on the board at the start of a game of chess?,32,16,20,36
+hard,multiple,"Which of these cards from ""Magic: The Gathering"" has a flavor text that begins with ""Oi oi oi""?",Uthden Troll,Lotleth Troll,Albino Troll,Harvester Troll
+medium,multiple,"In ""Magic: The Gathering"", what instant card has the highest converted mana cost?",Blinkmoth Infusion,Vitalizing Wind, Chant of Vitu-Ghazi,Assert Authority
+hard,multiple,"In Magic: The Gathering, which of the following was the first publicly released foil card?",Lightning Dragon,Revenant,Beast of Burden,Dirtcowl Wurm
+hard,multiple,"The board game ""Monopoly"" is a variation of what board game?",The Landlord's Game,Territorial Dispute,Property Feud,The Monopolist's Game
+hard,boolean,The board game Go has more possible legal positions than the number of atoms in the visible universe.,True,False,,
+medium,multiple,Europa Universalis is a strategy video game based on which French board game?,Europa Universalis,Europe and the Universe,Europa!,Power in Europe
+easy,estimate,"In which year was the pen and paper RPG ""Deadlands"" released?",1996,2003,1999,1993
+easy,multiple,"On a standard Monopoly board, which square is diagonally opposite 'Go'? ",Free Parking,Go to Jail,Jail,The Electric Company
+hard,multiple,"What was the development code name for the ""Urza's Destiny"" expansion for ""Magic: The Gathering"", released in 1999?",Chimichanga,Burrito,Taquito,Enchilada
+easy,boolean,"There is a Donald Trump Board Game, which was made in 1989.",True,False,,
+hard,multiple,The Dice Tower network of board game podcasts and videos is run by which individual?,Tom Vasel,Jason LeVine,Borth Sampson,Uncle Pennybags
+medium,multiple,Which of the following is not a color of mana in Magic: The Gathering?,Yellow,White,Green,Blue
+medium,multiple,Which of the following characters is not in the board game Clue?,Mister Indigo,Colonel Mustard,Reverend Green,Miss Scarlet
+easy,estimate,How many spaces are there on a standard Monopoly board?,40,28,55,36
+hard,multiple,"In standard Monopoly, what's the rent if you land on Park Place with no houses?",$35,$30,$50,$45
+medium,multiple,Who was world chess champion between 1894 and 1921,Emanuel Lasker,José Raúl Capablanca,Wilhelm Steinitz,Bobby Fischer
+easy,boolean,"""PAYDAY: The Heist"" is a sequel to the board game ""Payday"".",False,True,,
+easy,multiple,"In a standard game of Monopoly, what colour are the two cheapest properties?",Brown,Green,Yellow,Blue
+medium,multiple,What happens when you roll 3 doubles in a row in Monopoly?,Go to jail,Get paid $200,Pay $200,Move to Free Parking
+medium,multiple,"In Chess, the Queen has the combined movement of which two pieces?",Bishop and Rook,Rook and King,Knight and Bishop,King and Knight
+hard,multiple,"What was the development code name for the ""Weatherlight"" expansion for ""Magic: The Gathering"", released in 1997?",Mocha Latte,Decaf,Frappuccino,Macchiato
+medium,multiple,"What type is ""Magic Drain"" in Yugioh! Trading Card Game?",Counter Trap,Normal Trap,Quick-Play Spell,Field Spell
+hard,multiple,What is the most challenging monster in the Dungeons & Dragons 5th Edition Monster Manual?,Tarrasque,Beholder,Displacer Beast,Lich
+hard,multiple,"Some of the ""Fallen Empires"" cards from ""Magic: The Gathering"" were misprinted on the backs of which other card game?",Wyvern,Pokemon,Dominion,Yu-Gi-Oh
+medium,multiple,What special item did the creators of Cards Against Humanity ship for their Black Friday pack?,Bull Feces,A Card Expansion,A Racist Toy,Cat Urine
+medium,multiple,"In poker, ""EV"" means what?",Expected Value,Equity Value,Equivalent Variation,Equity Variation
+medium,boolean,Wooden molding scraps were used to make the original Monopoly houses and hotels.,True,False,,
+medium,multiple,Who is the main character in the VHS tape included in the board game Nightmare?,The Gatekeeper,The Kryptkeeper,The Monster,The Nightmare
+medium,estimate,"The board game, Nightmare was released in what year?",1991,1992,1989,1995
+easy,multiple,How many dice are used in the game of Yahtzee?,Five,Four,Six,Eight
+easy,multiple,"In Dungeons and Dragons (5th edition), what stat do you normally add onto your initiative die roll?",Dexterity,Speed,Strength,Wisdom
+hard,multiple,What Magic: The Gathering card's flavor text is just 'Ribbit.'?,Turn to Frog,Spore Frog,Bloated Toad,Frogmite
+easy,boolean,Snakes and Ladders was originally created in India?,True,False,,
+hard,multiple,"In Magic: The Gathering, what card's flavor text is ""Catch!""?",Lava Axe,Stone-Throwing Devils,Ember Shot,Throwing Knife
+easy,multiple,The board game Monopoly takes its street names from which real American city?,"Atlantic City, New Jersey","Las Vegas, Nevada","Duluth, Minnesota","Charleston, South Carolina"
+hard,multiple,"Which card is on the cover of the Beta rulebook of ""Magic: The Gathering""?",Bog Wraith,Island,Rock Hydra,Elvish Archers
+easy,multiple,Which one of these is not a real game in the Dungeons & Dragons series?,Extreme Dungeons & Dragons,Advanced Dungeons & Dragons,Dungeons & Dragons 3.5th edition,Advanced Dungeons & Dragons 2nd edition
+medium,boolean,"In the game ""Racko"" you may pick up ANY card from the discard pile.",False,True,,
+medium,multiple,"At the start of a standard game of the Monopoly, if you throw a double six, which square would you land on?",Electric Company,Water Works,Chance,Community Chest
+easy,multiple,Which of the following is NOT a class in Dungeons and Dragons 5e?,Engineer ,Fighter ,Paladin ,Bard
+hard,multiple,"In Magic: The Gathering, what term for blocking was established in the Portal set?",Intercepting,Blocking,Resisting,Shielding
+easy,estimate,What is the maximum level you can have in a single class in Dungeons and Dragons (5e)?,20,30,15,25
+easy,multiple,Which of these board games do NOT utilize standard 6-sided dice?,The Game of Life,Monopoly,Risk,Snakes and Ladders
+medium,multiple,Who was the first official world chess champion?,Wilhelm Steinitz,José Raúl Capablanca,Emanuel Lasker,Bobby Fischer
+hard,estimate,"How many rooms are there, not including the hallways and the set of stairs, in the board game ""Clue""?",9,1,6,10
+easy,multiple,Carcassonne is based on which French town?,Carcassonne,Paris,Marseille,Clermont-Ferrand
+easy,multiple,"Which of these games includes the phrase ""Do not pass Go, do not collect $200""?",Monopoly,Pay Day,Cluedo,Coppit
+hard,multiple,"Which ability from the ""Magic: The Gathering"" Scars of Mirrodin expansion involves having at least three artifacts in play?",Metalcraft,Affinity,Imprint,Living Weapon
+hard,multiple,Which of these cities is NOT featured in the Pandemic board game?,Berlin,Ho Chi Minh City,Lagos,Karachi
+easy,multiple,"When was the board game Twister, released to the public?",April 1966,September 1965,January 1969,February 1966
+easy,boolean,The top human players can easily beat the top computers at chess,False,True,,
+medium,estimate,In what year was the card game Magic: the Gathering first introduced?,1993,1987,1998,2003
+hard,multiple,"On a standard Monopoly board, how much do you have to pay for Tennessee Ave?",$180,$200,$160,$220
+easy,multiple,"In chess, which is a characteristic of the King's Gambit?",Sacrificing a pawn,Sacrificing the king for a queen,Castling kingside,Moving the king on the 2nd move
+easy,boolean,"In the Dungeons and Dragons universe, Beshaba is the deity of bad luck. ",True,False,,
+hard,multiple,Which character class in Dungeons and Dragons 5th edition gains it's powers from making a pact with a being of higher power?,Warlock,Wizard,Sorceror,Cleric
+medium,multiple,"In Yu-Gi-Oh, how does a player perform an Xyz Summon?",Overlay at least 2 Monsters of the Same Level,Activate a Spell and Send Monsters to the Graveyard,Add the Monsters' Levels Together to Match the Xyz Monster,Banish A Number of Monsters From Your Hand And Deck
+easy,boolean,"When setting up a chess board, the king is placed on a square of his own color.",False,True,,
+hard,multiple,"Which board game was first released on February 6th, 1935?",Monopoly,Risk,Clue,Candy Land
+medium,estimate,"In the Board Game, Settlers of Catan, a die roll of what number causes the Robber to attack? ",7,3,10,1
+easy,estimate,How many dots are on a single die?,21,24,15,18
+medium,estimate,How many points is the Z tile worth in Scrabble?,10,8,5,6
+hard,multiple,"When Magic: The Gathering was first solicited, which of the following was it originally titled?",Mana Clash,Magic,Magic Clash,Mana Duels
+easy,boolean,"The card game ""Munchkin"" won the 2001 Origins Award for Best Traditional Card Game.",True,False,,
+medium,multiple,"In ""Magic: The Gathering"", during the design for Planar Chaos, what color did the developers think of adding in as the sixth color?",Purple,Brown,Pink,Orange
+easy,multiple,"In board games, an additional or ammended rule that applies to a certain group or place is informally known as a ""what"" rule?",House,Custom,Extra,Change
+medium,multiple,About how many Slinkys were sold in their first 60 years (from 1945 to 2005)?,300 Million,100 Million,450 Million,1 Billion
+medium,multiple,Which of the following tabletop games is the oldest?,Go,Chess,Mahjong,Shogi
+medium,multiple,What letter is used to refer to blue mana in the card game Magic The Gathering?,U,B,L,E
+hard,multiple,"In Magic: The Gathering, what was a tribute card to Jamie Wakefield's late wife Marilyn, who loved horses?",Timbermare,Loyal Pegasus,Vryn Wingmare,Sungrace Pegasus
+hard,estimate,What is the sum of all the tiles in a standard box of Scrabble?,187,207,197,177
+hard,multiple,Which Pokemon is #39 in the National Pokedex?,Jigglypuff,Pikachu,Psyduck,Fearow
+hard,multiple,"The board game ""Ra"" was designed by which designer? ",Reiner Knizia,Bruno Cathala,Uwe Rosenburg,Allison Kline
+hard,multiple,What is the world's oldest board game?,Senet,Chess,Checkers,Go
+medium,boolean,"""Rich Uncle Pennybags"" from the board game ""Monopoly"" wears a monocle.",False,True,,

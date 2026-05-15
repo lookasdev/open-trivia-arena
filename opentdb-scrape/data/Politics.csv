@@ -1,0 +1,78 @@
+Difficulty,Type,Question,Correct Answer,Wrong 1,Wrong 2,Wrong 3
+medium,estimate,The Watergate Scandal occured in what year?,1972,1973,1974,1971
+hard,multiple,"Who was the longest-serving senator in US history, serving from 1959 to 2010?",Robert Byrd,Daniel Inouye,Strom Thurmond,Joe Biden
+medium,multiple,What is former United States President Bill Clinton's full name?,William Jefferson Clinton,William Roosevelt Clinton,William Truman Clinton,William Lincoln Clinton
+medium,multiple,Who was elected leader of the UK Labour Party in September 2015?,Jeremy Corbyn,Ed Miliband,David Cameron,Theresa May
+medium,multiple,What is the primary purpose of the Fourth Amendment to the US Constitution?,Preventing unreasonable searches and seizures,Preventing cruel and unusual punishments,Protecting against imprisonment without due process of law,Protecting the right to keep and bear arms
+medium,multiple,Who became Prime Minister of the United Kingdom in July 2016?,Theresa May,Boris Johnson,David Cameron,Tony Blair
+hard,boolean,"George Clinton, Vice President of the United States (1805-1812), is an ancestor of President Bill Clinton.",False,True,,
+medium,multiple,"The 2014 movie ""The Raid 2: Berandal"" was mainly filmed in which Asian country?",Indonesia,Thailand,Brunei,Malaysia
+easy,boolean,Russia passed a law in 2013 which outlaws telling children that homosexuals exist.,True,False,,
+easy,boolean,"One of Barack Obama's United States presidential campaign slogan's was ""Yes We Can"".",True,False,,
+easy,multiple,"Which former US president was nicknamed ""Teddy"" after he refused to shoot a defenseless black bear?",Theodore Roosevelt,Woodrow Wilson,James F. Fielder,Andrew Jackson
+hard,boolean,Joko Widodo has appeared in the cover of a TIME magazine.,True,False,,
+medium,boolean,Theresa May was the first female Prime Minister of the United Kingdom.,False,True,,
+hard,boolean,Nazi Germany surrendered on Harry Truman's birthday while he was president.,True,False,,
+easy,multiple,Former United States President Bill Clinton famously played which instrument?,Saxophone,Baritone horn,Piano,Violin
+easy,boolean,The 2016 United States Presidential Election is the first time Hillary Clinton has run for President.,False,True,,
+hard,estimate,"Starting from 2000, China banned manufacturing and sales of all video game consoles. On which year was this ban lifted?",2015,2012,2008,2017
+medium,boolean,"In France, a hunting license or a sport-shooting license is needed to purchase any firearm.",True,False,,
+easy,boolean,One of Donald Trump's 2016 Presidential Campaign promises was to build a border wall between the United States and Mexico.,True,False,,
+easy,boolean,"In 2016, the United Kingdom voted to stay in the EU.",False,True,,
+medium,multiple,Which city is the seat of government of the Netherlands?,The Hague,Amsterdam,Utrecht,Rotterdam
+medium,multiple,Which of these is NOT one of Donald Trump's children?,Julius,Donald Jr.,Ivanka,Eric
+easy,multiple,What candidate won the 2012 US Presidential Election?,Barack Obama,Mitt Romney,Bob Hope,Ross Perot
+hard,multiple,What is centralism?, Concentration of power and authority in a central organization.,Conforming to one single common political agenda.,Remaining politically neutral.,The grey area in the spectrum of political left and right.
+medium,multiple,"Before 2011, ""True Capitalist Radio"" was known by a different name. What was that name?",True Conservative Radio,True Republican Radio,Texan Capitalist Radio,United Capitalists
+medium,estimate,"Before 2016, in which other year did Donald Trump run for President?",2000,2012,1988,2008
+medium,estimate,What year did Gerald Ford Become President?,1974,1977,1973,1969
+hard,multiple,Which letter do you need to have on a European driver license in order to ride any motorbikes?,A,X,D,B
+hard,estimate,What year did the effort to deploy the Common Core State Standards (CCSS) in the US begin?,2009,2012,2006,1997
+easy,estimate,How many people are in the U.S. House of Representatives?,435,260,415,50
+easy,multiple,Who was the 45th President of the United States?,Donald Trump,Barack Obama,Bill Clinton,George Bush
+medium,boolean,"During the 2016 United States presidential election, the State of California possessed the most electoral votes, having 55.",True,False,,
+medium,multiple,Who succeeded Joseph Stalin as General Secretary of the Communist Party of the Soviet Union?,Nikita Khrushchev,Leonid Brezhnev,Mikhail Gorbachev,Boris Yeltsin
+hard,multiple,Which of the following United States Presidents served the shortest term in office?,William Henry Harrison,Zachary Taylor,James A. Garfield,Warren G. Harding
+easy,multiple,The largest consumer market in 2015 was...,The United States of America,Germany,Japan,United Kingdom
+medium,multiple,Who was the British Prime Minister at the outbreak of the Second World War?,Neville Chamberlain,Clement Attlee,Winston Churchill,Stanley Baldwin
+easy,multiple,"Whose 2016 presidential campaign slogan was ""Make America Great Again""?",Donald Trump,Ted Cruz,Marco Rubio,Bernie Sanders
+medium,estimate,"In United States history, how many vice presidents did Franklin D. Roosevelt have during his time in office as president?",3,1,2,0
+medium,multiple,Which U.S. president is said to have had the longest beard?,Rutherford B. Hayes,Zachary Taylor,John Quincy Adams,James A. Garfield
+easy,boolean,Former president Theodore Roosevelt (1900-1908)  ran for another term under the Progressive Party in 1912.,True,False,,
+medium,multiple,Which United Nations principal organ has been suspended since 1994?,Trusteeship Council,Secretariat,General Assembly,Economic and Social Council
+medium,multiple,Which of the following Argentinian presidents was elected in 2015?,Mauricio Macri,Cristina Fernandez de Kirchner,Nestor Kirchner,Juan Domingo Peron
+easy,boolean,Denmark has a monarch.,True,False,,
+hard,multiple,What is the name of Niccolò Machiavelli's work that argued effective leaders needed to crush their opponents at all costs?,The Prince,The Rape of Lucrece,Will to Power,Love's Labours Lost
+medium,boolean,"Taiwan officially calls itself ""the Republic of China"".",True,False,,
+medium,boolean,"The State of Queensland, Australia voted NO to a referendum for daylight savings in 1992.",True,False,,
+medium,multiple,"What was the personal nickname of the 40th Governor of the US State Louisiana, Huey Long?",The Kingfish,The Champ,The Hoot Owl,The Oracle
+easy,multiple,Who was South Africa's first Black President?,Nelson Mandela,Mangosuthu Buthelezi,Steve Biko ,Bishop Tutu
+hard,multiple,Which Native American tribe/nation requires at least one half blood quantum (equivalent to one parent) to be eligible for membership?,Yomba Shoshone Tribe,Standing Rock Sioux Tribe,Kiowa Tribe of Oklahoma,Pawnee Nation of Oklahoma
+hard,multiple,Who is the only US president to serve two non-consecutive terms in office?,Grover Cleveland,James K. Polk,Franklin D. Roosevelt,Thomas Jefferson
+hard,multiple,Which of these was an official candidate in the 2017 British General Election?,Lord Buckethead,James Francis,Robert Wimbledon,Sir Crumpetsby
+medium,boolean,Helen Clark was the 37th Prime Minister of Australia.,False,True,,
+medium,multiple,Who was the 40th President of the USA?,Ronald Reagan,Jimmy Carter,Bill Clinton,Richard Nixon
+medium,multiple,Which president erased the national debt of the United States?,Andrew Jackson,Ronald Reagan,John F. Kennedy,Franklin Roosevelt
+hard,multiple,Which nation joined NATO as its 29th member in 2017?,Montenegro,Estonia,Andorra,Iceland
+easy,multiple,Which of the following Pacific Islander countries is ruled by a constitutional monarchy?,Tonga,Palau,Fiji,Kiribati
+medium,multiple,"What country saw a world record 315 million voters turn out for elections on May 20, 1991?",India,United States of America,Soviet Union,Poland
+medium,boolean,George W. Bush lost the popular vote in the 2004 United States presidential election.,False,True,,
+easy,boolean,"The S in Harry S. Truman stands for ""Samuel"".",False,True,,
+easy,boolean,"Despite being seperated into multiple countries, The Scandinavian countries are unified by all having the same monarch.",False,True,,
+easy,boolean,Donald Trump won the popular vote in the 2016 United States presidential election.,False,True,,
+hard,multiple,Which US state was the first to allow women to vote in 1869?,Wyoming,California,Delaware,Virginia
+hard,multiple,Which of the following United States senators is known for performing a 24-hour long filibuster?,Strom Thurmond,Roy Blunt,John Barrasso,Chuck Schumer
+easy,boolean,"There was a satirical candidate named ""Deez Nuts"" running in the 2016 US presidential elections.",True,False,,
+hard,multiple,"""Yes, America Can!"" was this United States politician's de facto campaign slogan in 2004.",George W. Bush,John Kerry,Barack Obama,Al Gore
+medium,boolean,Vatican city is a full member of United Nations.,False,True,,
+medium,boolean,"Jeb Bush was elected as Governor of Florida in 2002, starting his political career.",False,True,,
+easy,boolean,Berlin was the capital of two countries for about 40 years.,False,True,,
+easy,estimate,"According to the United States Constitution, how old must a person be to be elected President of the United States?",35,30,40,45
+medium,multiple,Who was the only president to not be in office in Washington D.C?,George Washington,Abraham Lincoln,Richard Nixon,Thomas Jefferson
+medium,multiple,"Which former US president used ""Let's Make America Great Again"" as his campaign slogan before Donald Trump's campaign?",Ronald Reagan,Jimmy Carter,Gerald Ford,Richard Nixon
+medium,multiple,What are the first names of the first father and son pair that were both Prime Ministers of Canada?,Justin and Pierre,John and Louis,Brian and Justin,Brian and Pierre
+medium,multiple,"Due to the Nagoya Resolution, China agreed to allow Taiwan to compete separately in international sporting events under what name?",Chinese Taipei,Chinese Taiwan,Republic of Taiwan,Republic of Taipei 
+medium,multiple,"Between 1973 to 1990, what country was ruled by dictator Augusto Pinochet?",Chile,Ethiopia,Indonesia,Nicaragua
+medium,multiple,Who is one of the co-princes of Andorra?,The president of France,The monarch of the UK,The Pope,No-one (the position is vacant)
+hard,multiple,"In June 2017, Saudi Arabia and Egypt broke off ties with which country over its supposed support for terrorism?",Qatar,Bahrain,United States of America,Russia
+hard,multiple,Which major bank's collapse was notable as one of the causes of the Financal Crisis of 2008?,Lehman Brothers,HSBC,Barclays,Lloyds

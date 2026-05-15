@@ -1,0 +1,100 @@
+Difficulty,Type,Question,Correct Answer,Wrong 1,Wrong 2,Wrong 3
+medium,multiple,Which dog breed is named after a region in Croatia,Dalmatian,Pekingnese,Chihuahua ,Pomeranian
+easy,boolean,Rabbits can see what's behind themselves without turning their heads.,True,False,,
+medium,boolean,You can tell the age of a ladybird by counting the spots on his back.,False,True,,
+hard,multiple,What is the scientific name of the Budgerigar?,Melopsittacus undulatus,Nymphicus hollandicus,Pyrrhura molinae,Ara macao
+medium,multiple,What are rhino's horn made of?,Keratin,Bone,Ivory,Skin
+medium,boolean,The echidna is a monotreme.,True,False,,
+medium,boolean,An octopus can fit through any hole larger than its beak.,True,False,,
+hard,multiple,What scientific family does the Aardwolf belong to?,Hyaenidae,Canidae,Felidae,Eupleridae
+easy,multiple,Hippocampus is the Latin name for which marine creature?,Seahorse,Dolphin,Whale,Octopus
+medium,boolean,Otters have pockets under their arms for carrying their favourite snacks and rocks.,True,False,,
+medium,boolean,Sea sponges can have hearts.,False,True,,
+easy,estimate,How many teeth does an adult rabbit have?,28,30,26,24
+hard,multiple,What is the scientific name of the cheetah?,Acinonyx jubatus,Panthera onca,Lynx rufus,Felis catus
+medium,multiple,What is the world's longest venomous snake?,King Cobra,Green Anaconda,Inland Taipan,Yellow Bellied Sea Snake
+medium,multiple,Cashmere is the wool from which kind of animal?,Goat,Sheep,Camel,Llama
+hard,multiple,What scientific suborder does the family Hyaenidae belong to?,Feliformia,Haplorhini,Caniformia,Ciconiiformes
+easy,boolean,Cats have whiskers under their legs.,True,False,,
+easy,boolean,A flock of crows is known as a homicide.,False,True,,
+medium,multiple,Which of these species is not extinct?,Komodo dragon,Japanese sea lion,Tasmanian tiger,Saudi gazelle
+hard,multiple,What type of creature is a Bonobo?,Ape,Lion,Parrot,Wildcat
+medium,multiple,What is the common term for bovine spongiform encephalopathy (BSE)?,Mad Cow disease,Weil's disease,Milk fever,Foot-and-mouth disease
+medium,multiple,"What does ""hippopotamus"" mean and in what langauge?",River Horse (Greek),River Horse (Latin),Fat Pig (Greek),Fat Pig (Latin)
+medium,multiple,"A carnivorous animal eats flesh, what does a nucivorous animal eat?",Nuts,Nothing,Fruit,Seaweed
+easy,multiple,Wombats are native to which Country?,Australia,New Zealand,Papua New Guinea,Palau
+medium,multiple,What is the collective noun for bears?,Sloth,Drove,Tribe,Husk
+medium,multiple,What is the name of the family that the domestic cat is a member of?,Felidae,Felinae,Felis,Cat
+medium,multiple,"The dish Fugu, is made from what family of fish?",Pufferfish,Bass,Salmon,Mackerel
+easy,boolean,The Killer Whale is considered a type of dolphin.,True,False,,
+medium,boolean,Hyenas are more closely related to cats than to dogs.,True,False,,
+easy,multiple,What is the scientific name for modern day humans?,Homo Sapiens,Homo Ergaster,Homo Erectus,Homo Neanderthalensis
+easy,boolean,Elephants are physically unable to jump.,True,False,,
+hard,multiple,"Unlike on most salamanders, this part of a newt is flat?",Tail,Head,Teeth,Feet
+easy,multiple,Which is the national animal of India?,Tiger,Lion,Horse,Camel
+easy,boolean,Rabbits are carnivores.,False,True,,
+medium,multiple,What is the scientific name of the Common Chimpanzee?,Pan troglodytes,Gorilla gorilla,Pan paniscus,Panthera leo
+medium,multiple,What is the collective noun for rats?,Mischief,Pack,Race,Drift
+medium,boolean,The Platypus is a mammal.,True,False,,
+hard,multiple,What is the name of the copper-rich protein that creates the blue blood in the Antarctic octopus?,Hemocyanin,Cytochrome,Iron,Methionine
+hard,multiple,"Which species is a ""mountain chicken""?",Frog,Chicken,Horse,Fly
+easy,boolean,The Axolotl is an amphibian that can spend its whole life in a larval state.,True,False,,
+hard,multiple,Which of these is a colony of polyps and not a jellyfish?,Portuguese Man-of-War,Sea Wasp,Irukandji,Sea Nettle
+medium,boolean,"The ""mountain chicken"" is a chicken.",False,True,,
+easy,boolean,"In 2016, the IUCN reclassified the status of Giant Pandas from endangered to vulnerable.",True,False,,
+hard,multiple,What is the Gray Wolf's scientific name?,Canis Lupus,Canis Aureus,Canis Latrans,Canis Lupus Lycaon
+easy,multiple,Which class of animals are newts members of?,Amphibian,Fish,Reptiles,Mammals
+easy,boolean,A caterpillar has more muscles than humans do.,True,False,,
+medium,multiple,Which of the following is true when alligators are behaving territorially?,They bellow while showing their tail and neck,Open their jaws while making a clicking noise,They run full force at the threat,Slap their tails on the ground
+medium,multiple,What type of animal is a natterjack?,Toad,Bird,Fish,Insect
+easy,boolean,A bear does NOT defecate during hibernation. ,True,False,,
+hard,multiple,What is the scientific name for the Bald Eagle?,Haliaeetus Leucocephalus ,Tyto Alba,Cyanocitta Cristata,Aquila Chrysaetos
+hard,multiple,"Which of the following is another name for the ""Poecilotheria Metallica Tarantula""?",Gooty,Hopper,Silver Stripe,Woebegone
+easy,multiple,"The Kākāpō is a large, flightless, nocturnal parrot native to which country?",New Zealand,South Africa,Australia,Madagascar
+easy,boolean,Kangaroos keep food in their pouches next to their children.,False,True,,
+easy,boolean,Rabbits are rodents.,False,True,,
+hard,multiple,What bird is born with claws on its wing digits?,Hoatzin,Cormorant,Cassowary,Secretary bird
+medium,multiple,What is the average lifespan of a domestic rabbit?,8-12 years,1-2 years,4-7 years,14-20 years
+easy,boolean,Rabbits can't vomit.,True,False,,
+medium,boolean,"""Kamea,"" the Gilbertese Islander word for dog, is derived from the English phrase ""Come here!""",True,False,,
+medium,multiple,"For what reason would a spotted hyena ""laugh""?",Nervousness,Excitement,Aggression,Exhaustion
+medium,multiple,What are the scales on all snakes and most lizards are made of?,Keratin,Ecdysis,Epidermis,Ankyloglossia
+easy,boolean,A slug’s blood is green.,True,False,,
+medium,multiple,What is the fastest animal?,Peregrine Falcon,Golden Eagle,Cheetah,Horsefly
+medium,boolean,The average lifespan of a wildcat is only around 5-6 years. ,False,True,,
+medium,multiple,About how much of their body weight in food do sea otters eat every day?,25%,10%,80%,45%
+easy,estimate,How many legs do butterflies have?,6,2,4,0
+medium,multiple,What is the national bird of Bahrain?,Bulbul,Hummingbird,Falcon,Sparrow
+medium,multiple,What is the name for a male bee that comes from an unfertilized egg?,Drone,Soldier,Worker,Male
+medium,boolean,Finnish Lapphund dogs were used for herding reindeer.,True,False,,
+easy,multiple,What color is a Steller's Jay?,blue and black,blue and grey,blue and white,grey and black
+easy,multiple,What is Grumpy Cat's real name?,Tardar Sauce,Sauce,Minnie,Broccoli
+medium,boolean,Tigers have one colour of skin despite the stripey fur.,False,True,,
+easy,boolean,Zebras are white with black stripes.,False,True,,
+medium,multiple,Which of the following is NOT a venomous snake?,Reticulated python,Malayan Krait,Yellow bellied sea snake,Black mamba
+medium,multiple,What color/colour is a polar bear's skin?,Black,White,Pink,Green
+easy,multiple,What do you call a baby bat?,Pup,Cub,Chick,Kid
+easy,multiple,"Snakes and lizards are known to flick their tongue, this behavior is to?",Capture scent particles,Taste the sweet air,Threaten other species,Attract female mates
+easy,multiple,Which of these animals are not real?,Nemean Lion,Sea Dragon,Tasmanian Devil,Giant Squid
+easy,multiple,Which breed of dog is traditionally associated with firefighters?,Dalmatians,German Shepard,Great Dane,Mastiff
+hard,multiple,What is the collective noun for vultures?,Wake,Ambush,Building,Gaze
+hard,multiple,Chronic Wasting Disease (CWD) exclusively infects members of which family of animals?,Cervids,Hominids,Felids,Canids
+medium,multiple,"What is the scientific name for the ""Polar Bear""?",Ursus Maritimus,Polar Bear,Ursus Spelaeus,Ursus Arctos
+easy,boolean,"The freshwater amphibian, the Axolotl, can regrow it's limbs.",True,False,,
+medium,multiple,What dog breed is one of the oldest breeds of dog and has flourished since before 400 BCE.,Pugs,Bulldogs,Boxers,Chihuahua
+easy,multiple,"By definition, where does an abyssopelagic animal live?",At the bottom of the ocean,In the desert,On top of a mountain,Inside a tree
+hard,multiple,What is the average amount of chinchillas born into a single litter?,2-3,10-15,5-8,15-18
+hard,multiple,Which species of Brown Bear is not extinct?,Syrian Brown Bear,California Grizzly Bear,Atlas Bear,Mexican Grizzly Bear
+hard,multiple,Which of these animals is NOT a lizard?,Tuatara,Komodo Dragon,Gila Monster,Green Iguana
+medium,multiple,"The now extinct species ""Thylacine"" was native to where?","Tasmania, Australia","Baluchistan, Pakistan","Wallachia, Romania","Oregon, United States"
+easy,multiple,What is the collective noun for a group of crows?,Murder,Pack,Gaggle,Herd
+hard,estimate,How many known living species of hyenas are there?,4,8,2,6
+hard,multiple,"To which biological phylum do all mammals, birds and reptiles belong?",Chordata,Echinodermata,Annelida,Placazoa
+hard,multiple,What was the name of the Ethiopian Wolf before they knew it was related to wolves?,Simien Jackel,Ethiopian Coyote,Amharic Fox,Canis Simiensis
+medium,multiple,Which animal was part of an Russian domestication experiment in 1959?,Foxes,Pigeons,Bears,Alligators
+medium,multiple,"""Decapods"" are an order of ten-footed crustaceans.  Which of these are NOT decapods?",Krill,Lobsters,Shrimp,Crabs
+easy,multiple,What is the fastest  land animal?,Cheetah,Lion,Thomson’s Gazelle,Pronghorn Antelope
+easy,multiple,What is the name of a rabbit's abode?,Burrow,Nest,Den,Dray
+easy,multiple,What colour is the female blackbird?,Brown,Black,White,Yellow
+easy,boolean,The internet browser Firefox is named after the Red Panda.,True,False,,
+medium,boolean,"The Ceratosaurus, a dinosaur known for having a horn on the top of its nose, is also known to be a decendent of the Tyrannosaurus Rex.",False,True,,

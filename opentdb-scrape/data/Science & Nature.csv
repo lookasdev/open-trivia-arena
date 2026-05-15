@@ -1,0 +1,300 @@
+Difficulty,Type,Question,Correct Answer,Wrong 1,Wrong 2,Wrong 3
+easy,boolean,Igneous rocks are formed by excessive heat and pressure.,False,True,,
+medium,boolean,Pneumonoultramicroscopicsilicovolcanoconiosis is a synonym for the disease known as silicosis.,True,False,,
+medium,multiple,Myopia is the scientific term for which condition?,Shortsightedness,Farsightedness,Double Vision,Clouded Vision
+easy,estimate,How many planets are there in the Solar System?,8,9,11,10
+easy,multiple,What animal takes part in Schrödinger's most famous thought experiment?,Cat,Dog,Bat,Butterfly
+medium,boolean,Steel is an alloy of Iron and Carbon.,True,False,,
+easy,multiple,Which type of rock is created by intense heat AND pressure?,Metamorphic,Sedimentary,Igneous,Diamond
+hard,multiple,Which of the following are cells of the adaptive immune system?,Cytotoxic T cells,Dendritic cells,Natural killer cells,White blood cells
+medium,estimate,How many baby/milk teeth does a human child have in total?,20,10,15,25
+medium,multiple,"Which NASA Space Shuttle broke apart during atmospheric re-entry on February 1, 2003? ",Columbia,Challenger,Discovery,Endeavour
+hard,multiple,"In the Scoville scale, what is the hottest chemical?",Resiniferatoxin,Capsaicin,Dihydrocapsaicin,Tinyatoxin
+hard,multiple,"The word ""science"" stems from the word ""scire"" meaning what?",To know,To measure,To live,To count
+hard,multiple,Folic acid is the synthetic form of which vitamin?,Vitamin B,Vitamin A,Vitamin C,Vitamin D
+medium,multiple,"Which desert is the only desert in the world where the ""Saguaro"" cactus grows indigenously?",The Sonoran Desert,The Gobi Desert,The Yuma Desert,The Arabian Desert
+medium,multiple,Which of these is NOT a part of the structure of a typical neuron?,Islets of Langerhans,Node of Ranvier,Schwann cell,Myelin sheath
+easy,multiple,The biggest distinction between a eukaryotic cell and a prokaryotic cell is:,The presence or absence of a nucleus,The overall size,The presence or absence of certain organelles,The mode of reproduction
+easy,multiple,Rhinoplasty is a surgical procedure on what part of the human body?,Nose,Ears,Chin,Neck
+hard,multiple,How many objects are equivalent to one mole?,6.022 x 10^23,6.002 x 10^22,6.022 x 10^22,6.002 x 10^23
+hard,multiple,Autosomal-dominant Compelling Helio-Ophthalmic Outburst syndrome is the need to do what when seeing the Sun?,Sneeze,Cough,Yawn,Hiccup
+easy,multiple,"This element, when overcome with extreme heat and pressure, creates diamonds.",Carbon,Nitrogen,Oxygen,Hydrogen
+hard,multiple,The Western Lowland Gorilla is scientifically know as?,Gorilla Gorilla Gorilla,Gorilla Gorilla Diehli,Gorilla Beringei Graueri,Gorilla Beringei Beringei
+easy,boolean,An average human can go two weeks without water.,False,True,,
+hard,multiple,What genetic disease is caused by having an extra Y chromosome (XYY)?,Jacob's Syndrome,Klinefelter's Syndrome,Turner's Syndrome,Down Syndrome
+easy,multiple,What is the standard SI unit for distance?,Metre,Angstrom,Foot,Fathom
+easy,estimate,How many chromosomes are in your body cells?,23,21,22,24
+medium,multiple,Which Swiss psychologist is synonymous with the concepts of introvert and extrovert personalities?,Carl Jung,Jean Piaget,Alice Miller,Hermann Rorschach
+hard,multiple,Which of the following is NOT a real element?,Vitrainium,Praseodymium,Hassium,Lutetium
+easy,boolean,"Water always boils at 100°C, 212°F, 373.15K, no matter where you are.",False,True,,
+easy,multiple,What is the primary addictive substance found in tobacco?,Nicotine,Cathinone,Ephedrine,Glaucine
+hard,multiple,Which moon is the only satellite in our solar system to possess a dense atmosphere?,Titan,Europa,Miranda,Callisto
+medium,multiple,What part of the brain takes its name from the Greek for seahorse?,Hippocampus,Cerebellum,Thalamus,Amygdala
+medium,multiple,Which part of the body does glaucoma affect?,Eyes,Throat,Stomach,Blood
+medium,multiple,Which of the following is the male pollen-producing reproductive part of a flower?,Stamen,Sepal,Pistil,Petal
+hard,multiple,Which of these is used to show that Earth spins on an axis? ,Foucault Pendulum ,Polaris,Sundial,Tectonic Plates 
+medium,multiple,What term is best associated with Sigmund Freud?,Psychoanalysis,Cognitive-Behavioral Therapy,Theory of Gravity,Dialectical Behavior Therapy
+easy,boolean,All planets in the Solar System orbit the Sun.,True,False,,
+medium,multiple,What is Hypernatremia?,Increase in blood sodium,Decrease in blood potassium,Increase in blood glucose,Decrease in blood iron
+medium,boolean,Sugar contains fat.,False,True,,
+medium,multiple,"In aeronautics, flaps and slats are used to control what on an aircraft?",Lift,Thrust,Drag,Weight 
+easy,estimate,Naturally occuring uranium primarily consists of which isotope?,238,235,239,233
+medium,multiple,Which continent do sweet potatoes originally come from?,South America,Asia,Africa,Europe
+hard,multiple,What nucleotide pairs with guanine?,Cytosine,Thymine,Adenine,Uracil
+hard,multiple,Which of the following is a major muscle of the back?,Trapezius,Trapezium,Trapezoid,Triquetrum
+medium,boolean,The Doppler effect applies to light.,True,False,,
+medium,multiple,"The ""Tibia"" is found in which part of the body?",Leg,Arm,Hand,Head
+hard,multiple,"What is ""Stenoma""?",A genus of moths,A combat stimulant from WW2,A type of seasoning,A port city in the carribean
+medium,multiple,What is the scientific term for 'taste'?,Gustatory Perception,Olfaction,Somatosensation,Auditory Perception
+medium,multiple,After which Danish city is the 72th element on the periodic table named?,Copenhagen,Odense,Herning,Skagen
+hard,multiple,How long is a light-year?,9.461 Trillion Kilometres,1 AU,105.40 Earth-years,501.2 Million Miles
+medium,multiple,What are human nails made of?,Keratin,Bone,Chitin,Calcium
+hard,multiple,The 'Islets of Langerhans' is found in which human organ?,Pancreas,Kidney,Liver,Brain
+medium,multiple,"Where did the Great Storm of 1987 make landfall at, first?",Cornwall,Surrey,Wales,The Midlands
+medium,multiple,What mineral has the lowest number on the Mohs scale?,Talc,Quartz,Diamond,Gypsum
+easy,multiple,71% of the Earth's surface is made up of,Water,Deserts,Continents,Forests
+medium,multiple,What is an alternative name for multiple personality disorder?,Dissociative identity disorder,Body integrity identity disorder,Identity crisis,Schizophrenia
+hard,multiple,Coulrophobia is the irrational fear of what?,Clowns,Cemeteries,Needles,Tunnels
+hard,multiple,Which is the chemical name of H2O?,Dihydrogen Monoxide,Ammonium chloride,Anhydrous Sodium Carbonate,Manganese dioxide
+easy,multiple,What is the elemental symbol for mercury?,Hg,Me,Mc,Hy
+medium,multiple,"What was the category of the 2005 hurricane, Hurricane Katrina, in the Saffir-Simpson hurricane wind scale?",Category 5,Category 1,Category 4,Category 2
+medium,estimate,"In Chemistry, how many isomers does Butanol (C4H9OH) have?",4,3,5,6
+medium,multiple,Which of these two plates are best know for forming earthquakes and tsunami's? ,Convergent Plate Boundaries/Oceanic Crust,Divergent Plate Boundaries/Convergent/Oceanic Crust,Transform Plate Boundaries/Divergent Plate Boundaries,Oceanic & Continental Crust/Transform Plate Boundaries
+medium,multiple,Which of the following spacecraft never touched the moon?,Mariner 4,Apollo 11,Luna 2,SMART-1
+medium,boolean,The French scientists Louis Pasteur and Émile Roux developed the first rabies vaccination in 1885.,True,False,,
+easy,multiple,"What is the ""powerhouse"" of the Eukaryotic animal cell?",Mitochondria,Nucleus,Chloroplast,Endoplasmic Reticulum
+medium,multiple,All the following metal elements are liquids at or near room temperature EXCEPT:,Beryllium,Gallium,Caesium,Mercury
+easy,boolean,"Celiac Disease is a disease that effects the heart, causing those effected to be unable to eat meat.",False,True,,
+easy,boolean,Salt is 100% composed of Sodium.,False,True,,
+medium,multiple,Which planet in the Solar System is the closest to the Sun?,Mercury,Earth,Mars,Venus
+medium,boolean,Hippopotomonstrosesquippedaliophobia is the irrational fear of long words.,True,False,,
+easy,multiple,The element involved in making human blood red is which of the following?,Iron,Copper,Iridium,Cobalt
+medium,multiple,What is the largest living organism currently known to man?,Honey Fungus,Blue Whale,Redwood Tree,The Coral Reef
+easy,multiple,What is the hottest planet in the solar system,Venus,Jupiter,Mercury ,Mars
+medium,multiple,About how old is Earth?,4.5 Billion Years,3.5 Billion Years,2.5 Billion Years,5.5 Billion Years
+easy,multiple,What produces the green colour of most plant leaves?,Chlorophyll,Light refraction,Natural pigments,UV radiation
+hard,multiple,How many protons are in an oxygen atom?,Eight,Four,Two,Six
+medium,boolean,The Neanderthals were a direct ancestor of modern humans.,False,True,,
+medium,multiple,Deuterium is an isotope of which element?,Hydrogen,Nitrogen,Helium,Neon
+hard,multiple,What physics principle relates the net electric flux out of a closed surface to the charge enclosed by that surface?,Gauss's Law,Faraday's Law,Ampere's Law,Biot-Savart Law
+easy,multiple,What did Gregory Mendel use to test genetic crossovers?,Peas,Cats,Flowers,Parrots
+medium,multiple,Gannymede is the largest moon of which planet?,Jupiter,Uranus,Neptune,Mars
+hard,boolean,The value of one Calorie is different than the value of one calorie.,True,False,,
+easy,multiple,"What is the thin, outermost layer of the Earth?",Crust,Exosphere,Mantle,Outer Core
+medium,boolean,"The ""Gympie Stinger"" is the deadliest plant in the world.",False,True,,
+hard,multiple,If you planted the seeds of Quercus robur what would grow?,Trees,Flowers,Vegtables,Grains
+medium,multiple,Which one of these scientists conducted the Gold Foil Experiment which concluded that atoms are mostly made of empty space?,Ernest Rutherford,Joseph John Thomson,Archimedes,Niels Henrik David Bohr
+easy,multiple,What is the chemical makeup of water?,H20,C12H6O2,CO2,H
+medium,multiple,Which portion of the Marijuana plant produces the psychoactive substance known as THC?,Female Flower,Leaves,Male Flower,Root Ball
+hard,estimate,How many legs is it biologically impossible for a centipede to have?,100,26,50,74
+hard,multiple,Which major extinction event was caused by an asteroid collision and eliminated the majority of non-avian dinosaurs?,Cretaceous-Paleogene,Triassic–Jurassic,Permian–Triassic,Ordovician–Silurian
+medium,multiple,Which of these is a type of stretch/deep tendon reflex?,Ankle jerk reflex,Gag reflex,Pupillary light reflex,Scratch reflex
+easy,boolean,An atom contains a nucleus.,True,False,,
+medium,multiple,Who made the discovery of X-rays?,Wilhelm Conrad Röntgen,Thomas Alva Edison,James Watt,Albert Einstein
+medium,multiple,What is the study of the cells and tissues of plants and animals?,Histology,Microbiology,Anatomy,Biochemistry
+easy,estimate,What is the atomic mass of Carbon?,12,14,16,10
+medium,multiple,What is the unit of electrical capacitance?,Farad,Gauss,Henry,Watt
+easy,multiple,What organelle aids in synthesis of DNA in cells?,Ribosomes,Nuclei,Lysosomes,Mitochondria
+easy,multiple,Which element has the chemical symbol 'Fe'?,Iron,Gold,Silver,Tin
+medium,multiple,Deionized water is water with which of the following removed?,Iron,Oxygen,Hydrogen,Uncharged atoms
+medium,boolean,Polaris is the brightest star in the northern hemisphere night sky.,False,True,,
+hard,boolean,Albert Einstein won a noble prize for his theory of relativity.,False,True,,
+medium,multiple,What is the name of the cognitive bias wherein a person with low ability in a particular skill mistake themselves as being superior?,Dunning-Kruger effect,Meyers-Briggs effect,Müller-Lyer effect,Freud-Hall effect
+hard,multiple,"What is the scientific name for the extinct hominin known as ""Lucy""?",Australopithecus Afarensis,Australopithecus Africanus,Australopithecus Architeuthis,Australopithecus Antaris
+easy,boolean,A plant that has a life cycle for more than a year is known as an annual.,False,True,,
+hard,multiple,"What does the term ""isolation"" refer to in microbiology?","The separation of a strain from a natural, mixed population of living microbes",A lack of nutrition in microenviroments,The nitrogen level in soil,"Testing effects of certain microorganisms in an isolated enviroments, such as caves"
+easy,multiple,Which of the following is not one of the groups on the periodic table?,Fluorines,Alkali Metals,Halogens,Noble Gases
+hard,multiple,What is the name for the auditory illusion of a note that seems to be rising infinitely?,Shepard Tone,Glissandro Illusion,Fransen Effect,McGurck Effect
+medium,multiple,Which of these stars is the largest?,UY Scuti,VY Canis Majoris,Betelgeuse,RW Cephei
+hard,multiple,Which of the following elements is typically used in the doping of the semiconductor silicon?,Boron,Oxygen,Carbon,Iron
+easy,multiple,About what percentage of the Earth's surface is water? ,70%,30%,50%,90%
+hard,multiple,What causes the sound of a heartbeat?,Closure of the heart valves,Contraction of the heart chambers,Blood exiting the heart,Relaxation of the heart chambers
+medium,multiple,Approximately how long is a year on Uranus?,84 Earth years,47 Earth years,62 Earth years,109 Earth years
+hard,multiple,"Which of the following plastic is commonly used for window frames, gutters and drain pipes?",Polyvinylchloride (PVC) ,Polyethylene (PE),Polypropylene (PP),Polystyrene (PS)
+medium,multiple,What causes Lyme disease?,A bacteria,A virus,A parasitic worm,An amoeba
+medium,estimate,How many degrees Fahrenheit is 100 degrees Celsius? ,212,326,100,451
+medium,boolean,"In the periodic table, Potassium's symbol is the letter K.",True,False,,
+easy,multiple,Which of these bones is hardest to break?,Femur,Cranium,Humerus,Tibia
+hard,multiple,All of the following human genetic haplogroup names are shared between Y-chromosome and mitochondrial DNA haplogroups EXCEPT:,Haplogroup U,Haplogroup L,Haplogroup T,Haplogroup J
+medium,boolean,"If you dip a dry towel into a tub full of water, water will climb up the towel by a phenomenon called ""Cartillary Action""",False,True,,
+medium,multiple,"Along with Oxygen, which element is primarily responsible for the sky appearing blue?",Nitrogen,Helium,Carbon,Hydrogen
+easy,estimate,What is the standard atomic weight of a Plutonium nucleus?,244,94,481,128
+hard,multiple,The core of the Sun can reach which temperature?,27° Million F (15° Million C),"938,000° F (521093.3° C)",8° Billion F (°4.4 Billion C),Absolute Zero (Both F and C)
+medium,boolean,Enthalpy is a measure of the energy that is not available for work during a thermodynamic process.,False,True,,
+hard,multiple,What is the unit of electrical inductance?,Henry,Weber,Coulomb,Mho
+medium,estimate,When was the first mammal successfully cloned?,1996,2009,1999,1985
+hard,multiple,What is the molecular formula of Ozone?,O3,C6H2O6,N2O,SO4
+medium,multiple,What is the medical term for low blood sugar?,Hypoglycemia,Hypothyroidism,Hypothermia,Hypoxia
+medium,multiple,"At what depth should you make a decompression stop, or safety stop, on a typical scuba dive?",15 Feet / 5 Meters,25 Feet / 7.5 Meters,50 Feet / 15 Meters,75 Feet / 23 Meters
+medium,multiple,What is the mathematical formula of Ohm's law?,V = I*R,I = V*R,R = V*I,V = I / R
+medium,multiple,"Which planet did the ""Viking 1"" spacecraft send surface images of, starting in 1976?",Mars,Saturn,Jupiter,Venus
+hard,multiple,A comet's gaseous envelope (which creates the tail) is called what?,The coma,The wake,The backwash,The ablative
+medium,multiple,"The humerus, paired radius, and ulna come together to form what joint?",Elbow,Knee,Sholder,Ankle
+hard,multiple,Which constellation contains the center of the Milky Way?,Sagittarius,Scorpius,Ophiuchus,Capricornus
+medium,estimate,How many teeth does the average adult mouth have (except for wisdom teeth)?,32,36,20,28
+easy,multiple,Which element has the highest melting point?,Carbon,Tungsten,Platinum,Osmium
+easy,boolean,Psychology is the science of behavior and mind.,True,False,,
+easy,multiple,Alzheimer's disease primarily affects which part of the human body?,Brain,Lungs,Skin,Heart
+easy,boolean,Not including false teeth; A human has two sets of teeth in their lifetime.,True,False,,
+hard,multiple,Where is the Gluteus Maximus muscle located?,Butt,Arm,Head,Torso
+hard,multiple,Which Landsat Satellite failed to reach orbit?,Landsat 6,Landsat 5,Landsat 4,Landsat 3
+medium,multiple,What is the molecular formula of the active component of chili peppers(Capsaicin)?,C18H27NO3,C21H23NO3,C6H4Cl2,C13H25NO4
+hard,multiple,An organic compound is considered an alcohol if it has what functional group?,Hydroxyl,Carbonyl,Alkyl,Aldehyde
+medium,multiple,What is the Linnean name of the domestic apple tree?,Malus pumila,Malus americana,Pomus domestica,Appelus delectica
+medium,multiple,"On the periodic table of elements, what is the symbol for Tin?",Sn,Ti,Ni,Na
+easy,multiple,What is the standard SI unit for temperature?,Kelvin,Fahrenheit,Celsius,Rankine
+medium,multiple,Which element has the atomic number of 7?,Nitrogen,Oxygen,Hydrogen,Neon
+hard,multiple,"What common name is given to the medial condition, tibial stress syndrome (MTSS)?",Shin Splints,Tennis Elbow,Carpal Tunnel,Housemaid's Knee
+hard,multiple,Burning which of these metals will produce a bright white flame?,Magnesium,Copper,Lithium,Lead
+hard,multiple,"Which one of these is scientific term for ""Brain Freeze""?",Sphenopalatine Ganglioneuralgia,Hyacinthoides Italica,Amaranthus Retroflexus,Amblyomma Americanum
+easy,estimate,The human heart has how many chambers?,4,2,6,3
+easy,multiple,How many laws of thermodynamics are there?,Four,Three,Two,Five
+medium,multiple,"Which color cannot be produced in Roses, even through genetic alteration?",Blue,Black,Orange,Brown
+medium,multiple,On which mission did the Space Shuttle Columbia break up upon re-entry?,STS-107,STS-51-L,STS-61-C,STS-109
+medium,multiple,What are the smallest blood vessels in the human body?,Capillaries,Arterioles,Veinules,Lymphatics
+easy,multiple,"What is the common name of the chemical compound ""dihydrogen monoxide""?",Water,Methane,Ammonia ,Laughing Gas
+hard,multiple,What is isobutylphenylpropanoic acid more commonly known as?,Ibuprofen,Morphine,Ketamine,Aspirin
+medium,multiple,A positron is an antiparticle of a what?,Electron,Neutron,Proton,Photon
+easy,multiple,The medical term for the belly button is which of the following?,Umbilicus,Nevus,Nares,Paxillus
+hard,multiple,Which of these is a semiconductor amplifying device?,transistor,tube,diode,P-N junction
+easy,multiple,Which noble gas has the lowest atomic number?,Helium,Neon,Argon,Krypton
+medium,boolean,"""Tachycardia"" or ""Tachyarrhythmia"" refers to a resting heart-rate near or over 100 BPM.",True,False,,
+hard,multiple,Where in the human body is the Pineal Gland located?,Brain,Groin,Chest,Throat
+hard,multiple,Which country first successfully farm-hatched and raised bluefin tuna in 1979?,Japan,France,USA,Philippines
+hard,multiple,Which is not a type of neuron?,Perceptual Neuron,Sensory Neuron,Motor Neuron,Interneuron
+easy,multiple,"What was the name of the first artificial Earth satellite, launched by the Soviet Union in 1957?",Sputnik 1,Soyuz 7K-OK,Zenit-2,Voskhod 3KV
+medium,multiple,"An organism described as ""heliotropic"" has a tendancy to move towards which of these things?",Light,Water,Trees,Pollen
+easy,estimate,Human cells typically have how many copies of each gene?,2,1,4,3
+easy,boolean,Great Whites sometimes perform the bump-and-bite attack (a test bite) on victims.,True,False,,
+medium,estimate,The human right lung has how many lobes?,3,4,2,1
+hard,boolean,It was once believed that injecting shark cartilage into people would prevent them from contracting cancer.,True,False,,
+medium,multiple,At what temperature does water boil?,212°F,200°F,181°F,178°F
+easy,multiple,Which is the longest bone in the human body? ,Femur,Scapula,Fibula,Ulna
+medium,multiple,What part of the body produces insulin?,Pancreas,Kidney,Liver,Stomach
+easy,boolean,Upwelling in the ocean provides colder nutrient rich water for plants and decomposers.,True,False,,
+medium,boolean,Type 1 diabetes is a result of the liver working improperly.,False,True,,
+easy,multiple,What is an example of a bacterial pathogen?,Cholera,Measles ,AIDS,Ringworm
+hard,multiple,"""The Big Bang Theory"" was first theorized by a priest of what religious ideology?",Catholic,Christian,Jewish,Islamic
+hard,multiple,Which of these is a stop codon in DNA?,TAA,ACT,ACA,GTA
+easy,estimate,How many planets make up our Solar System?,8,7,9,6
+medium,multiple,Au on the Periodic Table refers to which element?,Gold,Silver,Oxygen,Nickel
+medium,multiple,"To the nearest minute, how long does it take for light to travel from the Sun to the Earth?",8 Minutes,6 Minutes,2 Minutes,12 Minutes
+hard,multiple,Which of these chemical compounds is NOT found in gastric acid?,Sulfuric acid,Hydrochloric acid,Potassium chloride,Sodium chloride
+medium,multiple,Which chemical element has the lowest boiling point?,Helium,Hydrogen,Neon,Nitrogen
+hard,multiple,What is the scientific name of the red fox?,Vulpes Vulpes,Vulpes Redus,Red Fox,Vulpes Vulpie
+medium,multiple,"What cell organelle is known as ""the powerhouse of the cell?""",Mitochondria,Nucleus,Golgi apparatus,Endoplasmic reticulum
+hard,estimate,How many types of quarks are there in the standard model of physics?,6,2,3,4
+easy,multiple,What name is given to all baby marsupials?,Joey,Calf,Pup,Cub
+medium,multiple,Which of these choices is not one of the phases of mitosis?,Diplophase,Metaphase,Anaphase,Telophase
+hard,estimate,What is the same in Celsius and Fahrenheit?,-40,32,-39,-42
+medium,multiple,"When the Falcon Heavy was launched on it's test flight, what was the only part of the operation that failed?",Center Core Landing,Side Booster Landing,Deployment of Starman,Ignition and Liftoff
+easy,multiple,What is the official name of the star located closest to the North Celestial Pole?,Polaris,Eridanus,Gamma Cephei,Iota Cephei
+easy,multiple,The asteroid belt is located between which two planets?,Mars and Jupiter,Jupiter and Saturn,Mercury and Venus,Earth and Mars
+easy,multiple,Which gas forms about 78% of the Earth’s atmosphere?,Nitrogen,Oxygen,Argon,Carbon Dioxide
+easy,multiple,What does LASER stand for?,Light amplification by stimulated emission of radiation,Lite analysing by stereo ecorazer,Light amplifier by standby energy of radio,Life antimatter by standing entry of range
+medium,multiple,The medial meniscus forms which part of what joint in the human body?,Knee,Elbow,Ankle,Shoulder
+easy,multiple,What is the unit of electrical resistance?,Ohm,Mho,Tesla,Joule
+medium,multiple,Tetsuya Fujita was a scientist that developed the scale for which natural disaster?,Tornadoes,Hurricanes,Earthquakes,Volcanoes
+easy,multiple, What is the chemical symbol for Helium?,He,H,Hg,Hs
+medium,multiple,"What polymer is used to make CDs, safety goggles and riot shields?",Polycarbonate,Rubber,Nylon,Bakelite
+easy,multiple,Dry ice is the solid form of what substance?,Carbon dioxide,Nitrogen,Ammonia,Oxygen
+easy,multiple,Stars consist mainly of hydrogen and which other gas?,Helium,Oxygen,Argon,Nitrogen
+easy,multiple,What is the speed of light in a vacuum?,"299,792,458 m/s","50,461 m/s","308,215,043 m/s","751,665,014,151 m/s"
+hard,multiple,"In physics, conservation of energy and conservation of momentum are both consequences of which of the following?",Noether's Theorem,Bell's Theorem,Wick's Theorem,Carnot's Theorem
+hard,multiple,What is the standard SI unit for luminous intensity?,Candela,Lumen,Faraday,Coulomb
+medium,multiple,The Axiom of Preventive Medicine states that people with ___ risk for a disease should be screened and we should treat ___ of those people.,"low, all","low, some","high, all","high, some"
+easy,boolean,An exothermic reaction is a chemical reaction that releases energy by radiating electricity.,False,True,,
+medium,multiple,What is the half-life of Uranium-235?,"703,800,000 years","4,300,400,000 years","1,260,900,000 years",Uranium-235 is a stable isotope
+easy,multiple,What is the largest planet in the Solar System?,Jupiter,Saturn,Earth,Mars
+medium,boolean,"Centripetal force is an apparent force that acts outward on a body moving around a center, arising from the body's inertia.",False,True,,
+hard,multiple,What does the scientific name of the Cambrian-Period sea creature Anomalocaris mean?,Abnormal Shrimp,Deformed Fish,Strange Crab,Anomalous Clam
+hard,multiple,"Which of the following is the term for ""surgical complications resulting from surgical sponges left inside the patient's body?",Gossypiboma,Gongoozler,Jentacular,Meupareunia
+easy,multiple,Which is the most abundant element in the universe?,Hydrogen,Helium,Lithium,Oxygen
+medium,multiple,The Sun consists of mostly which two elements?,Hydrogen & Helium,Hydrogen & Nitrogen,Carbon & Nitrogen,Carbon & Helium
+hard,multiple,Which of these animals belongs in class Chondrichthyes?,Great white shark,Octopus,Killer whale,Catfish
+hard,multiple,What is considered the rarest form of color blindness?,Blue,Red,Green,Purple
+medium,multiple,What medication was once commonly used as rat poison?,Coumadin,Aspirin,Eliquis,Tylenol
+medium,multiple,What is the chemical symbol for lead?,Pb,Ld,Le,Pm
+easy,multiple,What is the standard SI unit for mass?,Kilogram,Tonne,Pound,Gram
+easy,multiple,What is the first element on the periodic table?,Hydrogen,Helium,Oxygen,Lithium
+medium,estimate,How many officially recognized dwarf planets in the solar system are named after Polynesian deities?,2,0,1,5
+easy,multiple,Which Apollo mission was the first one to land on the Moon?,Apollo 11,Apollo 10,Apollo 9,Apollo 13
+medium,multiple,Who developed the first successful polio vaccine in the 1950s?,Jonas Salk,John F. Enders,Thomas Weller,Frederick Robbins
+hard,multiple,"Botanically speaking, which of these fruits is NOT a berry?",Strawberry,Blueberry,Banana,Concord Grape
+easy,multiple,What is the powerhouse of the cell?,Mitochondria,Ribosome,Redbull,Nucleus
+hard,boolean,Frederick Banting and John Macleod won a Nobel Prize for their contributions to the scientific fields of quantum mechanics.,False,True,,
+medium,boolean,"Like with the Neanderthals, Homo sapiens sapiens also interbred with the Denisovans.",True,False,,
+easy,multiple,What is the standard SI unit for time?,Second,Minute,Hour,Day
+medium,multiple,"In Psychology, which need appears highest in the ""Maslow's hierarchy of needs"" pyramid?",Esteem,Love,Safety,Physiological
+medium,estimate,What is the atomic number of the element Strontium?,38,73,47,11
+easy,boolean,The shape of the Earth is a perfect sphere.,False,True,,
+medium,multiple,Which of the following is NOT a passive electrical component?,Transistor,Resistor,Capacitor,Inductor
+medium,boolean,Anatomy considers the forms of macroscopic structures such as organs and organ systems.,True,False,,
+easy,multiple,Who discovered the Law of Gravity?,Sir Isaac Newton,Galileo Galilei,Charles Darwin,Albert Einstein
+easy,boolean,The Sun is considered a star.,True,False,,
+easy,multiple,What does DNA stand for?,Deoxyribonucleic Acid,Deoxyribogenetic Acid,Deoxyribogenetic Atoms,Detoxic Acid
+medium,multiple,Which chemical element was originally known as Alabamine?,Astatine,Selenium,Antimony,Molybdenum
+easy,boolean,The Earth and the Moon roughly have the same mass.,False,True,,
+medium,boolean,The most frequent subconscious activity repeated by the human body is blinking.,False,True,,
+medium,multiple,How many hearts does an octopus have?,Three,One,Two,Four
+medium,multiple,How old is the universe?,13.8 Billion Years,4.5 Billion Years,7.9 Billion Years,16.2 Billion Years
+medium,estimate,"In human biology, a circadium rhythm relates to a period of roughly how many hours?",24,8,16,32
+medium,boolean,Shrimp can swim backwards.,True,False,,
+hard,multiple,How much radiation does a banana emit?,0.1 Microsievert,0.3 Microsievert,0.5 Microsievert,0.7 Microsievert
+medium,estimate,What is the atomic number of Uranium ,92,235,17,167
+medium,multiple,Approximately what percentage of Earth's atmosphere is Oxygen?,21%,54%,78%,7%
+medium,multiple,What is the chemical formula for ammonia?,NH3,CO2,NO3,CH4
+medium,boolean,A defibrillator is used to start up a heartbeat once a heart has stopped beating.,False,True,,
+hard,multiple,What element on the periodic table has 92 electrons?,Uranium,Sulfur,Hydrogen,Iron
+hard,multiple,What is the molecular formula of Glucose?,C6H12O6,C2H4O2,K+,CH4
+easy,multiple,What does the letter 'S' stand for in 'NASA'?,Space,Science,Society,Star
+easy,estimate,How many moons does the Earth have?,1,0,2,3
+easy,multiple,What lies at the center of our galaxy?,A black hole,A wormhole,A supernova,A quasar
+hard,multiple,Muscle fiber is constructed of bundles small long organelles called what?,Myofibrils,Epimysium,Myofiaments,Myocardium
+medium,boolean,El Niño pushes warm water to the coasts of the Western Pacific during winter.,True,False,,
+medium,boolean,Sound can travel through a vacuum.,False,True,,
+medium,multiple,What was the first living creature in space?,Fruit Flies ,Monkey,Dog,Mouse
+medium,multiple,Which of the following men does not have a chemical element named after him?,Sir Isaac Newton,Albert Einstein,Niels Bohr,Enrico Fermi
+hard,multiple,What is the scientific name of the knee cap?,Patella,Femur,Foramen Magnum,Scapula
+medium,multiple,"What does CPR, the emergency procedure to assist someone who has suffered cardiac arrest, stand for?",Cardiopulmonary resuscitation,Chronic pain relief,Cancer pain release,Contraceptive prevalence rate
+easy,boolean,The Earth revolves around the Sun in one year.,True,False,,
+medium,multiple,Which of these elements on the Periodic Table is a Noble Gas?,Neon,Potassium,Iodine,Colbalt
+easy,multiple,How many planets are in our Solar System?,Eight,Nine,Seven,Ten
+medium,boolean,Male pandas do handstands while urinating on trees. ,True,False,,
+medium,multiple,"The moons, Miranda, Ariel, Umbriel, Titania and Oberon orbit which planet?",Uranus,Jupiter,Venus,Neptune
+hard,multiple,Which of the following is considered classical conditioning?,Pavlov's dog experiments,Skinner box experiment,Schrödinger's cat experiment,Harlow’s monkey experiments
+medium,boolean,The planet Mars has two moons orbiting it.,True,False,,
+hard,boolean,The chemical element Lithium is named after the country of Lithuania.,False,True,,
+hard,multiple,Which Landsat Satellite currently has had the longest operational life?,Landsat 5,Landsat 8,Landsat 7,Landsat 6
+hard,multiple,Which horizon in a soil profile consists of bedrock?,R,O,B,D
+hard,multiple,Which of the following is NOT a word used to describe an earthquake?,Drop-slide,Foreshock,Strike-slip,Temblor
+medium,multiple,What stage of development do the majority of eukaryotic cells remain in for most of their life?,Interphase,Prophase,Stasis,Telophase
+easy,multiple,What is the hottest planet in the Solar System?,Venus,Mars,Mercury,Jupiter
+medium,boolean,A person can get sunburned on a cloudy day.,True,False,,
+medium,multiple,"Where did the dog breed ""Chihuahua"" originate?",Mexico,France,Spain,Russia
+medium,boolean,"Scientists accidentally killed the once known world's oldest living creature, a mollusc, known to be aged as 507 years old.",True,False,,
+hard,multiple,What is the most potent toxin known?,Botulinum toxin,Ricin,Cyanide,Asbestos
+hard,multiple,Which scientific unit is named after an Italian nobleman?,Volt,Pascal,Ohm,Hertz
+medium,multiple,What does the yellow diamond on the NFPA 704 fire diamond represent?,Reactivity,Health,Flammability,Radioactivity
+easy,multiple,Who is the chemical element Curium named after?,Marie & Pierre Curie,The Curiosity Rover,Curious George,Stephen Curry
+medium,multiple,What is the name of the Supermassive Black Hole in the centre of the Milky Way?,Sagittarius A*,Messier 87,Alpha Centauri,Andromeda
+easy,multiple,What is the largest animal currently on Earth?,Blue Whale,Orca,Colossal Squid,Giraffe
+medium,multiple,What do you study if you are studying entomology?,Insects,Humans,the Brain,Fish
+hard,multiple,"In quantum physics, which of these theorised sub-atomic particles has yet to be observed?",Graviton,Z boson,Tau neutrino,Gluon
+easy,multiple,Which of these Elements is a metalloid?,Antimony,Tin,Bromine,Rubidium
+hard,multiple,Which of the following liquids is least viscous? Assume temperature is 25°C.,Acetone,Water,Mercury,Benzene
+medium,estimate,Down Syndrome is usually caused by an extra copy of which chromosome?,21,23,15,24
+hard,multiple,What was the first organic compound to be synthesized from inorganic compounds?,Urea,Propane,Ethanol,Formaldehyde
+medium,multiple,The medical condition osteoporosis affects which part of the body?,Bones,Skin,Brain,Heart
+easy,estimate,How many bones are in the human body?,206,203,209,200
+medium,multiple,Which psychological term refers to the stress of holding contrasting beliefs?,Cognitive Dissonance,Flip-Flop Syndrome,Split-Brain,Blind Sight
+medium,multiple,What is radiation measured in?,Gray ,Watt,Decibel,Kelvin
+medium,multiple,Which of these is NOT a bone found in the human arm?,Tibia,Humerus,Ulna,Radius
+medium,multiple,What is the lowest layer of the Earth's atmosphere named?,Troposphere,Stratosphere,Mesosphere,Thermosphere
+easy,multiple,How many moons does Pluto have?,Five,Two,Three,One
+hard,multiple,"On the Beaufort Scale of wind force, what wind name is given to number 8?",Gale,Storm,Hurricane,Breeze
+easy,multiple,Which of the following blood vessels carries deoxygenated blood?,Pulmonary Artery,Pulmonary Vein,Aorta,Coronary Artery
+easy,boolean,An Astronomical Unit is the distance between Earth and the Moon.,False,True,,
+medium,multiple,What is the standard SI unit for electric current?,Ampere,Volt,Ohm,Watt
+medium,multiple,What is the colour of unoxidized blood?,Red,Blue,Purple,Green
+easy,multiple,Which of the following bones is not in the leg?,Radius,Patella,Tibia,Fibula 

@@ -1,0 +1,81 @@
+Difficulty,Type,Question,Correct Answer,Wrong 1,Wrong 2,Wrong 3
+medium,multiple,"Which greek mathematician ran through the streets of Syracuse naked while shouting ""Eureka"" after discovering the principle of displacement?",Archimedes,Euclid,Homer,Eratosthenes
+easy,multiple,"The metric prefix ""atto-"" makes a measurement how much smaller than the base unit?",One Quintillionth,One Billionth,One Quadrillionth,One Septillionth
+easy,multiple,What is a polygon with eight sides called?,Octagon,Hexagon,Nanagon,Heptagon
+medium,estimate,At what temperature does temp in °C equal temp in °F?,-40,+40,0,+100
+medium,multiple,What is the alphanumeric representation of the imaginary number?,i,e,n,x
+medium,boolean,"The proof for the Chinese Remainder Theorem used in Number Theory was NOT developed by its first publisher, Sun Tzu.",True,False,,
+easy,multiple,What is the correct order of operations for solving equations?,"Parentheses, Exponents, Multiplication, Division, Addition, Subtraction","Addition, Multiplication, Division, Subtraction, Addition, Parentheses","Parentheses, Exponents, Addition, Substraction, Multiplication, Division",The order in which the operations are written.
+hard,multiple,What is the only Millennium Prize Problem that has been solved so far?,Poincaré conjecture,P vs. NP problem,Riemann Hypothesis,Fermat's conjecture
+hard,multiple,Which of the following famous mathematicians died in a duel at the age of 20?,Galois,Abel,Euler,Gauss
+medium,estimate,How many zeros are there in a googol?,100,10,"1,000","1,000,000"
+medium,multiple,Which of the following dice is not a platonic solid?,10-sided die,12-sided die,20-sided die,8-sided die
+easy,estimate,How many degrees make a full circle?,360,180,90,720
+easy,estimate,What is the least number of sides a polygon can have?,3,1,2,7
+easy,multiple,Which of the following is not one of the seven Millennium Prize Problems?,Naviér conjecture,Birch and Swinnerton-Dyer Conjecture,Riemann hypothesis,Poincaré conjecture
+medium,boolean,Aleph-nought is the cardinality of the set of all natural numbers.,True,False,,
+hard,estimate,What is the approximate value of mathematical constant e?,2.72,3.14,1.62,1.41
+easy,boolean,A scalene triangle has two sides of equal length.,False,True,,
+hard,multiple,Which of the following mathematicians made major contributions to game theory?,John Von Neumann,Carl Friedrich Gauss,Leonhard Euler,Stefan Banach
+medium,multiple,What Greek letter is used to signify summation?,Sigma,Delta,Alpha,Omega
+medium,boolean,The set of all algebraic numbers is countable.,True,False,,
+medium,estimate,"To the nearest whole number, how many radians are in a whole circle?",6,3,4,5
+easy,estimate,What's the square root of 49?,7,4,12,9
+easy,multiple,What type of angle is greater than 90°?,Obtuse,Acute,Right,Straight
+easy,boolean,An equilateral triangle always has every angle measuring 60°.,True,False,,
+hard,multiple,Which of these numbers is closest to the total number of possible states for an army standard Enigma Machine?,1.58 x 10^20,1.58 x 10^22,1.58 x  10^18,1.58 x 10^24
+easy,estimate,"In Roman Numerals, what does XL equate to?",40,60,15,90
+medium,estimate,"What are the first 6 digits of the number ""Pi""?",3.14159,3.14169,3.12423,3.25812
+hard,multiple,What is the derivative of Acceleration with respect to time?,Jerk,Shift,Bump,Slide
+medium,multiple,What type of function is x²+2x+1?,Quadratic,Rational,Linear,Exponential
+medium,multiple,What numbers are in the 5th row of Pascal's Triangle?,1 4 6 4 1,1 3 3 1,1 5 10 10 5 1,1 6 15 20 15 6 1
+hard,estimate,What is the smallest number that can be expressed as the sum of two positive cubes in two different ways?,1729,91,561,4104
+medium,multiple,Which mathematician refused the Fields Medal?,Grigori Perelman,Andrew Wiles,Terence Tao,Edward Witten
+medium,multiple,What is the derivative of sin(x),cos(x),csc(x),-cos(x),-sin(x)
+medium,boolean,The Pythagorean theorem states that the square of the hypotenuse is equal to the product of the squares of the other two sides.,False,True,,
+medium,estimate,"In a normal distribution, 95% of the data lies within how many standard deviations of the mean?",2,1,3,4
+hard,estimate,How many zeptometres are inside one femtometre?,"1,000,000",10,"1,000,000,000",1000
+hard,multiple,The French mathematician Évariste Galois is primarily known for his work in which?,Galois Theory,Galois' Continued Fractions,Galois' Method for PDE's ,Abelian Integration
+medium,estimate,How many books are in Euclid's Elements of Geometry?,13,8,10,17
+easy,multiple,What is the equation for the area of a sphere?,(4/3)πr^3,4πr^2,(1/3)πhr^2,πr^4
+medium,estimate,What is the first Mersenne prime exponent over 1000?,1279,2203,1009,1069
+hard,multiple,The decimal number 31 in hexadecimal would be what?,1F,3D,2E,1B
+hard,multiple,Which of these did mathematician Leonhard Euler NOT develop?,An improvement to the Fast Fourier Transform,A method of solving first-order differential equations,"An identity linking the numbers e, pi and i","A formula linking vertices, edges and faces on a graph"
+easy,estimate,How many sides does a Möbius strip have?,1,2,3,4
+hard,multiple,Integration is the reverse of what mathematical operation?,Derivation,Division,Standard Deviation,Multiplication
+medium,estimate,"In the complex plane, multiplying a given function by i rotates it anti-clockwise by how many degrees?",90,180,270,0
+easy,estimate,How many sides does a heptagon have?,7,8,6,5
+medium,boolean,"111,111,111 x 111,111,111 = 12,345,678,987,654,321",True,False,,
+easy,multiple,Which two men are credited with independently discovering differential calculus? ,Newton and Leibnitz,Plato and Aristotle,Asiimov and Rutherford,Dvorak and Smith
+hard,boolean,"The binary number ""101001101"" is equivalent to the Decimal number ""334""",False,True,,
+easy,estimate,How many sides does a heptagon have?,7,5,4,9
+medium,boolean,Zero factorial is equal to zero. ,False,True,,
+easy,estimate,How many sides does a pentagon have?,5,9,6,4
+easy,estimate,What prime number comes next after 19?,23,25,21,27
+medium,boolean,A 'Millinillion' is a real number.,True,False,,
+easy,multiple,What is the name of a nine sided polygon?,Nonagon,Hexagon,Octagon,Heptagon
+hard,boolean,L'Hôpital was the mathematician who created the homonymous rule that uses derivatives to evaluate limits with indeterminations.,False,True,,
+easy,estimate,How many sides does a trapezium have?,4,3,5,6
+medium,multiple,What shape does sin(x) or cos(x) make on a graph?,Waves,A Parabola,A Straight Line,Zig-Zags
+easy,multiple,"What comes after a Million, a Billion, and a Trillion?",Quadrillion,Sextillion,Quintillion,Septillion
+medium,multiple,"A mathematical constant, known as ""The Golden Ratio"", is most commonly represented by which greek letter?",Φ (phi),π (pi),Ψ (psi),Τ (tau)
+medium,multiple,Which of these probability distributions is NOT discrete?,Normal,Binomial,Poisson,Hyper-geometric
+easy,multiple,What is the mathematician Euler's first name?,Leonhard,Lionel,Andrin,Ajan
+easy,boolean,The sum of any two odd integers is odd.,False,True,,
+medium,multiple,What is the Roman numeral for 500?,D,L,C,X
+easy,boolean,"A universal set, or a set that contains all sets, exists.",False,True,,
+medium,multiple,"In the hexadecimal system, what number comes after 9?",The Letter A,10,The Number 0,16
+medium,multiple,What is the area of a circle with a diameter of 20 inches if π= 3.1415?,314.15 Inches,380.1215 Inches,3141.5 Inches,1256.6 Inches
+hard,boolean,"If you could fold a piece of paper in half 50 times, its' thickness will be 3/4th the distance from the Earth to the Sun.",True,False,,
+hard,estimate,What is the fourth digit of π?,1,2,3,4
+hard,estimate,How many Millibars (mbar) to 1 Inch of Mercury (inHg),33.9,30.0,27.4,10.6
+hard,boolean,"In Topology, the complement of an open set is a closed set.",True,False,,
+medium,boolean,E = MC3,False,True,,
+hard,multiple,What is the plane curve proposed by Descartes to challenge Fermat's extremum-finding techniques called?,Folium of Descartes,Elliptic Paraboloid of Descartes,Cartesian Coordinates,Descarte's Helicoid
+hard,multiple,"The notion of a ""set that contains all sets which do not contain themselves"" is a paradoxical idea attributed to which English philosopher?",Bertrand Russel,Francis Bacon,John Locke,Alfred North Whitehead
+easy,multiple,What is the symbol for Displacement?,Δr,dr,Dp,r
+medium,boolean,"You can square root a negative number with an imaginary number ""i"".",True,False,,
+easy,boolean,The 'Squaring the Circle' problem is solvable.,False,True,,
+easy,estimate,How many square faces does a cube have?,6,4,8,10
+easy,boolean,An isosceles triangle has two sides of equal length as opposed to three.,True,False,,
+easy,multiple,Who proved Fermat's Last Theorem?,Andrew Wiles,Leonhard Euler,Carl Friedrich Gauss,Srinivasa Ramanujan

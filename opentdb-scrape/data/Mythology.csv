@@ -1,0 +1,72 @@
+Difficulty,Type,Question,Correct Answer,Wrong 1,Wrong 2,Wrong 3
+medium,multiple,A minotaur is half human half what?,Bull,Cow,Horse,Eagle
+medium,multiple,What is the name of the wildman that Gilgamesh befriends and goes on adventures with?,Enkidu,Ishtar,Inanna,Agga
+easy,multiple,Who was the King of Gods in Ancient Greek mythology?,Zeus,Apollo,Hermes,Poseidon
+medium,multiple,Which of the following Mesopotamian mythological figures was NOT a deity?,Enkidu,Enki,Enlil,Enkimdu
+medium,multiple,Who was the Roman god of fire?,Vulcan,Apollo,Jupiter,Mercury
+easy,multiple,Which of these mythological creatures is said to be half-man and half-horse?,Centaur,Minotaur,Pegasus,Gorgon
+easy,estimate,How many heads does Cerberus have?,3,2,1,5
+medium,multiple,Neptune's greek name was...,Poseidon,Ares,Zeus,Apollo
+medium,multiple,What is the name of the Greek god of peaceful deaths?,Thanatos,Tartarus,Hades,Moros
+medium,multiple,"In Greek Mythology, who killed Achilles?",Paris,Hector,Helen,Pericles
+medium,multiple,Who is the god of war in Polynesian mythology?,'Oro,Hina,Kohara,Māui
+medium,boolean,"The Roman god ""Jupiter"" was first known as ""Zeus"" to the Greeks.",True,False,,
+easy,boolean,"According to Greek Mythology, Zeus can control lightning.",True,False,,
+hard,multiple,"In Norse mythology, what is the name of the serpent which eats the roots of the ash tree Yggdrasil?",Nidhogg,Bragi,Odin,Ymir
+hard,multiple,Nidhogg is a mythical creature from what mythology?,Norse,Egyptian,Greek,Hindu
+hard,multiple,What was the punishment for Sysiphus's craftiness?,Cursed to roll a boulder up a hill for eternity.,"Tied to a boulder for eternity, being pecked by birds.",Standing in a lake filled with water he could not drink.,To fell a tree that regenerated after every axe swing.
+easy,multiple,Which of the following is not true about the life of Tiresias?,Sailed with the Argonauts to find the golden fleece,"Athena turned him into a woman, and then years later back into a man",Hera blinded him after he agreed with Zeus in an argument,Revealed to Oedipus that Oedipus had married his own mother
+medium,multiple,Hera is god of...,Marriage,Agriculture,Sea,War
+hard,multiple,Which Norse God has a horse named Sleipnir?,Odin,Thor,Frigg,Balder
+medium,multiple,"The Maori hold that which island nation was founded by Kupe, who discovered it under a long white cloud?",New Zealand,Vanuatu,Fiji,Hawaii
+easy,multiple,An Ankh is the Egyptian Hieroglyph for what?,Life,Love,Hatred,Poison
+hard,multiple,Who did Hippomenes defeat in a footrace?,Atalanta,Peleus,Theseus,Jason
+medium,multiple,"According to Japanese folklore, what is the favorite food of the Kappa.",Cucumbers,Kabocha,Nasu,Soba
+hard,multiple,"According to Algonquian folklore, how does one transform into a Wendigo?",Participating in cannibalism.,Excessive mutilation of animal corpses.,Performing a ritual involving murder.,Drinking the blood of many slain animals.
+hard,boolean,Rannamaari was a sea demon that haunted the people of the Maldives and had to be appeased monthly with the sacrifice of a virgin girl.,True,False,,
+hard,multiple,"Talos, the mythical giant bronze man, was the protector of which island?",Crete,Sardinia,Sicily,Cyprus
+easy,multiple,"What weakpoint of Achilles was expoited by the Trojan prince, Paris?",Heel,Neck,Back,Calf
+hard,multiple,"Who is a minor god that is protector and creator of various arts, such as cheese making and bee keeping.",Aristaeus,Autonoe,Carme,Cephisso
+easy,multiple,The Nike apparel and footwear brand takes it's name from the Greek goddess of what?,Victory,Courage,Strength,Honor
+hard,multiple,Who is the Egyptian god of reproduction and lettuce?,Min,Menu,Mut,Meret
+medium,multiple,"In Norse Mythology, what is the name of the symbol commonly referred to as the ""Tree of Life""?",Yggdrasil,Ymir,Tree of the Earth,Odin's Roots
+easy,multiple,This Greek goddess's name was chosen for the dwarf planet responsible for discord on Pluto's classification amongst astronomers.,Eris,Charon,Ceres,Dysnomia
+easy,boolean,"In the Greek Mythology, the god of war is called Mars.",False,True,,
+easy,boolean,"In the Greek Mythology, the Gorgon can turn those who behold her to stone.",True,False,,
+medium,multiple,What is the name of the first human being in Norse mythology?,Ask,Asmund,Ake,Asger
+medium,multiple,"The Norse god Odin has two pet crows named ""Huginn"" and ""Muninn"".  What do their names mean?",Thought & Memory,Power & Peace,War & Learning,Sleeping & Waking
+easy,multiple,"What mythology did the god ""Apollo"" come from?",Greek and Roman,Roman and Spanish,Greek and Chinese,"Greek, Roman and Norse"
+medium,boolean,"According to Norse mythology, Loki is a mother.",True,False,,
+medium,multiple,What is the name of the Greek god of blacksmiths?,Hephaestus,Dyntos,Vulcan,Artagatus
+easy,boolean,"In Norse mythology, Thor once dressed as a woman.",True,False,,
+medium,multiple,"According to the Egyptian Myth of Osiris, who murdered Osiris?",Set,Horus,Ra,Anhur
+medium,multiple,What animal did Queen Pasipahe sleep with before she gave birth to the Minotaur in Greek Mythology?,Bull,Pig,Ox,Horse
+medium,multiple,"In African mythology, Anansi is a trickster and storyteller who takes the shape of which animal?",Spider,Wild dog,Monkey,Crocodile
+medium,multiple,This Greek mythological figure is the god/goddess of battle strategy (among other things).,Athena,Ares,Artemis,Apollo
+hard,multiple,What immense structure is referred to in Norse Mythology as the Yggdrasil.,Tree,Mountain,Temple,Castle
+medium,multiple,"In Norse Mythology, Baldr was killed by Loki with a magical spear made from what plant?",Mistletoe,Wolf's Bane,Buckthorn,Hemlock
+medium,multiple,"Who is the father of Icarus, who flew too close to the sun?",Daedalus,Minos,Perseus,Zeus
+hard,boolean,"Skaði is the Norse Goddess of skiing, mountains, winter and bowhunting.",True,False,,
+easy,multiple,The greek god Poseidon was the god of what?,The Sea,War,Sun,Fire
+medium,boolean,"In Greek mythology, Hera is the goddess of harvest.",False,True,,
+easy,boolean,A wyvern is the same as a dragon.,False,True,,
+medium,multiple,Who is the God Loki's son? ,Fenrir ,Odin,Hel,Sigyn
+medium,multiple,Which of these Roman gods doesn't have a counterpart in Greek mythology?,Janus,Vulcan,Juno,Mars
+medium,boolean,The Japanese god Izanagi successfully returned his wife Izanami from the Underworld.,False,True,,
+medium,multiple,"The Hippogriff, not to be confused with the Griffon, is a magical creature with the front half of an eagle, and the back half of what?",A Horse,A Dragon,A Tiger,A Lion
+easy,multiple,What mytological creatures have women's faces and vultures' bodies?,Harpies,Mermaids,Nymph,Lilith
+medium,multiple,"Which greek god/goddess tossed a golden apple with the words ""for the fairest"" into the middle of the feast of the gods?",Eris,Hades,Ares,Artemis
+hard,multiple,Which of the following is NOT a god in Norse Mythology.,Jens,Loki,Tyr,Snotra
+easy,multiple,Which figure from Greek mythology traveled to the underworld to return his wife Eurydice to the land of the living?,Orpheus,Hercules,Perseus,Daedalus
+easy,multiple,"In most traditions, who was the wife of Zeus?",Hera,Aphrodite,Athena,Hestia
+medium,multiple,Which of the following is not one of the Greek Fates?,Narcissus,Clotho,Atropos,Lachesis
+easy,multiple,Who was the only god from Greece who did not get a name change in Rome?,Apollo,Demeter,Zeus,Athena
+easy,boolean,"According to Greek Mythology, Atlas was an Olympian God.",False,True,,
+hard,boolean,Janus was the Roman god of doorways and passageways.,True,False,,
+easy,multiple,"Who in Greek mythology, who led the Argonauts in search of the Golden Fleece?",Jason,Castor,Daedalus,Odysseus
+medium,multiple,"In Greek mythology, Persephone must return to the underworld because she had eaten what kind of seeds?",Pomegranate,Sunflower,Orange,Fig
+easy,multiple,"In Greek mythology, who is the god of wine?",Dionysus,Hephaestus,Demeter,Apollo
+easy,multiple,The ancient Roman god of war was commonly known as which of the following?,Mars,Jupiter,Juno,Ares
+medium,multiple,Hel was the daughter of which Norse Mythological figure?,Loki,Thor,Odin,Balder
+hard,multiple,"In Greek Mythology, who was the daughter of King Minos?",Ariadne,Athena,Ariel,Alana
+easy,multiple,"Which Greek & Roman god was known as the god of music, truth and prophecy, healing, the sun and light, plague, poetry, and more?",Apollo,Aphrodite,Artemis,Athena

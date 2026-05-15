@@ -1,0 +1,141 @@
+services:
+  db:
+    image: postgres:16-alpine
+    restart: unless-stopped
+    environment:
+      POSTGRES_DB: ${POSTGRES_DB:-triviador}
+      POSTGRES_USER: ${POSTGRES_USER:-triviador}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-triviador}
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U ${POSTGRES_USER:-triviador} -d ${POSTGRES_DB:-triviador}"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+  broker:
+    image: rabbitmq:3.13-management
+    restart: unless-stopped
+    environment:
+      RABBITMQ_DEFAULT_USER: ${RABBITMQ_DEFAULT_USER:-triviador}
+      RABBITMQ_DEFAULT_PASS: ${RABBITMQ_DEFAULT_PASS:-triviador}
+    ports:
+      - "15673:15672"
+    healthcheck:
+      test: ["CMD", "rabbitmq-diagnostics", "check_running"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+  redis:
+    image: redis:7-alpine
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "redis-cli", "ping"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+  web:
+    build:
+      context: .
+      dockerfile: web/Dockerfile
+    restart: unless-stopped
+    env_file:
+      - .env
+    volumes:
+      - .:/app
+    working_dir: /app/web
+    command: ["sh", "/app/docker/entrypoints/web.sh"]
+    depends_on:
+      db:
+        condition: service_healthy
+      broker:
+        condition: service_healthy
+      redis:
+        condition: service_healthy
+    ports:
+      - "${HOST_GUNICORN_PORT:-8000}:8000"
+      - "${HOST_DAPHNE_PORT:-3000}:8001"
+
+  matchmaker:
+    build:
+      context: .
+      dockerfile: worker/Dockerfile
+    restart: unless-stopped
+    env_file:
+      - .env
+    environment:
+      WORKER_ROLE: matchmaker
+    volumes:
+      - .:/app
+    working_dir: /app
+    command: ["sh", "/app/docker/entrypoints/run_with_backoff.sh", "python", "-m", "worker.main"]
+    depends_on:
+      db:
+        condition: service_healthy
+      broker:
+        condition: service_healthy
+      redis:
+        condition: service_healthy
+
+  game_worker:
+    build:
+      context: .
+      dockerfile: worker/Dockerfile
+    restart: unless-stopped
+    env_file:
+      - .env
+    environment:
+      WORKER_ROLE: game_worker
+    volumes:
+      - .:/app
+    working_dir: /app
+    command: ["sh", "/app/docker/entrypoints/run_with_backoff.sh", "python", "-m", "worker.main"]
+    depends_on:
+      db:
+        condition: service_healthy
+      broker:
+        condition: service_healthy
+      redis:
+        condition: service_healthy
+
+  relay:
+    build:
+      context: .
+      dockerfile: web/Dockerfile
+    restart: unless-stopped
+    env_file:
+      - .env
+    volumes:
+      - .:/app
+    working_dir: /app/web
+    command: ["sh", "/app/docker/entrypoints/run_with_backoff.sh", "python", "manage.py", "relay_game_events"]
+    depends_on:
+      db:
+        condition: service_healthy
+      broker:
+        condition: service_healthy
+      redis:
+        condition: service_healthy
+
+  frontend:
+    build:
+      context: .
+      dockerfile: frontend/Dockerfile
+    restart: unless-stopped
+    volumes:
+      - ./frontend:/app/frontend
+      - frontend_node_modules:/app/frontend/node_modules
+    working_dir: /app/frontend
+    command: ["sh", "-c", "npm install && npm run dev -- --host 0.0.0.0 --port 5173"]
+    ports:
+      - "5173:5173"
+    depends_on:
+      web:
+        condition: service_started
+
+volumes:
+  postgres_data:
+  frontend_node_modules:

@@ -1,0 +1,80 @@
+Difficulty,Type,Question,Correct Answer,Wrong 1,Wrong 2,Wrong 3
+easy,multiple,"In the Marvel comic ""The Superior Spider-Man"", Peter Parker's body is taken over by which character?",Otto Octavius ,Norman Osborn,Mary Jane,Eddie Brock 
+hard,multiple,"Which of the following rings from the DC Comics' ""Lantern Corps"" are classified as Parasitic?",Indigo (Compassion),Green (Willpower),White (Life),Yellow (Fear)
+medium,multiple,"In Black Hammer, what dimension does Colonel Weird travel through?",Para-Zone,Hyperspace,Mirror Universe,Phantom Zone
+easy,boolean,Deadpool's identity is Slade Wilson.,False,True,,
+hard,multiple,"In the Marvel Universe, the planet of Svartalfheim is home to what race?",Dark Elves,Frost Giants,Kronans,Skrulls
+medium,multiple,"In the comics, which Sonic character took command of the Dark Legion after Luger's assassination?",Lien-Da,Kragok,Dimitri,Remington
+medium,multiple,"Which issue of the ""Sonic the Hedgehog"" comic did Scourge the Hedgehog make his first appearance?",Sonic the Hedgehog #11,Sonic Universe #32,Sonic the Hedgehog #161,Sonic the Hedgehog #47
+medium,boolean,"In the webcomic Homestuck, the first character introduced is Dave Strider.",False,True,,
+medium,multiple,"Which ""Green Arrow"" sidekick commonly wears a baseball cap?",Roy Harper,Black Canary,Emiko Queen,Dick Grayson
+medium,multiple,Who was the first American Vampire (Scott Snyder's American Vampire)?,Skinner Sweet,Hattie Hargrove,Pearl Jones,"James ""Jim"" Book"
+easy,multiple,"What is the alter-ego of the DC comics character ""Superman""?",Clark Kent,Bruce Wayne,Arthur Curry,John Jones
+easy,multiple,Which planet did Superman come from?,Krypton,Avalon,Xolnar,Starhaven
+easy,multiple,"According to their longtime nickname, what kind of ""duo"" are Batman & Robin?",Dynamic,Dangerous,Dynastic,Delirious
+easy,multiple,"Which universe crossover was introduced in the ""Sonic the Hedgehog"" comic issue #247?",Mega Man,Super Mario Brothers,Alex Kidd,Super Monkey Ball
+easy,multiple,Who is Batman?,Bruce Wayne,Clark Kent,Barry Allen,Tony Stark
+hard,multiple,"In the Batman comics, by what other name is the villain Dr. Jonathan Crane known?",Scarecrow,Bane,Calendar Man,Clayface
+easy,multiple,"Who is the creator of the comic series ""The Walking Dead""?",Robert Kirkman,Stan Lee,Malcolm Wheeler-Nicholson,Robert Crumb
+medium,multiple,Who was the inspiration for Cuthbert Calculus in the Tintin series?,Auguste Picard,Jacques Piccard,Will Morris,J. Cecil Maby
+medium,multiple,What is the name of the main character in the webcomic Gunnerkrigg Court by Tom Siddell?,Antimony,Bismuth,Mercury,Cobalt
+easy,multiple,Which superhero is known for his super speed?,Flash,Superman,Batman,Spiderman
+medium,multiple,What was the name of the first Robin in the Batman comics?,Dick Grayson,Bruce Wayne,Jason Todd,Tim Drake
+medium,multiple,"In Marvel Comics, Taurus is the founder and leader of which criminal organization?",Zodiac,Scorpio,Tiger Mafia,The Union
+hard,estimate,What year was the first San Diego Comic-Con?,1970,2000,1990,1985
+medium,multiple,Which of the following superheros did Wonder Woman NOT have a love interest in?,Green Arrow,Superman,Batman,Steve Trevor
+hard,multiple,"In the ""Archie"" comics, who was Jughead's first girlfriend?",Joani,Ethel,Debbi,Margret
+medium,multiple,"In ""Sonic the Hedgehog"" comic, who was the creator of Roboticizer? ",Professor Charles the Hedgehog,Julian Robotnik,Ivo Robotnik,Snively Robotnik
+medium,multiple,What is the real full name of Captain America?,Steven Grant Rogers ,Steven John Rogers,Steven Peggy Rogers,Steven William Rogers
+easy,multiple,"In ""Homestuck"" what is Dave Strider's guardian?",Bro,Becquerel,Doc Scratch,Halley
+medium,multiple,"In Calvin and Hobbes, what is the name of the principal at Calvin's school?",Mr. Spittle,Mr. Boreman,Mr. Spitling,Mr. Moe
+hard,multiple,"When Batman trolls the online chat rooms, what alias does he use?",JonDoe297,iAmBatman,BWayne13,BW1129
+hard,estimate,"In what year did the first ""The Walking Dead"" comic come out?",2003,2001,2006,1999
+hard,estimate,When was the Garfield comic first published?,1978,1982,1973,1988
+hard,boolean,"In the comic book ""Archie"", Betty is friends with Veronica because she is rich.",False,True,,
+medium,multiple,"In Pre-Super Genesis universe of ""Sonic the Hedgehog"" comic, what was the name of  Sally Acorn's brother?",Elias Acorn,Maximillian Acorn,Alexis Acorn,Frederick Acorn
+medium,boolean,The X-Men's Storm and Nightcrawler were originally planned to be characters in DC Comics' Legion of Super-Heroes.,True,False,,
+medium,multiple,"The success of DC Comics' Swamp Thing, Sandman, and other books in a similar style, led to the creation of what new imprint in 1993?",Vertigo,Impact,New Universe,Red Circle
+medium,multiple,Who created Ultron of Earth-616?,Henry Pym,Amadeus Cho,Tony Stark,Reed Richards
+medium,multiple,"In Marvel comics, which of the following is not one of the infinity stones?",Energy,Time,Power,Soul
+medium,multiple,"In the Hellboy universe, who founded the BPRD?",Trevor Bruttenholm,Kate Corrigan,Johann Kraus,Benjamin Daimio
+medium,multiple,What is Homestuck character Gamzee's last name?,Makara,Makera,Makare,Makrea
+medium,multiple,Which of these game-based comics were published in 2011 by DC Comics?,Infamous,Left 4 Dead: The Sacrifice,Prototype,Kane & Lynch
+hard,multiple,What are the Three Virtues of Bionicle?,"Unity, Duty, Destiny","Build, Play, Change","Work, Play, Live","Forge, Build, Fight"
+medium,multiple,Who is the second person to take up the mantle of Night Owl in the Watchmen graphic novel?,Daniel Dreiberg,Nelson Gardner,Hollis Mason,Adrian Veidt
+medium,multiple,"Which Doom Patrol member was a later addition, first appearing in 1989?",Crazy Jane,Elast-Girl,Robotman,Negative Man
+medium,multiple,"What is the real name of the ""Master Of Magnetism"" Magneto?",Max Eisenhardt,Charles Xavier,Pietro Maximoff,Johann Schmidt
+hard,multiple,What is the real hair colour of the mainstream comic book version (Earth-616) of Daredevil?,Blonde,Auburn,Brown,Black
+medium,multiple,"Found in the Marvel Comics fictional universe, what is the name of the nearly indestructible metal that coats Wolverine's bones and claws?",Adamantium,Titanium,Vibranium,Carbonadium
+medium,multiple,What otherworldly land does Thor come from?,Asgard,Midgard,Jotunheim,Sovengarde
+medium,multiple,What's the name of Batman's parents?,Thomas & Martha,Joey & Jackie,Jason & Sarah,Todd & Mira
+hard,multiple,In what Homestuck Update was [S] Game Over released?,"October 25th, 2014","April 13th, 2009","April 8th, 2012","August 28th, 2003"
+hard,multiple,"In the webcomic ""Ava's Demon"", what sin is ""Nevy Nervine"" based off of? ",Envy ,Sloth,Wrath ,Lust
+hard,multiple,"Better known by his nickname Logan, what is Wolverine's birth name?",James Howlett,Logan Wolf,Thomas Wilde,John Savage
+medium,multiple,The stuffed tiger in Calvin and Hobbes is named after what philosopher?,Thomas Hobbes,David Hobbes,John Hobbes,Nathaniel Hobbes
+easy,multiple,"In DC comics, what is Owlman's real name?",Thomas Wayne Jr.,Thomas Wayne,Bruce Wayne,Joseph Chill 
+easy,multiple,"This Marvel superhero is often called ""The man without fear"".",Daredevil,Thor,Wolverine,Hulk
+hard,multiple,"In the Hellboy universe, what was Abe Sapien's birth name?",Langdon Everett Caul,Lord Baltimore,Sir Edward Grey,Landis Pope
+easy,multiple,The main six year old protagonist in Calvin and Hobbes is named after what theologian?,John Calvin,Calvin Klein,Calvin Coolidge,Phillip Calvin McGraw
+medium,multiple,"Who wrote the Batman comic series ""The Killing Joke""?",Alan Moore,Bill Finger,Frank Miller,Jerry Siegel
+medium,multiple,"In Calvin and Hobbes, what is the name of the babysitter's boyfriend?",Charlie,Dave,Charles,Nathaniel
+easy,multiple,Which one of these superhero teams appears in the Invincible comics?,Guardians of the Globe,Avengers,Justice League,Teenage Mutant Ninja Turtles
+medium,multiple,What's the weakness of american vampires (Scott Snyder's American Vampire)?,Gold,Sunlight,Wood,Silver
+easy,multiple,"In ""Homestuck"" the ""Kingdom of Darkness"" is also known as?",Derse,Skaia,Prospit,The Medium
+medium,multiple,Which Batman sidekick is the son of Talia al Ghul?,Damian Wayne,Dick Grayson,Tim Drake,Jason Todd
+medium,multiple,"In Bionicle, who was formerly a Av-Matoran and is now the Toa of Light?",Takua,Jaller,Vakama,Tahu
+hard,multiple,"What are the names of the two ""Canon fan trolls"" in ""Homestuck""?",Mierfa Durgas and Nektan Whelan,The Wrycrown and Voksea Olkido,Aikter Frekik and Xagrai Ollomu,Grekei Ceknux and Riya Camacho
+hard,multiple,"In the Homestuck Series, what is the alternate name for the Kingdom of Lights?",Prospit,No Name,Golden City,Yellow Moon
+medium,multiple,What is the designation given to the Marvel Cinematic Universe?,Earth-199999,Earth-616,Earth-10005,Earth-2008
+hard,multiple,Which pulp hero made appearances in Hellboy and BPRD comics before getting his own spin-off?,Lobster Johnson,Roger the Homunculus,The Spider,The Wendigo
+medium,multiple,Who authored The Adventures of Tintin?,Hergé,E.P. Jacobs,Rin Tin Tin,Chic Young
+medium,multiple,What is Hellboy's true name?,Anung Un Rama,Right Hand of Doom,Ogdru Jahad,Azzael
+easy,boolean,"The ""Pepe"" meme originated from a comic drawn by Matt Furie called ""Boy's Club""?",True,False,,
+easy,multiple,"In Black Hammer, what city did the heroes save from the Anti-God?",Spiral City,Mega-City One,Rockwood,Star City
+medium,multiple,"In the DC Comics 2016 reboot, Rebirth, which speedster escaped from the Speed Force after he had been erased from existance?",Wally West,Johnny Quick,Jay Garrick,Eobard Thawne
+medium,multiple,"In Calvin and Hobbes, what is the name of Susie's stuffed rabbit?",Mr. Bun,Mr. Bunbun,Mr. Rabbit,Mr. Hoppy
+easy,estimate,When was Marvel Comics founded?,1939,1932,1951,1936
+easy,multiple,What's the race of Invincible's father?,Viltrumite,Kryptonian,Kree,Irken
+easy,multiple,What is the full first name of the babysitter in Calvin and Hobbes?,Rosalyn,Rose,Ruby,Rachel
+medium,multiple,"What is the name of the comic about a young boy, and a tiger who is actually a stuffed animal?",Calvin and Hobbes,Winnie the Pooh,Albert and Pogo,Peanuts
+hard,multiple,"In 1978, Superman teamed up with what celebrity, to defeat an alien invasion?",Muhammad Ali,Mike Tyson,Sylvester Stallone,Arnold Schwarzenegger

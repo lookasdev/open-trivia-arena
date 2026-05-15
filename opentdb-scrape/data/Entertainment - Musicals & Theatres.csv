@@ -1,0 +1,36 @@
+Difficulty,Type,Question,Correct Answer,Wrong 1,Wrong 2,Wrong 3
+hard,multiple,"After England, more Shakespeare plays are set in this present day country than in any other.",Italy,United States,Greece,France
+medium,multiple,"The Andrew Lloyd Webber musical ""Cats"" is based off a book of poems written by which author?",T.S. Elliot,Andrew Lloyd Webber,Emily Dickenson,Robert Frost
+medium,multiple,Who played Marquis de Lafayette and Thomas Jefferson in the original Broadway run of Hamilton?,Daveed Diggs,Lin-Manuel Miranda,Javier Muñoz,Wayne Brady
+hard,multiple,Which of these plays was famously first performed posthumously after the playwright committed suicide?,4.48 Psychosis,Hamilton,Much Ado About Nothing,The Birthday Party
+easy,estimate,What is Jean ValJean's first prisoner number?,24601,9430,1729,32769
+medium,multiple,In which Shakespearean play will you find the suicide of Ophelia?,Hamlet,Macbeth,Othello,King Lear
+easy,boolean,IMAX stands for Image Maximum.,True,False,,
+medium,estimate,"When was the play ""Macbeth"" written?",1606,1605,1723,1628
+easy,multiple,"Who wrote the award winning musical ""In The Heights""?",Lin-Manuel Miranda,Steven Sondheim,Francis Scott Key,John Phillips Sousa
+easy,multiple,"In Shakespeare's play Julius Caesar, Caesar's last words were...","Et tu, Brute? ",Iacta alea est!,"Vidi, vini, vici.",Aegri somnia vana.
+easy,multiple,"""Doctor Who"" star David Tennant performed in a rendition of which Shakespearean play?",Hamlet,The Tempest,Othello,The Taming of the Shrew
+hard,multiple,Who wrote the lyrics for Leonard Bernstein's 1957 Brodway musical West Side Story?,Stephen Sondheim,Himself,Oscar Hammerstein,Richard Rodgers
+hard,multiple,Who serves as the speaker of the prologue in Shakespeare's Romeo and Juliet?,Chorus,Montague,Refrain,Capulet
+medium,multiple,"The World Chess Championship in Chess, Act 1 is set in which Italian city?",Merano,Venice,Milan,Rome
+medium,multiple,Which musical has won the most Tony awards?,The Producers,Hamilton,Chicago,Phantom of the Opera
+hard,multiple,"In Les Misérables, who is Prison Code 24601?",Jean Valjean,Marius Pontmercy,Javert,Jean Claude Van Damme
+medium,multiple,"The musical ""Dirty Rotten Scoundrels"" is set in what country?",France,USA,Germany,Sweden
+medium,multiple,Which of these musicals won the Tony Award for Best Musical?,Rent,The Color Purple,American Idiot,Newsies
+easy,estimate,How many plays is Shakespeare generally considered to have written?,37,18,54,25
+easy,multiple,Who wrote the play 'Angels in America'?,Tony Kusher,Tom Stoppard,Matthew Lopez,Anthony Neilson
+hard,boolean,"The protagonist's names in 'Who's Afraid of Virginia Woolf', George and Martha, were derived from George Washington and his wife.",True,False,,
+medium,multiple,"Who is the musical director for the award winning musical ""Hamilton""?",Alex Lacamoire,Lin-Manuel Miranda,Renee Elise-Goldberry,Leslie Odom Jr.
+hard,multiple,"Who played ""Charlie Price"" in the musical ""Kinky Boots"" on Broadway in New York from May 26th - Aug 6th 2017?",Brendon Urie,Ed Sheeren,Tom Cruise,Dallon Weekes
+medium,multiple,"In which Shakespeare play does the character Marcellus say, ""Something is rotten in the state of Denmark""?",Hamlet,Macbeth,King Lear,Twelfth Night
+medium,multiple,What was George Bizet's last opera?,Carmen,Don Rodrigue,Grisélidis,Les pêcheurs de perles
+hard,multiple,"What is the name of Broadway's first ""long-run"" musical?",The Elves,Wicked,Hamilton,The Book of Mormon
+hard,multiple,"Which actor has NOT portrayed Billy Flynn in the musical ""Chicago""?",Christopher Walken,David Hasselhoff,Jerry Springer,Patrick Swayze
+medium,multiple,"What play is the quote ""Hell is other people"" from?",No Exit,The Devil and the Good Lord,The Condemned of Altona,The Flies
+medium,multiple,Which of the following is not a piece from the 1950's musical West Side Story?,The Back Alley,Maria,Tonight,Mambo
+hard,multiple,"Which Shakespeare play features the stage direction ""Enter a messenger, with two heads and a hand""?",Titus Andronicus,Othello,Macbeth,King Lear
+easy,multiple,"Who wrote the musical ""Hamilton""?",Lin-Manuel Miranda,Andrew Lloyd Webber,Nell Benjamin,Tom Kitt
+easy,multiple,Which Shakespeare play inspired the musical 'West Side Story'?,Romeo & Juliet,Hamlet,Macbeth,Othello
+medium,multiple,"In Jeff Wayne's Musical Version of War of the Worlds, the chances of anything coming from Mars are...",A million to one,A billion to one,A trillion to one,A hundred to one
+hard,multiple,"In Macbeth, the eyes of what animals were used in the Witches' cauldron?",Newts,Humans,Sharks,Squids
+easy,boolean,"In the play Oedipus Rex, Oedipus kills his father due to jealousy in loving his mother.",False,True,,

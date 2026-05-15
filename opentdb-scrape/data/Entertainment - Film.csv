@@ -1,0 +1,302 @@
+Difficulty,Type,Question,Correct Answer,Wrong 1,Wrong 2,Wrong 3
+medium,multiple,What is the correct spelling of the protagonist of the book in The NeverEnding Story (1984)?,Atreyu,Atrayu,Atraiyu,Atraeyu
+hard,multiple,Which sci-fi cult films plot concerns aliens attempting to prevent humans from creating a doomsday weapon?,Plan 9 from Outer Space,The Man from Planet X,It Came from Outer Space,The Day The Earth Stood Still
+hard,multiple,"Which actors made up the trio in ""The Good, the Bad, and the Ugly""? ","Clint Eastwood, Eli Wallach, and Lee Van Cleef","Sergio Leone, Ennio Morricone, and Tonino Delli Colli","Yul Brynner, Steve McQueen, and Charles Bronson","Aldo Giuffrè, Mario Brega, and Luigi Pistilli"
+medium,estimate,In what year was the first Transformers movie released?,1986,2007,1984,2009
+hard,multiple,Which was the first of Alfred Hitchcock's movies to be filmed in colour?,Rope,Psycho,Vertigo,Rebecca
+easy,multiple,"Who is frozen at the end of the movie ""Goldeneye""?",Boris Grishenko,James Bond,Natalya Simonova,Alec Travelyan
+medium,multiple,"In the 1979 British film ""Quadrophenia"" what is the name of the seaside city the mods are visiting?",Brighton,Eastbourne,Mousehole,Bridlington
+medium,boolean,"Joan Cusack starred in the 2009 disaster movie, ""2012"".",False,True,,
+easy,multiple,"Who starred in the film 1973 movie ""Enter The Dragon""?",Bruce Lee,Jackie Chan,Jet Li, Yun-Fat Chow
+medium,multiple,"What is the name of James Dean's character in the 1955 movie ""Rebel Without a Cause""?",Jim Stark,Ned Stark,Jim Kane,Frank Stark
+hard,multiple,"In Big Hero 6, what were Baymax's motions modeled after?",Baby penguins,Baby monkeys,Baby ostriches,Baby bears
+medium,multiple,"What is the name of the foley artist who designed the famous sounds of Star Wars, including Chewbacca's roar and R2-D2's beeps and whistles?",Ben Burtt,Ken Burns,Ralph McQuarrie,Miranda Keyes
+medium,multiple,"Who voices the main character Blu in the 2011 animated film ""Rio""?",Jesse Eisenberg,Michael Cera,Jonah Hill,Zach Galifianakis
+easy,multiple,Which film has been critically regarded as the best film of all time?,Citizen Kane,Avatar,The Godfather Part II,The Room
+easy,multiple,"In ""Jurassic World"", what is the name of the dinosaur that is a genetic hybrid?",Indominus Rex,Mosasaurus,Pteranodon,Tyrannosaurus Rex 
+medium,multiple,"Which famous singer was portrayed by actor Kevin Spacey in the 2004 biographical film ""Beyond the Sea""?",Bobby Darin,Louis Armstrong,Frank Sinatra,Dean Martin
+hard,multiple,Which singer is portrayed by Bruce Campbell in the 2002 film 'Bubba Ho-Tep'?,Elvis Presley,Johnny Cash,"Hank Williams, Sr.",Buddy Holly
+hard,multiple,"Which one of these films did David Lynch direct, but not write?",The Straight Story,Inland Empire,Lost Highway,Twin Peaks Fire Walk With Me
+medium,multiple,Darth Vader's famous reveal to Luke is iconic. But which of these is the right one?,"""No. I am your father.""","""Luke, I am your father.""","""You're wrong. I am your father.""","""The truth is that I am your father."""
+easy,multiple,Who plays Alice in the Resident Evil movies?,Milla Jovovich,Madison Derpe,Milla Johnson,Kim Demp
+hard,multiple,"What is the name of the supercomputer located in the control room in ""Jurassic Park"" (1993)?",Thinking Machines CM-5,Cray X-MP,Cray XK7,IBM Blue Gene/Q
+easy,multiple,What name did Tom Hanks give to his volleyball companion in the film `Cast Away`?,Wilson,Friday,Jones,Billy
+medium,multiple,"In the 1999 movie Fight Club, which of these is not a rule of the ""fight club""?",Always wear a shirt,You do not talk about FIGHT CLUB,Only two guys to a fight,Fights will go on as long as they have to
+hard,estimate,"In the Friday The 13th series, what year did Jason drown in?",1957,1955,1953,1959
+easy,multiple,What was the first James Bond film?,Dr. No,Goldfinger,From Russia With Love,Thunderball
+hard,multiple,"Which actress portrayed Dr. Grace Augustine in the James Cameron movie ""Avatar""?",Sigourney Weaver,Jessica Chastain,Melissa Beckett,Alyssa Monroe 
+medium,multiple,"Who directed the 1973 film ""American Graffiti""?",George Lucas,Ron Howard,Francis Ford Coppola,Steven Spielberg
+hard,estimate,How old was Laurence Fishburne when Francis Ford Coppola cast him in Apocalypse Now (1979)? ,14,16,18,20
+medium,multiple,"Ed Koch, the Mayor of New York in 1984, played himself in which Muppets movie?",The Muppets Take Manhattan,The Great Muppet Caper,The Muppet Christmas Carol,The Muppet Movie
+medium,multiple,"Which documentary film maker wrote and starred in the film ""My Scientology Movie"" which first debuted in 2015?",Louis Theroux,Errol Morris,Joe Berlinger,Adam Curtis
+easy,boolean,"In the original Star Wars trilogy, Alec Guinness provided the voice for Darth Vader.",False,True,,
+medium,multiple,In which African country was the 2006 film 'Blood Diamond' mostly set in?,Sierra Leone,Liberia,Burkina Faso,Central African Republic
+medium,multiple,Which movie of film director Stanley Kubrick is known to be an adaptation of a Stephen King novel?,The Shining,2001: A Space Odyssey, Dr. Strangelove ,Eyes Wide Shut
+easy,multiple,"This movie contains the quote, ""Houston, we have a problem.""",Apollo 13,The Right Stuff,Capricorn One,Marooned
+medium,multiple,"How much money did the 2019 Marvel movie ""Avengers: Endgame"" gross for it's record-breaking worldwide opening weekend?",1.2 billion USD,640 million USD,456 million USD,392 million USD
+easy,boolean,"In the original script of ""The Matrix"", the machines used humans as additional computing power instead of batteries.",True,False,,
+easy,multiple,"In the movie ""Blade Runner"", what is the term used for human-like androids ?",Replicants,Cylons,Synthetics,Skinjobs
+easy,multiple,"""The first rule is: you don't talk about it"" is a reference to which movie?",Fight Club,The Island,Unthinkable,American Pie
+medium,multiple,"Which director directed the movie ""Pan's Labyrinth""?",Guillermo Del Toro,Alfonso Cuarón,Alejandro González Iñárritu, Alejandro Jodorowsky
+easy,boolean,Ewan McGregor did not know the name of the second prequel film of Star Wars during and after filming.,True,False,,
+medium,multiple,Which movie sequel had improved box office results compared to its original film?,Toy Story 2,Sin City: A Dame to Kill For,Speed 2: Cruise Control,Son of the Mask
+medium,multiple,"Which actor played the main character in the 1990 film ""Edward Scissorhands""?",Johnny Depp, Clint Eastwood,Leonardo DiCaprio,Ben Stiller
+hard,multiple,"Which of the following films was directed by Ivan Reitman, written by Gary Ross, featured Kevin Kline, and was released in 1993?",Dave,John,Will,Carl
+hard,boolean,YouTube personality Jenna Marbles served as an executive producer of the film Maximum Ride (2016).,True,False,,
+easy,boolean,Actor Tommy Chong served prison time.,True,False,,
+easy,boolean,"The movie ""The Nightmare before Christmas"" was all done with physical objects.",True,False,,
+hard,multiple,"What was the name of the planet in ""Aliens""?",LV-426,Weyland Yutani Corporation Base,FR-838,DI-621
+medium,multiple,Velma Kelly and Roxie Hart are the protagonists of which Oscar winning movie?,Chicago,Dreamgirls,Cabaret,All That Jazz
+medium,multiple,In which 1973 film does Yul Brynner play a robotic cowboy who malfunctions and goes on a killing spree?,Westworld,Runaway,Android,The Terminators
+medium,multiple,Which of these Disney classics was released in 1970?,The Aristocats,One Hundred and One Dalmatians,The Fox and the Hound,The Little Mermaid
+hard,estimate,"In what year does Jurassic World open in the ""Jurassic Park"" universe?",2005,2007,2015,2020
+medium,multiple,"In the 1979 British film ""Quadrophenia"" what is the name of the main protagonist?",Jimmy Cooper,Pete Townshend,Franc Roddam,Archie Bunker
+easy,multiple,"Which movie contains the quote, ""Say hello to my little friend!""?",Scarface,Reservoir Dogs,Heat,Goodfellas
+medium,multiple,"Peter Jackson's film series ""The Lord of the Rings"" was shot entirely in which country?",New Zealand,Scotland,Canada,Iceland
+easy,multiple,"What is the orange and white bot's name in ""Star Wars: The Force Awakens""?",BB-8,BB-3,AA-A,R2-D2
+medium,multiple,Mark Wahlberg played the titular character of which 2008 video-game adaptation?,Max Payne,Alan Wake,Hitman,God Of War
+easy,multiple,"Who is the main protagonist in, the 1985 film, Back to the Future?",Marty McFly,"Emmett ""Doc"" Brown",Biff Tannen,George McFly
+medium,multiple,"What Queen song plays during the final fight scene of the film ""Hardcore Henry""?",Don't Stop Me Now,Brighton Rock,Another Bites the Dust,We Will Rock You
+easy,multiple,Which actor plays Obi-Wan Kenobi in Star Wars Episodes I-III?,Ewan McGregor,Alec Guinness,Hayden Christensen,Liam Neeson
+easy,multiple,"In the movie ""Spaceballs"", what are the Spaceballs attempting to steal from Planet Druidia?",Air,The Schwartz,Princess Lonestar,Meatballs
+hard,multiple,"What is the name of the assassin in the first ""Hellboy"" movie?",Karl Ruprecht Kroenen,Klaus Werner von Krupt,Grigori Efimovich Rasputin,Ilsa Haupstein
+easy,multiple,What is the name of the fictional retro-mod band starring Austin Powers as the lead vocalist?,Ming Tea,Cough Fi,Spear Mint,Mister E
+easy,multiple,"In the 1992 film ""Army of Darkness"", what name does Ash give to his double-barreled shotgun?",Boomstick,Bloomstick,Blastbranch,2-Pump Chump
+medium,multiple,"What is the name of the first ""Star Wars"" film by release order?",A New Hope,The Phantom Menace,The Force Awakens,Revenge of the Sith
+hard,multiple,What was the wifi password given to Stephen Strange in Doctor Strange?,Shambala,Peace,Ancient,Chakra
+medium,multiple,The killer in the 1981 film 'My Bloody Valentine' wears what sort of outfit?,Mining gear,Clown costume,Santa suit,Police uniform
+medium,boolean,The color of the pills in the Matrix were Blue and Yellow.,False,True,,
+easy,multiple,Who directed the Kill Bill movies?,Quentin Tarantino,Arnold Schwarzenegger,David Lean,Stanley Kubrick
+easy,multiple,"Who directed ""E.T. the Extra-Terrestrial"" (1982)?",Steven Spielberg,Stanley Kubrick,James Cameron,Tim Burton
+medium,multiple,"This movie contains the quote, ""I love the smell of napalm in the morning!""",Apocalypse Now,Platoon,The Deer Hunter,Full Metal Jacket
+medium,multiple,"What is the correct phrase for the Latin saying ""Romanes Eunt Domus"" in Monty Python's Life of Brian?",Romani Ite Domum,Romans Go Home,Roxani Ite Domum,Tomate Ite Domum
+medium,multiple,Which one of these action movies are shot entirely in one take?,Victoria,Ip Man 2,The Bourne Legacy,Léon: The Professional
+medium,boolean,"The movie ""Tron"" received an Oscar nomination for Best Visual Effects.",False,True,,
+medium,multiple,"What is the make and model of the tour vehicles in ""Jurassic Park"" (1993)?",1992 Ford Explorer XLT,1992 Toyota Land Cruiser,1992 Jeep Wrangler YJ Sahar,Mercedes M-Class
+medium,multiple,"The 1939 movie ""The Wizard of Oz"" contained a horse that changed color, what material did they use to achieve this effect?",Gelatin,Dye,Paint,CGI Effect
+medium,multiple,Who is revealed to be the villain at the end of the first live action Scooby Doo movie?,Scrappy Doo,Old Man Mason,The Local News Team,Fred
+easy,boolean,"The film ""2001: A Space Odyssey"" was released on December 31st, 2000.",False,True,,
+medium,multiple,"What type of cheese, loved by Wallace and Gromit, had it's sale prices rise after their successful short films?",Wensleydale,Cheddar,Moon Cheese,Edam
+medium,multiple,"In the 2014 film ""Birdman"", what is the primary instrument in the score?",Drums,Saxophone,Violin,Actual Live Birds Singing
+easy,multiple,"At the end of the 2001 film ""Rat Race"", whose concert do the contestants crash?",Smash Mouth,Bowling for Soup,Sum 41,Linkin Park
+easy,multiple,"Who is the main antagonist of Christopher Nolan's 2012 film ""The Dark Knight Rises""?",Bane,The Joker,CIA,The Riddler
+medium,multiple,"In Finding Nemo, what was the name of Nemo's mom?",Coral,Sandy,Pearl,Shelly
+medium,multiple,Which one of these actors is said to be cut from the film 'E.T. the Extra-Terrestrial'?,Harrison Ford,Michael J. Fox,Andy Kaufman,Arnold Schwarzenegger
+medium,multiple,"Which DC superhero was NOT included in the 2017 movie ""Justice League""?",Green Arrow,Batman,Cyborg,Wonder Woman
+easy,multiple,Which of these movies did Jeff Bridges not star in?,The Hateful Eight,Tron: Legacy,The Giver,True Grit
+hard,multiple,"Before ""Jurassic Park III"" was finalized and the Spinosaurus was chosen, which dinosaur was going to be the star?",Baryonyx,Tyrannosaurus Rex,Velociraptor,Suchomimus
+medium,boolean,"The original ending of ""Little Shop Of Horrors"" has the plants taking over the world.",True,False,,
+medium,multiple,"In the 1984 movie ""The Terminator"", what model number is the Terminator portrayed by Arnold Schwarzenegger?",T-800,I-950,T-888,T-1000
+medium,multiple,Which actor auditioned for the role of Luke Skywalker?,Kurt Russell,Christopher Lambert,Laurence Fishburne,James Remar
+easy,multiple,Which animated movie was first to feature a celebrity as a voice actor?,Aladdin,Toy Story,James and the Giant Peach,The Hunchback of Notre Dame
+easy,boolean,"""Foodfight!"" earned less than $80,000 at box office.",True,False,,
+easy,multiple,The 2016 Disney animated film 'Moana' is based on which culture?,Polynesian,Native American,Japanese,Nordic
+medium,multiple,"In the ""Jurassic Park"" universe, what is the name of the island that contains InGen's Site B?",Isla Sorna,Isla Nublar,Isla Pena,Isla Muerta
+easy,multiple,"Who played the female lead in the 1933 film ""King Kong""?",Fay Wray,Jean Harlow,Vivien Leigh,Mae West
+medium,multiple,"In the 2002 film ""Kung Pow! Enter the Fist"", Master Pain changes his name to what?",Betty,Sally,Amy,Kitty
+medium,boolean,"There aren't any live-action clones in ""Star Wars: Episode III - Revenge of the Sith"".",True,False,,
+medium,multiple,Who did the score to the original Blade Runner?,Vangelis,Kitaro,Yanni,Enya
+easy,multiple,"In the Super Mario Bros. Movie (2023), who plays Toad?",Keegan-Michael Key,Seth Rogan,Charlie Day,Jack Black
+easy,multiple,Where does the original Friday The 13th movie take place?,Camp Crystal Lake,Packanack,Higgins Haven,Camp Forest Green
+medium,multiple,What is the birth name of Michael Caine?,Maurice Micklewhite,Morris Coleman,Carl Myers,Martin Michaels
+medium,multiple,"After India, which country produces the second most movies per year?",Nigeria,United States,China,France
+easy,multiple,"In the 1995 film ""Balto"", who are Steele's accomplices?","Kaltag, Nikki, and Star","Dusty, Kirby, and Ralph","Nuk, Yak, and Sumac","Jenna, Sylvie, and Dixie"
+easy,boolean,Matt Damon played an astronaut stranded on an extraterrestrial planet in both of the movies Interstellar and The Martian.,True,False,,
+medium,multiple,"Who is the director of the 1991 film ""Silence of the Lambs""?",Jonathan Demme,Stanley Kubrick,Frank Darabont,Michael Bay
+easy,multiple,What was Bruce Campbell's iconic one-liner after getting a chainsaw hand in Evil Dead 2?,Groovy.,Gnarly.,Perfect.,Nice.
+hard,estimate,In what year was the first Indian movie submitted for an Oscar?,1957,1962,1938,1954
+medium,multiple,Which Marvel superhero did Chris Evans play prior to his role as Captain America?,Human Torch,Cyclops,Iceman,Daredevil
+medium,multiple,"Brendan Fraser starred in the following movies, except which one?",Titanic,Monkeybone,Encino Man,Mrs. Winterbourne
+hard,multiple,"In what Disney movie can you spot the character ""Pac-Man"" in if you look closely enough in some scenes?",Tron,Big Hero 6,Fantasia,"Monsters, Inc."
+medium,multiple,Which actor and martial artist starred as Colonel Guile in the 1994 action film adaptation of Street Fighter?,Jean-Claude Van Damme,Chuck Norris,Steven Seagal,Scott Adkins
+easy,multiple,"In ""Mean Girls"", who has breasts that tell when it's raining?",Karen Smith,Gretchen Weiners,Janice Ian,Cady Heron
+medium,multiple,"Who provided a majority of the songs and lyrics for ""Spirit: Stallion of the Cimarron""?",Bryan Adams,Smash Mouth,Oasis,Air Supply
+medium,multiple,"Which actor plays the role of the main antagonist in the 2011 movie ""Tower Heist?""",Alan Alda,Eddie Murphy,Alec Baldwin,Kevin Nealon
+medium,multiple,Which of the following James Bond villains is not affiliated with the SPECTRE organization?,Auric Goldfinger,Dr. Julius No,Rosa Klebb,Emilio Largo
+medium,multiple,"In the Friday The 13th series, what is Jason's mother's first name?",Pamela,Mary,Christine,Angeline
+medium,multiple,Johnny Depp made his big-screen acting debut in which film?,A Nightmare on Elm Street,My Bloody Valentine,Halloween,Friday the 13th
+medium,multiple,"In the Mad Max franchise, what type of car is the Pursuit Special driven by Max?",Ford Falcon,Holden Monaro,Chrysler Valiant Charger,Pontiac Firebird
+medium,multiple,"In the movie ""Back to the Future,"" what speed does Doc Brown's DeLorean need to reach in order to travel through time?",88 mph,77 mph,100 mph,70 mph
+medium,multiple,Who voiced the character Draco in the 1996 movie 'DragonHeart'?,Sean Connery,Dennis Quaid,Pete Postlethwaite,Brian Thompson
+medium,multiple,"What is the name of the villian in the 2015 Russian-American Sci-Fi Movie ""Hardcore Henry""?",Akan,Estelle,Jimmy,Henry
+medium,multiple,"What does TIE stand for in reference to the TIE Fighter in ""Star Wars""?",Twin Ion Engine,Twin Iron Engine,Twin Intercepter Engine,Twin Inception Engine
+easy,multiple,Who plays the character of Po in the Kung Fu Panda movies?,Jack Black,Mirana Jonnes,McConahey Ramses,Jim Petersson
+easy,multiple,"In which film does Humphrey Bogart say the famous line, ""Here's looking at you, kid""?",Casablanca,The Maltese Falcon,The Treasure of the Sierra Madre,Citizen Kane
+easy,multiple,The Queen song `A Kind Of Magic` is featured in which 1986 film?,Highlander,Flash Gordon,Labyrinth,Howard the Duck
+medium,multiple,Bela Lugosi was a Hungarian-American actor best known for his starring role of what 1931 horror film?,Count Dracula,Dr Frankenstein,Werewolf,The Creature from the Black Lagoon
+hard,multiple,What was the first movie to ever use a Wilhelm Scream?,Distant Drums,Treasure of the Sierra Madre,The Charge at Feather River,Indiana Jones
+medium,multiple,"About how much money did it cost for Tommy Wiseau to make his masterpiece ""The Room"" (2003)?",$6 Million,"$20,000",$1 Million,$10 Million
+hard,multiple,"What was the name of the actor who played Leatherface in the 1974 horror film, The Texas Chainsaw Massacre?",Gunnar Hansen,Edwin Neal,John Dugan,Joe Bill Hogan
+medium,multiple,"What is the name of the dog that played Toto in the 1939 film ""The Wizard of Oz""?",Terry,Tommy,Teddy,Toto
+hard,estimate,"In the 1976 film 'Taxi Driver', how many guns did Travis buy from the salesman?",4,2,6,1
+hard,multiple,"In order to cut costs, what were most of the extras of Mad Max (1979) paid with?",Beer,Fast food,Food stamps,They weren't paid
+medium,multiple,"In the film ""John Wick"" why does John Wick get out of retirement?",His puppy is killed and his car was stolen,He was punched in the face,He got mugged,He needed money
+medium,multiple,"What American actor directed and co-starred alongside Emily Blunt in 2018's horror film ""A Quiet Place""?",John Krasinski,Keanu Reeves,Willem Dafoe,Josh Brolin
+easy,multiple,"This movie contains the quote, ""I feel the need ... the need for speed!""",Top Gun,Days of Thunder,The Color of Money,Cocktail
+hard,multiple,"In the movie ""Scream"" who is Ghost Face?",Billy Loomis and Stu Macher,Dewey Riley,Sidney Prescott,Archie Prescott and Philip Marv
+medium,estimate,"What year did the movie ""Napoleon Dynamite"" come out?",2004,2002,2003,2005
+medium,multiple,Which of these movies is NOT considered to be part of the Marvel Cinematic Universe?,Fantastic Four (2015), Spider-Man: Homecoming (2017),The Incredible Hulk (2008),Captain Marvel (2019)
+easy,multiple,Which of these Movies was NOT released in 1996?,Gladiator,Independence Day,The Rock,Mission: Impossible
+easy,boolean,"The word ""Inception"" came from the 2010 blockbuster hit ""Inception"".",False,True,,
+easy,multiple,Which of these films is NOT set in Los Angeles?,RoboCop,Blade Runner,The Terminator,Predator 2
+easy,boolean,"Samuel L. Jackson had the words, 'Bad Motherf*cker' in-scripted on his lightsaber during the filming of Star Wars.",True,False,,
+medium,multiple,Which of the following movies was not based on a book?,Citizen Kane,The Godfather,Forrest Gump,Jurassic Park
+hard,multiple,"In the ""Jurassic Park"" universe, what was the first dinosaur cloned by InGen in 1986?",Velociraptor,Triceratops,Troodon,Brachiosaurus
+medium,multiple,"Who played the Cenobite called ""Pinhead"" in the original Hellraiser films?",Doug Bradley,Doug Jones,Doug Savant,Doug Benson
+easy,boolean,"In the original Star Wars: A New Hope, Han Solo is the first to shoot his blaster in a conversation with Greedo.",True,False,,
+hard,multiple,"In 2012, which movie won every category in the 32nd ""Golden Raspberry Awards""?",Jack and Jill,The Girl with the Dragon Tattoo,Thor,The King's Speech
+easy,multiple,Which Batman villain is Mark Hamill known for having voiced?,The Joker,Two-Face,Bane,Hush
+medium,multiple,"In the movie “The Iron Giant,” this character is the protagonist.",Hogarth Hughes,Kent Mansley,Dean McCoppin,Annie Hughes
+medium,multiple,Which retired American football quarterback played himself in 'Ace Ventura: Pet Detective' and 'Little Nicky'?,Dan Marino,John Elway,Tom Brady,Joe Montana
+hard,multiple,"Which 1994 film did Roger Ebert famously despise, saying ""I hated hated hated hated hated this movie"".",North,3 Ninjas Kick Back,The Santa Clause,Richie Rich
+easy,boolean,"Brandon Routh plays the titular character in the movie ""John Wick"".",False,True,,
+medium,boolean,"Sean Connery wasn't in ""Indiana Jones and the Kingdom of the Crystal Skull"" because he found retirement too enjoyable.",True,False,,
+easy,boolean,In Alfred Hitchcock's film 'Psycho' it is said he used chocolate syrup to simulate the blood in the famous shower scene from ,True,False,,
+easy,multiple,Who directed Marvel's Avengers Endgame?,The Russo Brothers,Zack Synder,Josh Whedon,Kevin Feige
+easy,multiple,"Max Schreck, a famous German silent film actor, plays a famous monster in which 1922 film?",Nosferatu,Frankenstein ,The Headless Horseman,Häxan
+easy,multiple,"Which of these actors does NOT appear in the 1998 movie ""Saving Private Ryan""?",Ralph Fiennes,Tom Hanks,Vin Diesel,Matt Damon
+easy,multiple,"What is the name of the island that ""Jurassic Park"" is built on?",Isla Nublar,Isla Sorna,Isla Muerta,Isla Pena
+medium,boolean,"Stanley Kubrick's ""Dr. Strangelove"" (1964) originally ended with a large pie fight in the war room.",True,False,,
+easy,multiple,"Which of the following was not one of ""The Magnificent Seven""?",Clint Eastwood,Steve McQueen,Charles Bronson,Robert Vaughn
+medium,multiple,"Who voiced Metalbeard in ""The Lego Movie""?",Nick Offerman,Liam Neeson,Morgan Freeman,Will Arnet
+medium,multiple,What film did James Cameron's Avatar dethrone as the highest-grossing film ever?,Titanic,Star Wars,Gone with the Wind,Jaws
+medium,multiple,"Who played Baron Victor Frankestein in the 1957 Hammer horror film ""The Curse of Frankenstein""?",Peter Cushing,Boris Karloff,Vincent Price,Lon Chaney Jr.
+easy,boolean,"In the original Star Wars trilogy, David Prowse was the actor who physically portrayed Darth Vader.",True,False,,
+hard,estimate,"In the ""Jurassic Park"" universe, when did ""Jurassic Park: San Diego"" begin construction?",1985,1988,1986,1993
+medium,multiple,"In ""The Hobbit,"" who was head of the White Council? ",Saruman,Lady Galadriel ,Gandalf,Elrond
+hard,multiple,"In ""Star Trek Nemesis"", why was Praetor Shinzon created?",To replace Picard as a Romulan Agent,To destroy the Enterprise,To become Picard's friend ,To steal the Enterprise
+medium,multiple,What is Lilo's last name from Lilo and Stitch?,Pelekai,Anoaʻi,Kealoha,Kuʻulei
+easy,estimate,Which year was the first official Youtube Rewind released?,2010,2012,2011,2013
+easy,multiple," In the 1951 movie ""The Day The Earth Stood Still"" which US city did the alien spaceship land in?",Washington D.C., Los Angeles,New York,Philadelphia
+medium,multiple,Which one of these films are shot entirely in one-take?,Russian Ark,Good Will Hunting,Birdman,Schindler's List
+medium,multiple,"In Back to the Future Part II, Marty and Dr. Emmett Brown go to which future date?","October 21, 2015","August 28, 2015","July 20, 2015","January 25, 2015"
+medium,estimate,"In what year was the movie ""Police Academy"" released?",1984,1986,1985,1983
+medium,multiple,"Which musical artist had a prominent role in the 2017 film ""Kingsman: The Golden Circle""?",Elton John,Lady Gaga,Rihanna,Justin Bieber
+medium,multiple,"In the 1971 film ""Willy Wonka & the Chocolate Factory"", who played Willy Wonka?",Gene Wilder,Shia LeBouf,Peter Ostrum,Johnny Depp
+easy,boolean,"Leonardo DiCaprio won an Oscar for Best Actor in 2004's ""The Aviator"".",False,True,,
+medium,multiple,"What was Marilyn Monroe`s character's first name in the film ""Some Like It Hot""?",Sugar,Honey,Caramel,Candy
+medium,multiple,Which former Star Trek actor directed Three Men and a Baby (1987)?,Leonard Nimoy,William Shatner,George Takei,James Doohan
+easy,multiple,Who portrayed Han Solo in the Star Wars main film series?,Harrison Ford,Peter Cushing,Mark Hamill,Alec Guinness
+easy,multiple,Which of these actors have NOT played Spiderman in the movies?,Michael Cera,Tobey Maguire,Andrew Garfield,Tom Holland
+easy,boolean,George Lucas directed the entire original Star Wars trilogy.,False,True,,
+easy,multiple,The 1996 film 'Fargo' is primarily set in which US state?,Minnesota,North Dakota,South Dakota,Wisconsin
+medium,multiple,What were the Chilled Monkey Brains made from during Indiana Jones and the Temple of Doom?,Custard and Raspberry Sauce,Strawberry Ice Cream,Cherry Yogurt,Raspberry Sorbet
+easy,multiple,"In Big Hero 6, what fictional city is the Big Hero 6 from?",San Fransokyo,San Tokyo,Tokysisco,Sankyo
+hard,multiple,What was the last Marx Brothers film to feature Zeppo?,Duck Soup,A Night at the Opera,A Day at the Races,Monkey Business
+easy,multiple,Which of the following actors has only been in a Quentin Tarantino directed film once?,John Travolta,Christoph Waltz,Harvey Keitel,Samuel L. Jackson
+medium,multiple,"According to the Star Wars lore, what is Han Solo's home planet?",Corellia,Tatooine,Naboo,Coruscant
+easy,multiple,Daniel Radcliffe became a global star in the film industry due to his performance in which film franchise?,Harry Potter,Ted,Spy Kids,Pirates of the Caribbean 
+medium,multiple,"Who played Batman in the 1997 film ""Batman and Robin""?",George Clooney,Michael Keaton,Val Kilmer,Christian Bale
+medium,multiple,What is the name of the robot in the 1951 science fiction film classic 'The Day the Earth Stood Still'?,Gort,Robby,Colossus,Box
+easy,multiple,Which movie released in 2016 features Superman and Batman fighting?,Batman v Superman: Dawn of Justice,Batman v Superman: Superapocalypse,Batman v Superman: Black of Knight,Batman v Superman: Knightfall
+medium,multiple,"Which of the following actors does not play a role in the movie ""The Usual Suspects?""",Steve Buscemi,Kevin Spacey,Benicio Del Toro,Gabriel Byrne
+medium,multiple,In which movie does Robin Williams' character have to disguise themselves into a woman?,Mrs. Doubtfire,Old Dogs,Jumanji,Awakenings
+medium,boolean,"The movie ""The Rocky Horror Picture Show"" (1975) opens with giant floating lips singing the opening song",True,False,,
+hard,estimate,"In what year did Clint Eastwood star as Inspector Harry Callahan in the film ""Dirty Harry""?",1971,1975,1983,1969
+medium,multiple,What is the name of the queen's pet in A Bug's Life?,Aphie,Flik,Hopper,Dot
+easy,multiple,"What was the title of the first Bond movie, released in 1962?",Dr. No,From Russia with Love,Goldfinger,Thunderball
+medium,multiple,"What is the name of the character Nicolas Cage plays in the movie ""National Treasure?""",Benjamin Franklin Gates,Thomas Jefferson Walker,George Washington Swanson,John Quincy Beckett
+easy,multiple,"What superhero has been played in film by actors Michael Keaton, Val Kilmer, George Clooney and Christian Bale?",Batman,Superman,Iron Man,Spiderman
+medium,multiple,"In Mulan (1998), who is the leader of the Huns?",Shan Yu,Chien-Po,Li Shang,Fa Zhou
+medium,multiple,What mutated animals act as monsters in the movie 'Night of the Lepus'?,Rabbits,Dogs,Rats,Bats
+medium,multiple,Which of the following films was NOT directed by Quentin Tarantino?,From Dusk till Dawn,Jackie Brown,Pulp Fiction,Reservoir Dogs
+medium,multiple,Who played Sgt. Gordon Elias in 'Platoon' (1986)?,Willem Dafoe,Charlie Sheen,Matt Damon,Johnny Depp
+easy,multiple,"Which of these actors/actresses is NOT a part of the cast for the 2016 movie ""Suicide Squad""?",Scarlett Johansson,Jared Leto,Will Smith,Margot Robbie
+easy,multiple,"In ""ALF"", what was ALF's real name?",Gordon Shumway,Gordon Milipp,Gordon Foster,Gordon von Gam
+easy,multiple,What was the first feature-length computer-animated movie?,Toy Story,Tron,Lion king,101 Dalmatians
+medium,boolean,"The Xenomorph from the science fiction film ""Alien"" has acidic blood.",True,False,,
+easy,multiple,"Which of the following is not the name of a ""Bond Girl""? ",Vanessa Kensington,Pam Bouvier,Mary Goodnight,Wai Lin
+easy,multiple,"Who starred as Bruce Wayne and Batman in Tim Burton's 1989 movie ""Batman""?",Michael Keaton,George Clooney,Val Kilmer,Adam West
+easy,multiple,"In Avengers: Infinity War, the Reality Stone (aka the Aether) was kept under safe possession by who?",The Collector,Doctor Strange,The Grandmaster,Scarlet Witch
+easy,multiple,"When does ""Rogue One: A Star Wars Story"" take place chronologically in the series?",Between Episode 3 and 4,After Episode 6,Before Episode 1,Between Episode 4 and 5
+hard,multiple,"In the 1974 Christmas flick ""The Year Without a Santa Claus,"" what are the names of the two elves who help Mrs. Claus save Christmas?",Jingle & Jangle,Buddy & Bobby,Holly & Jolly,Snowflake & Icicle
+easy,multiple,What was Dorothy's surname in 'The Wizard Of Oz'?,Gale,Perkins,Day,Parker
+hard,boolean,"The weapon Clint Eastwood uses in ""Dirty Harry"" was a .44 Automag.",False,True,,
+easy,boolean,"The 2010 film ""The Social Network"" is a biographical drama film about MySpace founder Tom Anderson.",False,True,,
+hard,multiple,"What three movies, in order from release date, make up the ""Dollars Trilogy""?","""A Fistful of Dollars"", ""For a Few Dollars More"", ""The Good, the Bad, and the Ugly""","""The Good, the Bad, and the Ugly"", ""For A Few Dollars More"", ""A Fistful of Dollars""","""For a Few Dollars More"", ""The Good, the Bad, and the Ugly"", ""A Fistful of Dollars""","""For a Few Dollars More"", ""A Fistful of Dollars"", ""The Good, the Bad, and the Ugly"""
+easy,multiple,What was the first monster to appear alongside Godzilla?,Anguirus,King Kong,Mothra,King Ghidora
+hard,multiple,"What is the species of the ""Predator"" in the 1987 movie ""Predator""?",Yautja,Xenomorph,Praetorian,Phocrex
+medium,multiple,"Who performed the opening theme song for the James Bond 007 movie ""Goldfinger""?",Shirley Basey,Tom Jones,John Barry,Sheena Easton
+medium,multiple,"In Star Wars, what's the name of the new Government created after the defeat of the Galactic Empire?",The New Republic,The Rebel Alliance,The Crimson Dawn,The First Order
+easy,multiple,"In the movie ""Cast Away"" the main protagonist's best friend while on the island is named",Wilson,Carson,Jackson,Willy
+easy,multiple,"Who played Deputy Marshal Samuel Gerard in the 1993 film ""The Fugitive""?",Tommy Lee Jones,Harrison Ford,Harvey Keitel,Martin Landau
+medium,multiple,"Before getting the shotgun, what did the titular hobo in 'Hobo with a Shotgun' want to purchase?",a lawnmower,a revolver,a guitar,a suit
+hard,multiple,Who Voices the Devil on Devil's Flight in Final Destination 3?,Tony Todd,Wendy Christensen,Ian McKinley,Kevin Fischer
+medium,multiple,Which 1958 movie starred Kirk Douglas and Tony Curtis as half-brothers Einar and Eric?,The Vikings ,The Long Ships,Prince Valiant,Spartacus
+easy,multiple,Which of the following movies was not based on a novel by Stephen King? ,The Thing,Carrie,Misery,The Green Mile
+easy,multiple,"The 2002 film ""28 Days Later"" is mainly set in which European country?",United Kingdom,France,Italy,Germany
+easy,multiple,"Who plays Jack Burton in the movie ""Big Trouble in Little China?""",Kurt Russell,Patrick Swayze,John Cusack,Harrison Ford
+medium,multiple,"Which actor plays the character ""Tommy Jarvis"" in ""Friday the 13th: The Final Chapter"" (1984)?",Corey Feldman,Macaulay Culkin,Mel Gibson,Mark Hamill
+easy,multiple,Which James Bond film had the theme song written and performed by English singer-songwriter Adele?,Skyfall,Casino Royale,Quantum Solace,Spectre
+medium,multiple,Which town is the setting for the Disney movie The Love Bug (1968)?,San Francisco,Los Angeles,Sacramento,San Jose
+easy,multiple,Which movie includes a giant bunny-like spirit who has magic powers including growing trees?,My Neighbor Totoro,Hop,Rise of the Guardians,Alice in Wonderland
+medium,multiple,"Who was the director of ""Scott Pilgrim vs. the World (2010)""?",Edgar Wright,Phil Lord,Chris Miller,Seth Rogan
+hard,multiple,"In Youtuber Jerma985's 2014 film ""Rat Movie: Mystery of the Mayan Treasure,"" who is the man who tries to steal the Mayan Treasure?",Dick Dastardly Richards,"Gabe ""The Glue Man"" Degrossi",Bootleg Duck Dynasty Byeah Batman,Demon Lord Zeraxos
+medium,multiple,Who plays the Nemesis in the Resident Evil movies?,Matthew Taylor,Jason Dip,Eric Mabius,Jimmy Matts
+medium,multiple,What is the birth name of Michael Keaton?,Michael Douglas,Michael Fox,Michael Richards,Michael Kane
+easy,multiple,Which actress danced the twist with John Travolta in 'Pulp Fiction'?,Uma Thurman,Kathy Griffin,Pam Grier,Bridget Fonda
+easy,multiple,Who played Thanos in Avengers: Infinity War and Avengers: End Game?,Josh Brolin,Tom Hiddleston,Adam Sandler,Sean Gunn
+easy,multiple,"Who plays protagonist Ethan Hunt in the ""Mission: Impossible"" film-series?",Tom Cruise,Johnny Depp,Sean Connery,Pierce Brosnan
+medium,estimate,"What year did the James Cameron film ""Titanic"" come out in theaters?",1997,1996,1998,1999
+medium,multiple,"In the 2010 Nightmare on Elm Street reboot, who played Freddy Kruger?",Jackie Earle Haley,Tyler Mane,Derek Mears,Gunnar Hansen
+medium,multiple,"Which stand-up comedian voiced the talking parrot ""Iago"" in Disney's 1992 adaptation of Aladdin?",Gilbert Gottfried,Robin Williams,Pauly Shore,Jonathan Freeman
+hard,multiple,"In the film ""Harry Potter and the Order of The Phoenix"", why was Harry Potter's scream, after Sirius Black died, muted?",Too Agonizing,Too Loud,Too Harsh,Too Violent
+easy,multiple,"What breed of dog was Marley in the film ""Marley & Me"" (2008)?",Labrador Retriever,Golden Retriever,Dalmatian,Shiba Inu
+easy,multiple,What historical time period was the center of the Assassin’s Creed movie (2016)?,Spanish Inquisition,Victorian England,French Revolution,Colonial America
+medium,multiple,"What was another suggested name for, the 1985 film, Back to the Future?",Spaceman From Pluto,Hill Valley Time Travelers,The Time Travelers,The Lucky Man
+medium,multiple,What character in the Winnie the Pooh films was added by Disney and does not appear in the original books?,Gopher,Tigger,Heffalumps,Rabbit
+medium,multiple, In what movie does Eddie Murphy swap identities with Dan Aykroyd?,Trading Places,Ghostbusters,Coming to America,The Blues Brothers
+easy,multiple,"What movie starring Bruce Willis contains the line ""I see dead people""? ",The Sixth Sense,The Fifth Element,Die Hard,Armageddon
+medium,multiple,"What is the name of the Artificial Intelligence system in the 1983 film, ""WarGames""?",War Operation Plan Response,Self Evolving Thought Helix,Master Control Program,West Campus Analog Computer
+easy,multiple,7-Eleven stores were temporarily converted into Kwik E-marts to promote the release of what movie?,The Simpsons Movie,Spider-Man 3,Shrek the Third,Ratatouille
+easy,multiple,What is the oldest Disney film?,Snow White and the Seven Dwarfs,Pinocchio,Dumbo,Fantasia
+medium,multiple,"In ""Jurassic World"", which company purchases InGen and creates Jurassic World?",Masrani Global Corporation ,Biology Synthetics Technologies,International Genetics Incorporated,International Genetic Technologies
+medium,multiple,"In the 2002 film ""Kung Pow! Enter the Fist"", why was Wimp Lo purposely trained wrong?",As a joke,For cheating,Revenge,To test him
+hard,multiple,What did the first moving picture depict?,A galloping horse,A woman in a dress,A man walking,A crackling fire
+medium,multiple,"What city did the monster attack in the film, ""Cloverfield""?","New York, New York","Las Vegas, Nevada","Chicago, Illinois","Orlando, Florida"
+hard,multiple,What was Humphrey Bogart's middle name?,DeForest,DeWinter,Steven,Bryce
+medium,multiple,Which of the following is NOT a quote from the 1942 film Casablanca? ,"""Frankly, my dear, I don't give a damn.""","""Here's lookin' at you, kid.""","“Of all the gin joints, in all the towns, in all the world, she walks into mine…”","""Round up the usual suspects."""
+easy,multiple,"Who in Pulp Fiction says ""No, they got the metric system there, they wouldn't know what the f*** a Quarter Pounder is.""",Vincent Vega,Jules Winnfield,Jimmie Dimmick,Butch Coolidge
+easy,multiple,Who wrote and directed the 1986 film 'Platoon'?,Oliver Stone,Francis Ford Coppola,Stanley Kubrick,Michael Cimino
+medium,multiple,"Which iconic character is featured in movies such as ""The Enforcer"", ""Sudden Impact"", and ""The Dead Pool""?",Dirty Harry,Indiana Jones,James Bond,Harry Potter
+medium,multiple,This trope refers to minor characters that are killed off to show how a monster works.,Red Shirt,Minions,Expendables,Cannon Fodder
+easy,boolean,"Han Solo's co-pilot and best friend, ""Chewbacca"", is an Ewok.",False,True,,
+easy,multiple,"Who directed the 2015 movie ""The Revenant""?",Alejandro G. Iñárritu,Christopher Nolan,David Fincher,Wes Anderson
+hard,boolean,"""Cube"", ""Cube 2: Hypercube"" and ""Cube Zero"" were directed by the same person.",False,True,,
+hard,multiple,Which boxer was famous for striking the gong in the introduction to J. Arthur Rank films?,Bombardier Billy Wells,Freddie Mills,Terry Spinks,Don Cockell
+easy,multiple,"This movie contains the quote, ""Nobody puts Baby in a corner.""",Dirty Dancing,Three Men and a Baby,Ferris Bueller's Day Off,Pretty in Pink
+medium,multiple,"Who plays ""Bruce Wayne"" in the 2008 movie ""The Dark Knight""?",Christian Bale,Michael Caine,Ron Dean,Heath Ledger
+hard,multiple,"What did Alfred Hitchcock use as blood in the film ""Psycho""? ",Chocolate syrup,Ketchup,Red food coloring,Maple syrup
+medium,multiple,"This movie contains the quote, ""What we've got here is a failure to communicate.""",Cool Hand Luke,Bonnie and Clyde,The Graduate,In the Heat of the Night
+easy,multiple,"In the Lord of the Rings: The Two Towers, where are the party of orcs taking the hobbits?",Isengard,Rivendell,Mordor,Moria
+hard,multiple,Which movie did NOT feature the late actor John Candy?,Ghostbusters,Little Shop Of Horrors,Home Alone,Planes Trains and Automobiles
+hard,multiple,"According to ""Star Wars"" lore, which planet does Obi-Wan Kenobi come from?",Stewjon,Alderaan,Tatooine,Naboo
+hard,multiple,"In the 1964 film ""Zulu"", what song does the British Army company sing before the final battle?",Men of Harlech,Scotland the Brave,Colonel Bogey March,The British Grenadiers
+easy,multiple,"Who is the protagonist of the 2002 film ""Kung Pow! Enter the Fist""?",Chosen One,Dragon King,Iron Monkey,Master Tang
+medium,multiple,"In the 1994 movie ""Speed"", what is the minimum speed the bus must go to prevent to bomb from exploding?",50 mph,60 mph,40 mph,70 mph
+medium,multiple,Which animated film did Steven Lisberger direct in 1980 before going on to direct Tron?,Animalympics,The Fox and the Hound,The Black Cauldron,The Great Mouse Detecive
+medium,multiple,"Which star actor was in ""Top Gun"", ""Jerry Maguire"" and ""Born on the Fourth of July""?",Tom Cruise,Kelly McGillis,John Travolta,George Clooney
+medium,multiple,"Which 90's comedy cult classic features cameos appearances from Meat Loaf, Alice Cooper and Chris Farley?",Wayne's World,Bill & Ted's Excellent Adventure,Dumb and Dumber,Austin Powers: International Man of Mystery
+easy,estimate,When was the movie 'Con Air' released?,1997,1985,1999,1990
+easy,multiple,"Who directed the 2017 movie ""The Shape of Water""?",Guillermo del Toro,Steven Spielberg,James Cameron,Martin Scorsese
+easy,boolean,"""Minions"" was released on the June 10th, 2015.",False,True,,
+medium,multiple,"In the film ""Requiem for a Dream"", what drug does Jared Leto's character get addicted to?",Heroin,Cocaine,Marijuana,Oxycodone
+medium,multiple,Leonardo Di Caprio won his first Best Actor Oscar for his performance in which film?,The Revenant,The Wolf Of Wall Street,Shutter Island,Inception
+medium,multiple,"In Tron: Legacy, Kevin Flynn wrote a program to create the perfect system. What was the program's name?",Clu,Tron,MCP,Quorra
+easy,multiple,"In Avengers: Infinity War, where was the Soul Stone located?",Vormir,Xandar,Knowhere,Asgard
+easy,boolean,"In the movie The Revenant, DiCaprio's character hunts down the killer of his son.",True,False,,
+easy,multiple,"Who directed the movies ""Pulp Fiction"", ""Reservoir Dogs"" and ""Django Unchained""?",Quentin Tarantino,Martin Scorcese,Steven Spielberg,James Cameron
+hard,multiple,"In the film ""Interstellar"", how long did they spend on Miller's planet?","23 years, 4 months, and 8 days","15 years, 2 months, and 15 days",10 months and 6 days,"26 years, 4 months, and 10 days"
+easy,multiple,"In the 1986 film ""The Wraith"", what concept car is used for the Turbo Interceptor?",Dodge M4S,Pontiac Banshee,General Motors Firebird,Dodge Copperhead
+hard,multiple,What was the first superhero film James Gunn was involved with?,The Specials,Super,Guardians of the Galaxy,Brightburn
+medium,multiple,In which 1955 film does Frank Sinatra play Nathan Detroit?,Guys and Dolls,Anchors Aweigh,From Here to Eternity,High Society
+easy,multiple,"In the movie Gremlins, after what time of day should you not feed Mogwai?",Midnight,Evening,Morning,Afternoon
+easy,multiple,"In the 2012 film, ""The Lorax"", who is the antagonist?",Aloysius O'Hare,Ted Wiggins,The Once-Ler,Grammy Norma
+medium,multiple,Actress Susan Sarandon caught pneumonia during filming of which movie?,The Rocky Horror Picture Show,Thelma and Louise,Dead Man Walking,Enchanted
+medium,multiple,What was the name of the protagonist in the movie Commando (1985)?,John Matrix,Ben Richards,Douglas Quaid,Harry Tasker
+easy,boolean,"Shaquille O'Neal appeared in the 1997 film ""Space Jam"".",False,True,,
+medium,multiple,"Who directed the movie ""Alien""?",Ridley Scott,Christopher Nolan,Michael Bay,James Cameron
+easy,multiple,"For the film ""Raiders of The Lost Ark"", what was Harrison Ford sick with during the filming of the Cairo chase?",Dysentery,Anemia,Constipation,Acid Reflux 
+medium,multiple,"In The Lord of the Rings: The Fellowship of the Ring, which one of the following characters from the book was left out of the film?",Tom Bombadil,Strider,Barliman Butterbur,Celeborn
+easy,multiple,"In the movie ""V for Vendetta,"" what is the date that masked vigilante ""V"" urges people to remember?",November 5th,November 6th,November 4th,September 5th
+hard,multiple,The film Mad Max: Fury Road features the Dies Irae  from which composer's requiem?,Verdi,Mozart,Berlioz,Brahms
