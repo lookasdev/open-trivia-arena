@@ -10,6 +10,7 @@ from asgiref.sync import sync_to_async
 from channels.auth import login
 from channels.db import database_sync_to_async
 from channels.generic.websocket import AsyncJsonWebsocketConsumer
+from django.conf import settings
 from django.contrib.auth import get_user_model
 from django.core.exceptions import PermissionDenied, ValidationError
 from django.db.models import Q
@@ -34,6 +35,7 @@ ACTIVE_MATCH_STATES = [
     MatchState.DUEL,
     MatchState.BASE_SIEGE,
 ]
+PLAYER_ACTIVITY_TIMEOUT = timedelta(minutes=settings.PLAYER_NAME_INACTIVITY_MINUTES)
 
 MATCH_PRESENCE: dict[str, dict[int, int]] = defaultdict(dict)
 MATCH_PRESENCE_LOCK = Lock()
@@ -90,6 +92,7 @@ def serialize_directory_lobby(lobby: Lobby) -> dict:
 class GuestPlayerMixin:
     async def ensure_player(self):
         self.player = await self._ensure_player()
+        self.player = await self._touch_player_activity(self.player.id)
         self.player_group_name = f"player_{self.player.id}"
 
     async def _ensure_player(self):
@@ -124,14 +127,36 @@ class GuestPlayerMixin:
     @database_sync_to_async
     def _get_player_by_guest_token(self, guest_token):
         try:
-            return Player.objects.get(guest_token=guest_token, is_guest=True)
+            player = Player.objects.get(guest_token=guest_token, is_guest=True)
         except Player.DoesNotExist:
             return None
+        if player.updated_at >= timezone.now() - PLAYER_ACTIVITY_TIMEOUT:
+            return player
+        if self._player_has_active_game_state(player.id):
+            return player
+        return None
 
     @database_sync_to_async
     def _create_guest_player(self):
         stamp = timezone.now().strftime("%Y%m%d%H%M%S%f")
         return Player.objects.create_user(username=f"guest-{stamp}", password=None, is_guest=True)
+
+    @database_sync_to_async
+    def _touch_player_activity(self, player_id):
+        Player.objects.filter(pk=player_id).update(updated_at=timezone.now())
+        return Player.objects.get(pk=player_id)
+
+    def _player_has_active_game_state(self, player_id):
+        in_active_lobby = Lobby.objects.filter(
+            (Q(host_id=player_id) | Q(guest_id=player_id)),
+            state__in=ACTIVE_LOBBY_STATES,
+        ).exists()
+        if in_active_lobby:
+            return True
+        return Match.objects.filter(
+            (Q(player1_id=player_id) | Q(player2_id=player_id)),
+            current_state__in=ACTIVE_MATCH_STATES,
+        ).exists()
 
 
 class MatchmakingConsumer(GuestPlayerMixin, AsyncJsonWebsocketConsumer):
@@ -171,6 +196,7 @@ class MatchmakingConsumer(GuestPlayerMixin, AsyncJsonWebsocketConsumer):
             await self.channel_layer.group_discard(self.lobby_group_name, self.channel_name)
 
     async def receive_json(self, content, **kwargs):
+        self.player = await self._touch_player_activity(self.player.id)
         action = content.get("action")
         if action == "set_profile":
             await self._handle_set_profile(content)
@@ -204,7 +230,10 @@ class MatchmakingConsumer(GuestPlayerMixin, AsyncJsonWebsocketConsumer):
     async def _handle_set_profile(self, content):
         display_name = str(content.get("display_name", "")).strip()
         if len(display_name) < 2 or len(display_name) > 32:
-            await self.send_json({"type": "error", "message": "Name must be 2-32 characters."})
+            await self.send_json({"type": "error", "code": "display_name_invalid", "message": "Name must be 2-32 characters."})
+            return
+        if await self._display_name_in_use(self.player.id, display_name):
+            await self.send_json({"type": "error", "code": "display_name_in_use", "message": "That player name is already in use. Choose a different one."})
             return
         self.player = await self._update_player_display_name(self.player.id, display_name)
         await self.send_json({"type": "profile.updated", "player": self._serialize_player(self.player)})
@@ -513,6 +542,24 @@ class MatchmakingConsumer(GuestPlayerMixin, AsyncJsonWebsocketConsumer):
             "lobby_count": len(active_lobbies),
             "match_count": len(active_matches),
         }
+
+    @database_sync_to_async
+    def _display_name_in_use(self, player_id, display_name):
+        cutoff = timezone.now() - PLAYER_ACTIVITY_TIMEOUT
+        return (
+            Player.objects.exclude(pk=player_id)
+            .filter(display_name__iexact=display_name)
+            .filter(
+                Q(is_guest=False)
+                | Q(updated_at__gte=cutoff)
+                | Q(hosted_lobbies__state__in=ACTIVE_LOBBY_STATES)
+                | Q(joined_lobbies__state__in=ACTIVE_LOBBY_STATES)
+                | Q(matches_as_player1__current_state__in=ACTIVE_MATCH_STATES)
+                | Q(matches_as_player2__current_state__in=ACTIVE_MATCH_STATES)
+            )
+            .distinct()
+            .exists()
+        )
 
     @database_sync_to_async
     def _update_player_display_name(self, player_id, display_name):
@@ -851,6 +898,7 @@ class MatchConsumer(GuestPlayerMixin, AsyncJsonWebsocketConsumer):
                 await self._broadcast_lobby_directory()
 
     async def receive_json(self, content, **kwargs):
+        self.player = await self._touch_player_activity(self.player.id)
         action = content.get("action")
         if action == "submit_answer":
             await self._handle_input(content, input_action="submit_answer", value=str(content.get("answer", "")).strip())

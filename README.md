@@ -172,7 +172,7 @@ docker compose down --remove-orphans
 
 ## Fresh start mode
 
-Guest players and lobbies are intentionally persistent until you clear them. For demos, local testing, or recorded runs, the web container supports a one-shot fresh-start flag on boot.
+Guest players and lobbies are intentionally persistent until you clear them. The web container supports a one-shot fresh-start flag on boot. (configurable in the env file as well)
 
 Normal startup:
 
@@ -200,6 +200,12 @@ What gets cleared:
 - all lobbies
 - all guest players
 
+Name handling notes:
+
+- display names are checked automatically about 1 second after typing stops
+- duplicate-name errors stay local to the name field
+- guest display-name reservations expire after `PLAYER_NAME_INACTIVITY_MINUTES` of inactivity, unless that player is still in an active lobby, match or just connected to the web page
+
 The reset runs once per web-container boot, after migrations and before Gunicorn/Daphne start.
 
 You can also run the reset manually:
@@ -224,45 +230,6 @@ Frontend production build:
 ```powershell
 Set-Location frontend
 npm run build
-```
-
-## Netlify deployment
-
-The frontend is static and can be deployed to Netlify.
-
-### Build the frontend
-
-From `frontend/`:
-
-```bash
-npm install
-npm run build
-```
-
-Upload `frontend/dist/` to Netlify.
-
-### Point the frontend to the backend
-
-Create `frontend/.env.production` from `frontend/.env.production.example` and set:
-
-```bash
-VITE_WS_BASE=wss://your-ngrok-subdomain.ngrok-free.app
-```
-
-The frontend speaks to the backend over websocket URLs directly, so `wss://...` is the correct public target.
-
-### Expose the backend with ngrok
-
-Expose only the websocket backend port:
-
-```bash
-ngrok http 3000
-```
-
-Then allow that hostname in `.env`:
-
-```bash
-DJANGO_ALLOWED_HOSTS=localhost,127.0.0.1,your-ngrok-subdomain.ngrok-free.app
 ```
 
 ## Questions and content

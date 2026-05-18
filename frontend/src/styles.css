@@ -269,6 +269,27 @@ select:focus {
   box-shadow: 0 0 0 4px rgba(78, 183, 255, 0.12);
 }
 
+.input-error {
+  border-color: rgba(201, 122, 114, 0.9);
+  box-shadow: 0 0 0 1px rgba(201, 122, 114, 0.18) inset;
+}
+
+.name-validation-copy {
+  margin-top: 10px;
+}
+
+.name-validation-checking {
+  color: var(--gold);
+}
+
+.name-validation-error {
+  color: var(--red);
+}
+
+.name-validation-ready {
+  color: var(--green);
+}
+
 .chip-grid {
   display: flex;
   flex-wrap: wrap;

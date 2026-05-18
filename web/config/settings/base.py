@@ -7,6 +7,7 @@ WEB_DIR = Path(__file__).resolve().parents[2]
 
 SECRET_KEY = os.getenv("DJANGO_SECRET_KEY", "unsafe-dev-secret-key")
 DEBUG = os.getenv("DJANGO_DEBUG", "1") == "1"
+PLAYER_NAME_INACTIVITY_MINUTES = max(1, int(os.getenv("PLAYER_NAME_INACTIVITY_MINUTES", "30")))
 
 ALLOWED_HOSTS = [host.strip() for host in os.getenv("DJANGO_ALLOWED_HOSTS", "localhost,127.0.0.1").split(",") if host.strip()]
 

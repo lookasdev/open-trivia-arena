@@ -473,7 +473,19 @@ function ActiveLobbyList({ lobbies, onJoin }) {
   );
 }
 
-function IdentityAndLobbyForm({ formState, setFormState, options, onCreateLobby, onJoinLobby, onShowActiveLobbies, onResetIdentity, status, connected }) {
+function IdentityAndLobbyForm({
+  formState,
+  setFormState,
+  options,
+  onCreateLobby,
+  onJoinLobby,
+  onShowActiveLobbies,
+  onResetIdentity,
+  onDisplayNameChange,
+  nameValidation,
+  status,
+  connected,
+}) {
   const categories = options.categories || [];
   const questionTypes = options.question_types || [];
   const difficulties = options.difficulties || [];
@@ -494,10 +506,16 @@ function IdentityAndLobbyForm({ formState, setFormState, options, onCreateLobby,
           <span>Displayed name</span>
           <input
             value={formState.displayName}
-            onChange={(event) => setFormState((current) => ({ ...current, displayName: event.target.value }))}
+            onChange={(event) => onDisplayNameChange(event.target.value)}
             placeholder="Pick a visible name"
+            className={nameValidation.state === "error" ? "input-error" : ""}
           />
         </label>
+        {nameValidation.message ? (
+          <p className={`field-hint name-validation-copy name-validation-${nameValidation.state}`}>
+            {nameValidation.message}
+          </p>
+        ) : null}
         <p className="status-copy menu-status-copy">{connected ? status : "Waiting for websocket connection..."}</p>
         <div className="stack-actions identity-actions">
           <button type="button" className="secondary-btn" onClick={onResetIdentity} disabled={!connected}>
@@ -517,7 +535,7 @@ function IdentityAndLobbyForm({ formState, setFormState, options, onCreateLobby,
           />
         </label>
         <div className="stack-actions">
-          <button type="button" className="secondary-btn" onClick={onJoinLobby} disabled={!connected}>
+          <button type="button" className="secondary-btn" onClick={onJoinLobby} disabled={!connected || nameValidation.state === "checking"}>
             Join Lobby
           </button>
           <button type="button" className="secondary-btn" onClick={onShowActiveLobbies} disabled={!connected}>
@@ -664,7 +682,7 @@ function IdentityAndLobbyForm({ formState, setFormState, options, onCreateLobby,
           </select>
         </label>
         <div className="builder-actions">
-          <button type="button" className="primary-btn" onClick={onCreateLobby} disabled={!connected}>
+          <button type="button" className="primary-btn" onClick={onCreateLobby} disabled={!connected || nameValidation.state === "checking"}>
             Create Lobby
           </button>
           <p className="field-hint builder-hint">Leave all unchecked for any setting.</p>
@@ -812,6 +830,7 @@ export default function App() {
   const [lobbyStartWindow, setLobbyStartWindow] = useState(null);
   const [lobbyStartCountdown, setLobbyStartCountdown] = useState({ label: "00:00", progress: 0 });
   const [formState, setFormState] = useState(INITIAL_FORM_STATE);
+  const [nameValidation, setNameValidation] = useState({ state: "idle", message: "" });
 
   const lobbySocketRef = useRef(null);
   const matchSocketRef = useRef(null);
@@ -821,10 +840,46 @@ export default function App() {
   const finalStandTimerRef = useRef(null);
   const soundEffectsRef = useRef({});
   const suppressMatchCloseRef = useRef(false);
+  const displayNameRef = useRef("");
+  const nameCheckTargetRef = useRef("");
 
   useEffect(() => {
     matchRef.current = match;
   }, [match]);
+
+  useEffect(() => {
+    displayNameRef.current = formState.displayName.trim();
+  }, [formState.displayName]);
+
+  useEffect(() => {
+    if (!connected) return undefined;
+    const desiredName = formState.displayName.trim();
+    if (desiredName.length < 2 || desiredName.length > 32) {
+      nameCheckTargetRef.current = "";
+      if (nameValidation.state === "checking") {
+        setNameValidation({ state: "idle", message: "" });
+      }
+      return undefined;
+    }
+    if (player?.display_name === desiredName) {
+      if (nameCheckTargetRef.current || nameValidation.state !== "ready") {
+        nameCheckTargetRef.current = "";
+        setNameValidation({ state: "ready", message: "Name ready" });
+      }
+      return undefined;
+    }
+    if (nameCheckTargetRef.current === desiredName && nameValidation.state !== "idle") {
+      return undefined;
+    }
+
+    const timeoutId = window.setTimeout(() => {
+      nameCheckTargetRef.current = desiredName;
+      setNameValidation({ state: "checking", message: "Checking name..." });
+      sendLobby({ action: "set_profile", display_name: desiredName });
+    }, 1000);
+
+    return () => window.clearTimeout(timeoutId);
+  }, [connected, formState.displayName, player?.display_name, nameValidation.state]);
 
   function pushEvent(type, message) {
     setEvents((current) => [{ id: crypto.randomUUID(), type, message }, ...current].slice(0, 30));
@@ -853,6 +908,21 @@ export default function App() {
       ...current,
       displayName: current.displayName || nextPlayer.display_name || "",
     }));
+  }
+
+  function handleDisplayNameChange(nextValue) {
+    setFormState((current) => ({ ...current, displayName: nextValue }));
+    const trimmedValue = nextValue.trim();
+    nameCheckTargetRef.current = "";
+    if (!trimmedValue) {
+      setNameValidation({ state: "idle", message: "" });
+      return;
+    }
+    if (trimmedValue === player?.display_name) {
+      setNameValidation({ state: "ready", message: "Name ready" });
+      return;
+    }
+    setNameValidation({ state: "idle", message: "" });
   }
 
   function sendLobby(payload) {
@@ -1036,6 +1106,8 @@ export default function App() {
       onMessage: (payload) => {
         if (payload.type === "connection.ready") {
           updatePlayer(payload.player);
+          nameCheckTargetRef.current = "";
+          setNameValidation({ state: "idle", message: "" });
           setOptions(payload.options || { categories: [], question_types: [], difficulties: [], map_sizes: [], battle_round_options: [], game_speed_options: [] });
           setActiveLobbies(payload.active_lobbies || []);
           pushEvent("connection.ready", `Signed in as ${payload.player.display_name}.`);
@@ -1043,6 +1115,8 @@ export default function App() {
         }
         if (payload.type === "profile.reset") {
           updatePlayer(payload.player);
+          nameCheckTargetRef.current = "";
+          setNameValidation({ state: "idle", message: "" });
           setFormState(INITIAL_FORM_STATE);
           setLobby(null);
           setMatch(null);
@@ -1064,6 +1138,10 @@ export default function App() {
         }
         if (payload.type === "profile.updated") {
           updatePlayer(payload.player);
+          if (!displayNameRef.current || displayNameRef.current === payload.player.display_name || nameCheckTargetRef.current === payload.player.display_name) {
+            nameCheckTargetRef.current = "";
+            setNameValidation({ state: "ready", message: "Name ready" });
+          }
           pushEvent("profile.updated", `Name set to ${payload.player.display_name}.`);
           return;
         }
@@ -1138,7 +1216,15 @@ export default function App() {
           return;
         }
         if (payload.type === "error") {
-          setStatus(payload.message);
+          const isDisplayNameError = payload.code === "display_name_in_use" || payload.code === "display_name_invalid";
+          if (payload.code === "display_name_in_use") {
+            setNameValidation({ state: "error", message: "Name already in use. Choose a different one." });
+          } else if (payload.code === "display_name_invalid") {
+            setNameValidation({ state: "error", message: payload.message });
+          }
+          if (!isDisplayNameError) {
+            setStatus(payload.message);
+          }
           pushEvent("error", payload.message);
         }
       },
@@ -1503,10 +1589,23 @@ export default function App() {
       setStatus("Choose a visible name before joining or creating a lobby.");
       return false;
     }
-    if (player?.display_name !== desiredName) {
+    if (player?.display_name === desiredName) {
+      return true;
+    }
+    if (nameValidation.state === "checking") {
+      setStatus("Wait for the name check to finish.");
+      return false;
+    }
+    if (nameValidation.state === "error" && nameCheckTargetRef.current === desiredName) {
+      return false;
+    }
+    if (nameCheckTargetRef.current !== desiredName || nameValidation.state === "idle") {
+      nameCheckTargetRef.current = desiredName;
+      setNameValidation({ state: "checking", message: "Checking name..." });
       sendLobby({ action: "set_profile", display_name: desiredName });
     }
-    return true;
+    setStatus("Finish choosing an available name first.");
+    return false;
   }
 
   function createLobby() {
@@ -1637,6 +1736,8 @@ export default function App() {
               options={options}
               onCreateLobby={createLobby}
               onJoinLobby={joinLobby}
+              onDisplayNameChange={handleDisplayNameChange}
+              nameValidation={nameValidation}
               onResetIdentity={resetIdentity}
               onShowActiveLobbies={() => {
                 requestLobbyDirectory();
