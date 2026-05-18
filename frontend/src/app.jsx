@@ -401,7 +401,7 @@ function QuestionPanel({
       </div>
       <h3>{question.text}</h3>
       <p className="question-meta">
-        {question.category || "Mixed"} . {question.question_type.replaceAll("_", " ")}
+        {question.category || "Mixed"} . {formatDifficultyLabel(question.difficulty)} . {question.question_type.replaceAll("_", " ")}
       </p>
       {showCountdown && (
         <div className="timer-track">
